@@ -4,6 +4,9 @@ Information and links about Epic's Verse programming language
 "Verse is being designed as a programming language for the metaverse, with upcoming features to enable future scalability to *vast open worlds built by millions of creators for billions of players*. Verse is launching in Fortnite today, and will come to all Unreal Engine users a couple years down the road."
 https://www.unrealengine.com/en-US/blog/dive-into-epic-s-announcements-from-gdc-2023
 
+Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few people should start their Verse learning journey by examining the design.
+
+[Beyond Functional Programming: The Verse Programming Language (Simon Peyton Jones)](https://www.youtube.com/watch?v=832JF1o7Ck8)
 
 Note that currently, the only way to compile and run Verse programs is within the UEFN editing environment. Verse will eventually beccome standard in all vwersions of Unreal in order to provide increased security and massive scale, which is essential to supporting a MetaVerse.
 
