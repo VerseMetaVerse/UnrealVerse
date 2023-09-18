@@ -1,9 +1,21 @@
 # VerseInfo
 Information and links about Epic's Verse programming language
 
-Verse is a new programming language that will eventually beccome standard in all vwersions of Unreal in order to provide increased security and massive scale.
+"Verse is being designed as a programming language for the metaverse, with upcoming features to enable future scalability to *vast open worlds built by millions of creators for billions of players*. Verse is launching in Fortnite today, and will come to all Unreal Engine users a couple years down the road."
+https://www.unrealengine.com/en-US/blog/dive-into-epic-s-announcements-from-gdc-2023
 
-Note that currently, the only way to compile and run Verse programs is within the UEFN editing environment.
+
+Note that currently, the only way to compile and run Verse programs is within the UEFN editing environment. Verse will eventually beccome standard in all vwersions of Unreal in order to provide increased security and massive scale, which is essential to supporting a MetaVerse.
+
+Delivering the first version of of Verse as Unreal Editor for Fortnite (UEFN) means that there are 3 sub systems of concern in making a Verse program:
+
+- The Verse Language itself
+- An interface API to Unreal
+- An interface API to Fornite
+
+Every Verse project generates 3 digest files that correspond to that
+
+## Books and Reference
 
 A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it here](https://verse-book.netlify.app/verse/)
 
@@ -27,3 +39,8 @@ FAB.COM eventually to replace Marketplce, currently works in UEFN [https://creat
 ## Education
 
 The amazing Fortnite Sensei [https://www.youtube.com/@fortnite_sensei]
+
+
+## Misc Verse code on Github
+
+
