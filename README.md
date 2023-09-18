@@ -21,6 +21,7 @@ Every Verse project generates 3 digest files that correspond to that
 ## Books and Reference
 
 A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it here](https://verse-book.netlify.app/verse/)
+- The book has an NPC Dialog Example: https://verse-book.netlify.app/examples/custom-npc-dialog/
 
 ## Other link repos
 - [https://github.com/spilth/awesome-verse]
