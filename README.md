@@ -19,6 +19,11 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 ## Asset Store
 FAB.COM eventually to replace Marketplce, currently works in UEFN [https://create.fortnite.com/news/spotlight-fab-content-added-to-uefn-in-august-2023?isWelcome=true&team=personal]
 
+## UEFN Fortnite Islands on Github
+
+- For Temple: https://github.com/pheobus78/UEFN_ForTemple and access it at https://www.fortnite.com/creative/island-codes/9444-4916-7452
+- Cyber Tag: https://github.com/ViktorNorman/Cyber-Tag and access it at https://www.fortnite.com/creative/island-codes/0045-2606-3270
+
 ## Education
 
 The amazing Fortnite Sensei [https://www.youtube.com/@fortnite_sensei]
