@@ -34,7 +34,11 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - [Visual Verse](https://twitter.com/UnrealVerseGuru/status/1636691915927171072)
 
 ## Asset Store
-FAB.COM eventually to replace Marketplce, currently works in UEFN [https://create.fortnite.com/news/spotlight-fab-content-added-to-uefn-in-august-2023?isWelcome=true&team=personal]
+- [FAB.COM](https://www.fab.com) eventually to replace Marketplce, currently works in UEFN [https://create.fortnite.com/news/spotlight-fab-content-added-to-uefn-in-august-2023?isWelcome=true&team=personal]
+- [Announcing Fab, an Evolution of the Unreal Engine Marketplace](https://forums.unrealengine.com/t/announcing-fab-an-evolution-of-the-unreal-engine-marketplace/795198)
+- [Announcing Fab, the Next Phase for Sketchfab](https://sketchfab.com/blogs/community/announcing-fab-the-next-phase-for-sketchfab)
+- [ANNOUNCING A NEW CHAPTER FOR QUIXEL](https://quixel.com/blog/2023/3/22/announcing-a-new-chapter-for-quixel)
+- [Introducing Fab – A Unified Creator Marketplace from Epic Games](https://magazine.artstation.com/2023/03/introducing-fab/)
 
 ## UEFN Fortnite Islands on Github
 
