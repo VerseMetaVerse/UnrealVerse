@@ -77,15 +77,26 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - https://www.reddit.com/r/VerseUnreal/
 - https://www.reddit.com/r/FortniteCreative/
 - Tracking UEFN versions - https://github.com/Mast3rGamers/UEFN-releases
-- 
+- https://github.com/Tevtongermany/UEFN-Assets-Gallery/wiki
 
 ## Misc Verse code on Github
+
+This list is NOT curated but it might be useful to you since it is surprisingly hard to search for Verse code repos on Github due to name congestion (Bible verse) and the lack of a GitHub language type for Verse
 
 - https://github.com/kbfngg/uefn
 - https://github.com/kbfngg/verse-modules
 - https://github.com/Petlja/demo_uefn_mini_games
 - https://github.com/svarelanic/LightsPuzzle
 - UEFN Devices - https://github.com/sanxfxteam/uefn-devices
+- https://github.com/futouyiba/UefnVerseCode
+- https://github.com/ppmasa8/UEFN_Verse_practice
+- https://github.com/CristovaoVictorOLM/UEFN-MAP-PICTURES-AND-VERSE-CODE
+- https://github.com/imaginarycomponent/RedVsBlueSample
+- https://github.com/jack-whatley/uefn-weather-code
+- https://github.com/Klenky/Verse-UEFN-Practice
+- https://github.com/benmac0/UEFN
+- https://github.com/Halforctimelord/UEFN-Verse-CreatureSpawner
+- https://github.com/RedAvengerYT/VerseScriptsUEFN
 - 
 
 
