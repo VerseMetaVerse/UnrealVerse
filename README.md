@@ -8,6 +8,7 @@ Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few peopl
 
 - [Beyond functional programming: a taste of Verse. Simon Peyton Jones & Tim Sweeney Lambda Days 2023](https://www.youtube.com/watch?v=OJv8rFap0Nw)
 - [Beyond Functional Programming: The Verse Programming Language (Simon Peyton Jones)](https://www.youtube.com/watch?v=832JF1o7Ck8)
+- Simon Peyton Jones - https://simon.peytonjones.org
 
 Note that currently, the only way to compile and run Verse programs is within the UEFN editing environment. Verse will eventually beccome standard in all vwersions of Unreal in order to provide increased security and massive scale, which is essential to supporting a MetaVerse.
 
