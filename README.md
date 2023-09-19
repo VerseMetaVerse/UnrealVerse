@@ -25,6 +25,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 
 - The book has an NPC Dialog Example: https://verse-book.netlify.app/examples/custom-npc-dialog/
 
+
 ## Articles
 
 - [Getting Started with Verse in UEFN](https://www.chrismccole.com/blog/getting-started-with-uefn-and-verse-unreal-engine-fortnite-creator-20)
