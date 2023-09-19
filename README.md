@@ -44,6 +44,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 ## Other link repos
 - Awesom Verse (not updated) https://github.com/spilth/awesome-verse
 - UnrealVerseGuru https://github.com/UnrealVerseGuru/VerseProgrammingLanguage https://www.reddit.com/user/UnrealVerseGuru/
+- UEFN Verse Library - https://github.com/IslandArchitekt/UEFN-Verse-Library
 
 
 
@@ -98,7 +99,9 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - https://github.com/benmac0/UEFN
 - https://github.com/Halforctimelord/UEFN-Verse-CreatureSpawner
 - https://github.com/RedAvengerYT/VerseScriptsUEFN
-- 
+- https://github.com/AitorWesterhof/PublicUEFNScripts
+- https://github.com/mattyatea/uefn
+- https://github.com/IslandArchitekt/UEFN-Verse-Library
 
   
 
