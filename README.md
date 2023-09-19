@@ -78,6 +78,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - https://www.reddit.com/r/FortniteCreative/
 - Tracking UEFN versions - https://github.com/Mast3rGamers/UEFN-releases
 - https://github.com/Tevtongermany/UEFN-Assets-Gallery/wiki
+- 
 
 ## Misc Verse code on Github
 
@@ -98,5 +99,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - https://github.com/Halforctimelord/UEFN-Verse-CreatureSpawner
 - https://github.com/RedAvengerYT/VerseScriptsUEFN
 - 
+
+  
 
 
