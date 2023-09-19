@@ -60,7 +60,11 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 
 ## Education
 
-The amazing Fortnite Sensei [https://www.youtube.com/@fortnite_sensei]
+- The [Fortnite Sensei](https://www.youtube.com/@fortnite_sensei) 
+  - from the amazing Unreal Sensei - https://www.youtube.com/@unrealsensei
+  - https://www.unrealsensei.com/
+- Warforge https://www.youtube.com/@WarforgeXP
+  
 
 
 ## Misc Verse code on Github
