@@ -21,6 +21,8 @@ Delivering the first version of of Verse as Unreal Editor for Fortnite (UEFN) me
 
 Every Verse project generates 3 digest files that correspond to that
 
+- https://github.com/LemonGamingFN/uefn-verse-digests
+
 ## Visual Verse
 
 - Verse will function like C++ currently does and a new layer with a concept like Blueprints will be coming
@@ -40,8 +42,8 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - [Type system of Fortnite's Verse language](https://brianmckenna.org/blog/verse_types)
 
 ## Other link repos
-- [https://github.com/spilth/awesome-verse]
-- [https://github.com/UnrealVerseGuru/VerseProgrammingLanguage]
+- Awesom Verse (not updated) https://github.com/spilth/awesome-verse
+- UnrealVerseGuru https://github.com/UnrealVerseGuru/VerseProgrammingLanguage https://www.reddit.com/user/UnrealVerseGuru/
 
 
 
@@ -64,9 +66,26 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
   - from the amazing Unreal Sensei - https://www.youtube.com/@unrealsensei
   - https://www.unrealsensei.com/
 - Warforge https://www.youtube.com/@WarforgeXP
+- Pi Equals Three https://www.youtube.com/@piequalsthree3200
+  - https://github.com/PiEqualsThree/UEFN-Tutorials
   
+## Misc
 
+- [Max size of a UEFN Island/Map](https://twitter.com/UnrealVerseGuru/status/1638972673249144858) from [UnrealVerseGuru on Musk Platform](https://twitter.com/UnrealVerseGuru)
+- https://www.reddit.com/r/uefn/
+- https://www.reddit.com/user/UnrealVerseGuru/
+- https://www.reddit.com/r/VerseUnreal/
+- https://www.reddit.com/r/FortniteCreative/
+- Tracking UEFN versions - https://github.com/Mast3rGamers/UEFN-releases
+- 
 
 ## Misc Verse code on Github
+
+- https://github.com/kbfngg/uefn
+- https://github.com/kbfngg/verse-modules
+- https://github.com/Petlja/demo_uefn_mini_games
+- https://github.com/svarelanic/LightsPuzzle
+- UEFN Devices - https://github.com/sanxfxteam/uefn-devices
+- 
 
 
