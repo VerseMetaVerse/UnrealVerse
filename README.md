@@ -21,6 +21,11 @@ Delivering the first version of of Verse as Unreal Editor for Fortnite (UEFN) me
 
 Every Verse project generates 3 digest files that correspond to that
 
+## Visual Verse
+
+- Verse will function like C++ currently does and a new layer with a concept like Blueprints will be coming
+- [Visual Verse](https://twitter.com/UnrealVerseGuru/status/1636691915927171072) from [UnrealVerseGuru](https://github.com/UnrealVerseGuru/VerseProgrammingLanguage)
+
 ## Books and Reference
 
 A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it here](https://verse-book.netlify.app/verse/)
@@ -39,10 +44,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - [https://github.com/UnrealVerseGuru/VerseProgrammingLanguage]
 
 
-## Visual Verse
 
-- Verse will function like C++ currently does and a new layer with a concept like Blueprints will be coming
-- [Visual Verse](https://twitter.com/UnrealVerseGuru/status/1636691915927171072)
 
 ## Asset Store
 - [FAB.COM](https://www.fab.com) eventually to replace Marketplce, currently works in UEFN [https://create.fortnite.com/news/spotlight-fab-content-added-to-uefn-in-august-2023?isWelcome=true&team=personal]
