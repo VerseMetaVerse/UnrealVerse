@@ -25,9 +25,16 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 
 - The book has an NPC Dialog Example: https://verse-book.netlify.app/examples/custom-npc-dialog/
 
+## Articles
+
+- [Getting Started with Verse in UEFN](https://www.chrismccole.com/blog/getting-started-with-uefn-and-verse-unreal-engine-fortnite-creator-20)
+- [Publishing your UEFN project to Fortnite - Releasing Our First Fortnite UEFN Island](https://www.chrismccole.com/blog/releasing-our-first-fortnite-uefn-game)
+- [Type system of Fortnite's Verse language](https://brianmckenna.org/blog/verse_types)
+
 ## Other link repos
 - [https://github.com/spilth/awesome-verse]
 - [https://github.com/UnrealVerseGuru/VerseProgrammingLanguage]
+
 
 ## Visual Verse
 
