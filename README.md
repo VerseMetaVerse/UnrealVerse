@@ -24,6 +24,7 @@ Every Verse project generates 3 digest files that correspond to that
 
 - https://github.com/LemonGamingFN/uefn-verse-digests
 
+
 ## Visual Verse
 
 - Verse will function like C++ currently does and a new layer with a concept like Blueprints will be coming
@@ -61,10 +62,12 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - [ANNOUNCING A NEW CHAPTER FOR QUIXEL](https://quixel.com/blog/2023/3/22/announcing-a-new-chapter-for-quixel)
 - [Introducing Fab – A Unified Creator Marketplace from Epic Games](https://magazine.artstation.com/2023/03/introducing-fab/)
 
+
 ## UEFN Fortnite Islands on Github
 
 - For Temple: https://github.com/pheobus78/UEFN_ForTemple and access it at https://www.fortnite.com/creative/island-codes/9444-4916-7452
 - Cyber Tag: https://github.com/ViktorNorman/Cyber-Tag and access it at https://www.fortnite.com/creative/island-codes/0045-2606-3270
+
 
 ## Education
 
@@ -79,6 +82,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 
 - UEFN - https://store.epicgames.com/en-US/p/fortnite--uefn
 - VSCode extension: Visual Reference Explorer & Helper for Verse - https://github.com/cronofear-dev/VerseReferenceExplorer
+
 
 ## Alternate Implementations
 
