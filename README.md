@@ -49,7 +49,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 
 
 
-## Asset Store
+## FAB.COM Asset Store
 - [FAB.COM](https://www.fab.com) eventually to replace Marketplce, currently works in UEFN [https://create.fortnite.com/news/spotlight-fab-content-added-to-uefn-in-august-2023?isWelcome=true&team=personal]
 - [Announcing Fab, an Evolution of the Unreal Engine Marketplace](https://forums.unrealengine.com/t/announcing-fab-an-evolution-of-the-unreal-engine-marketplace/795198)
 - [Announcing Fab, the Next Phase for Sketchfab](https://sketchfab.com/blogs/community/announcing-fab-the-next-phase-for-sketchfab)
@@ -70,6 +70,11 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - Pi Equals Three https://www.youtube.com/@piequalsthree3200
   - https://github.com/PiEqualsThree/UEFN-Tutorials
   
+## Tools
+
+- UEFN
+- VSCode extension: Visual Reference Explorer & Helper for Verse - https://github.com/cronofear-dev/VerseReferenceExplorer
+
 ## Misc
 
 - [Max size of a UEFN Island/Map](https://twitter.com/UnrealVerseGuru/status/1638972673249144858) from [UnrealVerseGuru on Musk Platform](https://twitter.com/UnrealVerseGuru)
