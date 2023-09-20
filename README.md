@@ -8,7 +8,8 @@ Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few peopl
 
 - [Beyond functional programming: a taste of Verse. Simon Peyton Jones & Tim Sweeney Lambda Days 2023](https://www.youtube.com/watch?v=OJv8rFap0Nw)
 - [Beyond Functional Programming: The Verse Programming Language (Simon Peyton Jones)](https://www.youtube.com/watch?v=832JF1o7Ck8)
-- Simon Peyton Jones - https://simon.peytonjones.org
+- Simon Peyton Jones - https://simon.peytonjones.org [Verse Calculus ](https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf) https://en.wikipedia.org/wiki/Lambda_calculus
+- Verse programming language showcased https://www.youtube.com/watch?v=Xon9r3piIIw&t=251s
   
 
 Note that currently, the only way to compile and run Verse programs is within the UEFN editing environment. Verse will eventually beccome standard in all vwersions of Unreal in order to provide increased security and massive scale, which is essential to supporting a MetaVerse.
@@ -43,7 +44,14 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 
 ## Other link repos
 - Awesom Verse (not updated) https://github.com/spilth/awesome-verse
-- UnrealVerseGuru https://github.com/UnrealVerseGuru/VerseProgrammingLanguage https://www.reddit.com/user/UnrealVerseGuru/
+- UnrealVerseGuru https://github.com/UnrealVerseGuru/VerseProgrammingLanguage
+    - https://github.com/UnrealVerseGuru
+    - https://www.youtube.com/@UnrealVerseGuru
+    - https://unrealverseguru.github.io
+    - https://www.reddit.com/user/UnrealVerseGuru/
+    - https://www.reddit.com/r/VerseUnreal/
+    - https://twitter.com/UnrealVerseGuru
+    - 
 - UEFN Verse Library - https://github.com/IslandArchitekt/UEFN-Verse-Library
 
 ## FAB.COM Asset Store
@@ -69,7 +77,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
   
 ## Tools
 
-- UEFN
+- UEFN - https://store.epicgames.com/en-US/p/fortnite--uefn
 - VSCode extension: Visual Reference Explorer & Helper for Verse - https://github.com/cronofear-dev/VerseReferenceExplorer
 
 ## Misc
@@ -81,7 +89,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - https://www.reddit.com/r/FortniteCreative/
 - Tracking UEFN versions - https://github.com/Mast3rGamers/UEFN-releases
 - https://github.com/Tevtongermany/UEFN-Assets-Gallery/wiki
-- 
+- A mini-Verse implementation - https://github.com/gregr/experiments/tree/master/verse
 
 ## Misc Verse code on Github
 
