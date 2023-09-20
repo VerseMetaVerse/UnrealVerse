@@ -46,9 +46,6 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - UnrealVerseGuru https://github.com/UnrealVerseGuru/VerseProgrammingLanguage https://www.reddit.com/user/UnrealVerseGuru/
 - UEFN Verse Library - https://github.com/IslandArchitekt/UEFN-Verse-Library
 
-
-
-
 ## FAB.COM Asset Store
 - [FAB.COM](https://www.fab.com) eventually to replace Marketplce, currently works in UEFN [https://create.fortnite.com/news/spotlight-fab-content-added-to-uefn-in-august-2023?isWelcome=true&team=personal]
 - [Announcing Fab, an Evolution of the Unreal Engine Marketplace](https://forums.unrealengine.com/t/announcing-fab-an-evolution-of-the-unreal-engine-marketplace/795198)
