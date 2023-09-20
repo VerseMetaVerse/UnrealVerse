@@ -85,6 +85,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - A mini-Verse implementation - https://github.com/gregr/experiments/tree/master/verse
 - Verse Interpreter - https://github.com/Benson-sama/Verse-Interpreter
 - Experiments with the Verse Calculus in miniKanren - https://github.com/webyrd/wreckto-verseo
+- Verse Compiler - https://github.com/Elioby/VerseCompiler
 
 ## Epic Docs
 
