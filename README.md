@@ -80,6 +80,55 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - UEFN - https://store.epicgames.com/en-US/p/fortnite--uefn
 - VSCode extension: Visual Reference Explorer & Helper for Verse - https://github.com/cronofear-dev/VerseReferenceExplorer
 
+## Epic Reference
+
+- [Verse API Reference](https://dev.epicgames.com/documentation/en-us/uefn/verse-api)
+- [Specifiers and Attributes](https://dev.epicgames.com/documentation/en-us/uefn/specifiers-and-attributes-in-verse)
+- [Fortnite Forum Verse](https://forums.unrealengine.com/tags/c/development-discussion/programming-scripting/verse/196/fortnite)
+- [What's New in Unreal Editor for Fortnite](https://dev.epicgames.com/documentation/en-us/uefn/whats-new-in-unreal-editor-for-fortnite)
+- [Verse Language Reference](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference)
+- [Learn Programming with Verse](https://dev.epicgames.com/documentation/en-us/uefn/learn-programming-with-verse-in-unreal-editor-for-fortnite)
+- [Collaborating in Unreal Editor for Fortnite](https://dev.epicgames.com/documentation/en-us/uefn/collaborating-in-unreal-editor-for-fortnite)
+- [Unreal Revision Control](https://dev.epicgames.com/documentation/en-us/uefn/unreal-revision-control-in-unreal-editor-for-fortnite)
+- [Creating Teams in Creator Portal](https://dev.epicgames.com/documentation/en-us/uefn/creating-teams-in-creator-portal-in-unreal-editor-for-fortnite)
+- [Get Started with UEFN](https://dev.epicgames.com/community/fortnite/getting-started/uefn)
+- [Learn Game Mechanics](https://dev.epicgames.com/documentation/en-us/uefn/learn-game-mechanics-in-unreal-editor-for-fortnite)
+- [Fortnite Forum FAB](https://forums.unrealengine.com/tags/c/development-discussion/fab-alpha/195/fortnite)
+- [Unreal Editor for Fortnite Documentation](https://dev.epicgames.com/documentation/en-us/uefn/unreal-editor-for-fortnite-documentation)
+- [Import from the Fab Marketplace](https://dev.epicgames.com/documentation/en-us/uefn/import-from-fab-in-unreal-editor-for-fortnite)
+- [Unreal Forum Fortnite](https://forums.unrealengine.com/tags/intersection/unreal-engine/fortnite)
+- [Modules and Paths](https://dev.epicgames.com/documentation/en-us/uefn/modules-and-paths-in-verse)
+- [Composite Types](https://dev.epicgames.com/documentation/en-us/uefn/composite-types-in-verse)
+- [Container Types](https://dev.epicgames.com/documentation/en-us/uefn/container-types-in-verse)
+- [Time Flow and Concurrency](https://dev.epicgames.com/documentation/en-us/uefn/concurrency-in-verse)
+- [Control Flow](https://dev.epicgames.com/documentation/en-us/uefn/control-flow-in-verse)
+- [Failure](https://dev.epicgames.com/documentation/en-us/uefn/failure-in-verse)
+- [Functions](https://dev.epicgames.com/documentation/en-us/uefn/functions-in-verse)
+- [Expressions](https://dev.epicgames.com/documentation/en-us/uefn/expressions-in-verse)
+- [Verse Codex](https://forums.unrealengine.com/t/verse-codex-naming-conventions-program-structure-code-clarity/838073) [on GitHub](https://github.com/UnrealVerseGuru/VerseProgrammingLanguage/blob/main/UEFN%20Verse/UEFN_VerseCodex.md)
+- [Snippets Repository](https://dev.epicgames.com/community/fortnite/snippets)
+- [Get Started with Verse](https://dev.epicgames.com/community/fortnite/getting-started/verse)
+- [Verse Language Quick Reference](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-quick-reference)
+- [Build a Game](https://dev.epicgames.com/documentation/en-us/uefn/build-a-game-in-unreal-editor-for-fortnite)
+- [Sample Project and Feature Example Templates](https://dev.epicgames.com/documentation/en-us/uefn/sample-projects-and-templates-in-unreal-editor-for-fortnite)
+- [Verse Detonation Template](https://dev.epicgames.com/documentation/en-us/uefn/verse-detonation-template-in-unreal-editor-for-fortnite)
+- [Verse Elimination Template](https://dev.epicgames.com/documentation/en-us/uefn/verse-elimination-template-in-unreal-editor-for-fortnite)
+- [Verse Parkour Template](https://dev.epicgames.com/documentation/en-us/uefn/verse-parkour-template-in-unreal-editor-for-fortnite)
+- [Animation 101 Template](https://dev.epicgames.com/documentation/en-us/uefn/animation-101-template-in-unreal-editor-for-fortnite)
+- [Deserted: Domination Template](https://dev.epicgames.com/documentation/en-us/uefn/deserted-domination-template-in-unreal-editor-for-fortnite)
+- [User Interface](https://dev.epicgames.com/documentation/en-us/uefn/getting-to-know-the-user-interface-in-unreal-editor-for-fortnite)
+- [Animation and Cinematics](https://dev.epicgames.com/documentation/en-us/uefn/animation-and-cinematics-in-unreal-editor-for-fortnite)
+- [Constructor](https://dev.epicgames.com/documentation/en-us/uefn/constructor-in-verse)
+- [Devices](https://dev.epicgames.com/documentation/en-us/uefn/devices-in-unreal-editor-for-fortnite)
+- [Environments and Landscapes](https://dev.epicgames.com/documentation/en-us/uefn/environments-and-landscapes-in-unreal-editor-for-fortnite)
+- [In-Game User Interfaces](https://dev.epicgames.com/documentation/en-us/uefn/creating-in-game-ui-in-verse)
+- [Visual Effects](https://dev.epicgames.com/documentation/en-us/uefn/visual-effects-in-unreal-editor-for-fortnite)
+- [Lighting](https://dev.epicgames.com/documentation/en-us/uefn/lighting-in-unreal-editor-for-fortnite)
+- [Materials](https://dev.epicgames.com/documentation/en-us/uefn/materials-in-unreal-editor-for-fortnite)
+- [Modeling](https://dev.epicgames.com/documentation/en-us/uefn/modeling-in-unreal-editor-for-fortnite)
+- [Audio](https://dev.epicgames.com/documentation/en-us/uefn/audio-in-unreal-editor-for-fortnite)
+ 
+
 ## Misc
 
 - [Max size of a UEFN Island/Map](https://twitter.com/UnrealVerseGuru/status/1638972673249144858) from [UnrealVerseGuru on Musk Platform](https://twitter.com/UnrealVerseGuru)
@@ -113,6 +162,14 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - https://github.com/mattyatea/uefn
 - https://github.com/IslandArchitekt/UEFN-Verse-Library
 
-  
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()  
 
 
