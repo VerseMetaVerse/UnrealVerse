@@ -80,6 +80,11 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - UEFN - https://store.epicgames.com/en-US/p/fortnite--uefn
 - VSCode extension: Visual Reference Explorer & Helper for Verse - https://github.com/cronofear-dev/VerseReferenceExplorer
 
+## Alternate Implementations
+
+- A mini-Verse implementation - https://github.com/gregr/experiments/tree/master/verse
+- Verse Interpreter - https://github.com/Benson-sama/Verse-Interpreter
+
 ## Epic Docs
 
 ### Epic Forums
@@ -153,7 +158,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - https://www.reddit.com/r/FortniteCreative/
 - Tracking UEFN versions - https://github.com/Mast3rGamers/UEFN-releases
 - https://github.com/Tevtongermany/UEFN-Assets-Gallery/wiki
-- A mini-Verse implementation - https://github.com/gregr/experiments/tree/master/verse
+
 
 ## Misc Verse code on Github
 
