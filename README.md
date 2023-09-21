@@ -85,7 +85,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 Misc NOT tested
 - VSCode extension: Visual Reference Explorer & Helper for Verse - https://github.com/cronofear-dev/VerseReferenceExplorer
 - https://github.com/m1sjo/vsCode-verse-language-extension
-
+- https://github.com/Manifest-Git/verse-extension
 
 ## Alternate Implementations
 
