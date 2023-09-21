@@ -90,6 +90,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - Verse Interpreter - https://github.com/Benson-sama/Verse-Interpreter
 - Experiments with the Verse Calculus in miniKanren - https://github.com/webyrd/wreckto-verseo
 - Verse Compiler - https://github.com/Elioby/VerseCompiler
+- Verse Interpreter (Python) - https://github.com/Marcel-TO/Verse-Interpreter-in-Python
 
 ## Epic Docs
 
