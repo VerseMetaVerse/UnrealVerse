@@ -12,7 +12,7 @@ Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few peopl
 - Verse programming language showcased https://www.youtube.com/watch?v=Xon9r3piIIw&t=251s
   
 
-Note that currently, the only way to compile and run Verse programs is within the UEFN editing environment. Verse will eventually beccome standard in all vwersions of Unreal in order to provide increased security and massive scale, which is essential to supporting a MetaVerse.
+Note that currently, the only way to compile and run Verse programs is within the UEFN editing environment. (See below for a list of experimental Veres) Verse will eventually beccome standard in all vwersions of Unreal in order to provide increased security and massive scale, which is essential to supporting a MetaVerse.
 
 Delivering the first version of of Verse as Unreal Editor for Fortnite (UEFN) means that there are 3 sub systems of concern in making a Verse program:
 
@@ -87,7 +87,7 @@ Misc NOT tested
 - https://github.com/m1sjo/vsCode-verse-language-extension
 - https://github.com/Manifest-Git/verse-extension
 
-## Alternate Implementations
+## Verse Experimental Alternate Implementations
 
 - A mini-Verse implementation - https://github.com/gregr/experiments/tree/master/verse
 - Verse Interpreter - https://github.com/Benson-sama/Verse-Interpreter
