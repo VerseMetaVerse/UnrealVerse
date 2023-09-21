@@ -95,7 +95,7 @@ Misc NOT tested
 - Verse Compiler - https://github.com/Elioby/VerseCompiler
 - Verse Interpreter (Python) - https://github.com/Marcel-TO/Verse-Interpreter-in-Python
 - Verse Interpreter (Haskel) - https://github.com/michifueby/Verse-Interpreter
-- WIP - An abstract machine for the Verse language - https://github.com/ejconlon/lyric
+- WIP - An abstract machine for the Verse language [Eric Conlon](https://ericconlon.com) - https://github.com/ejconlon/lyric
 
 
 
