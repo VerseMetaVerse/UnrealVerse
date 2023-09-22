@@ -81,6 +81,8 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 ## Tools
 
 - Epic UEFN - https://store.epicgames.com/en-US/p/fortnite--uefn
+- Visual Studio Code - used by UEFN to edit Verse code - https://code.visualstudio.com - https://en.wikipedia.org/wiki/Visual_Studio_Code
+
 
 Misc NOT tested
 - VSCode extension: Visual Reference Explorer & Helper for Verse - https://github.com/cronofear-dev/VerseReferenceExplorer
