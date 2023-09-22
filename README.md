@@ -12,7 +12,7 @@ Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few peopl
 - Verse programming language showcased https://www.youtube.com/watch?v=Xon9r3piIIw&t=251s
   
 
-Note that currently, the only way to compile and run Verse programs is within the UEFN editing environment. (See below for a list of experimental Veres) Verse will eventually beccome standard in all vwersions of Unreal in order to provide increased security and massive scale, which is essential to supporting a MetaVerse.
+Note that currently, the only way to compile and run Verse programs is within the UEFN editing environment. (See below for a list of experimental Veres) Verse will eventually beccome standard in all versions of Unreal in order to provide increased security and massive scale, which is essential to supporting a MetaVerse.
 
 Delivering the first version of of Verse as Unreal Editor for Fortnite (UEFN) means that there are 3 sub systems of concern in making a Verse program:
 
@@ -69,7 +69,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - Cyber Tag: https://github.com/ViktorNorman/Cyber-Tag and access it at https://www.fortnite.com/creative/island-codes/0045-2606-3270
 
 
-## Education
+## Verse and UEFN Education
 
 - The [Fortnite Sensei](https://www.youtube.com/@fortnite_sensei) 
   - from the amazing Unreal Sensei - https://www.youtube.com/@unrealsensei
@@ -87,7 +87,7 @@ Misc NOT tested
 - https://github.com/m1sjo/vsCode-verse-language-extension
 - https://github.com/Manifest-Git/verse-extension
 
-## Verse Experimental Alternate Implementations
+## Verse Experimental User Implementations
 
 - A mini-Verse implementation - https://github.com/gregr/experiments/tree/master/verse
 - Verse Interpreter - https://github.com/Benson-sama/Verse-Interpreter
@@ -163,7 +163,7 @@ Misc NOT tested
 
  
 
-## Misc
+## Misc Info
 
 - [Max size of a UEFN Island/Map](https://twitter.com/UnrealVerseGuru/status/1638972673249144858) from [UnrealVerseGuru on Musk Platform](https://twitter.com/UnrealVerseGuru)
 - https://www.reddit.com/r/uefn/
@@ -176,7 +176,7 @@ Misc NOT tested
 
 ## Misc Verse code on Github
 
-This list is NOT curated but it might be useful to you since it is surprisingly hard to search for Verse code repos on Github due to name congestion (Bible verse) and the lack of a GitHub language type for Verse
+This list is NOT curated but it might be useful to you since it is surprisingly hard to search for Verse code repos on Github due to name congestion (any topic with a -verse e.g. SpiderVerse) and the lack of a GitHub language type for Verse
 
 - https://github.com/kbfngg/uefn
 - https://github.com/kbfngg/verse-modules
