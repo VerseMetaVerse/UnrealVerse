@@ -133,28 +133,8 @@ Misc NOT tested
     - [Constructor](https://dev.epicgames.com/documentation/en-us/uefn/constructor-in-verse)
 
 
-  
-### Epic Intro
+### Epic Specific How To
 
-
-
-- [What's New in Unreal Editor for Fortnite](https://dev.epicgames.com/documentation/en-us/uefn/whats-new-in-unreal-editor-for-fortnite)
-- [Learn Programming with Verse](https://dev.epicgames.com/documentation/en-us/uefn/learn-programming-with-verse-in-unreal-editor-for-fortnite)
-- [Collaborating in Unreal Editor for Fortnite](https://dev.epicgames.com/documentation/en-us/uefn/collaborating-in-unreal-editor-for-fortnite)
-- [Unreal Revision Control](https://dev.epicgames.com/documentation/en-us/uefn/unreal-revision-control-in-unreal-editor-for-fortnite)
-- [Creating Teams in Creator Portal](https://dev.epicgames.com/documentation/en-us/uefn/creating-teams-in-creator-portal-in-unreal-editor-for-fortnite)
-- [Get Started with UEFN](https://dev.epicgames.com/community/fortnite/getting-started/uefn)
-- [Learn Game Mechanics](https://dev.epicgames.com/documentation/en-us/uefn/learn-game-mechanics-in-unreal-editor-for-fortnite)
-- [Unreal Editor for Fortnite Documentation](https://dev.epicgames.com/documentation/en-us/uefn/unreal-editor-for-fortnite-documentation)
-- [Import from the Fab Marketplace](https://dev.epicgames.com/documentation/en-us/uefn/import-from-fab-in-unreal-editor-for-fortnite)
-- [Get Started with Verse](https://dev.epicgames.com/community/fortnite/getting-started/verse)
-- [Build a Game](https://dev.epicgames.com/documentation/en-us/uefn/build-a-game-in-unreal-editor-for-fortnite)
-- [Sample Project and Feature Example Templates](https://dev.epicgames.com/documentation/en-us/uefn/sample-projects-and-templates-in-unreal-editor-for-fortnite)
-- [Verse Detonation Template](https://dev.epicgames.com/documentation/en-us/uefn/verse-detonation-template-in-unreal-editor-for-fortnite)
-- [Verse Elimination Template](https://dev.epicgames.com/documentation/en-us/uefn/verse-elimination-template-in-unreal-editor-for-fortnite)
-- [Verse Parkour Template](https://dev.epicgames.com/documentation/en-us/uefn/verse-parkour-template-in-unreal-editor-for-fortnite)
-- [Animation 101 Template](https://dev.epicgames.com/documentation/en-us/uefn/animation-101-template-in-unreal-editor-for-fortnite)
-- [Deserted: Domination Template](https://dev.epicgames.com/documentation/en-us/uefn/deserted-domination-template-in-unreal-editor-for-fortnite)
 - [User Interface](https://dev.epicgames.com/documentation/en-us/uefn/getting-to-know-the-user-interface-in-unreal-editor-for-fortnite)
 - [Animation and Cinematics](https://dev.epicgames.com/documentation/en-us/uefn/animation-and-cinematics-in-unreal-editor-for-fortnite)
 - [Devices](https://dev.epicgames.com/documentation/en-us/uefn/devices-in-unreal-editor-for-fortnite)
@@ -165,6 +145,34 @@ Misc NOT tested
 - [Materials](https://dev.epicgames.com/documentation/en-us/uefn/materials-in-unreal-editor-for-fortnite)
 - [Modeling](https://dev.epicgames.com/documentation/en-us/uefn/modeling-in-unreal-editor-for-fortnite)
 - [Audio](https://dev.epicgames.com/documentation/en-us/uefn/audio-in-unreal-editor-for-fortnite)
+- [Create Your Own Device in Verse](https://dev.epicgames.com/documentation/en-us/uefn/create-your-own-device-in-verse)
+- [Learn Game Mechanics](https://dev.epicgames.com/documentation/en-us/uefn/learn-game-mechanics-in-unreal-editor-for-fortnite) 
+- [Build a Game](https://dev.epicgames.com/documentation/en-us/uefn/build-a-game-in-unreal-editor-for-fortnite)
+
+
+
+### Epic Templates
+
+- [Sample Project and Feature Example Templates](https://dev.epicgames.com/documentation/en-us/uefn/sample-projects-and-templates-in-unreal-editor-for-fortnite)
+- [Verse Detonation Template](https://dev.epicgames.com/documentation/en-us/uefn/verse-detonation-template-in-unreal-editor-for-fortnite)
+- [Verse Elimination Template](https://dev.epicgames.com/documentation/en-us/uefn/verse-elimination-template-in-unreal-editor-for-fortnite)
+- [Verse Parkour Template](https://dev.epicgames.com/documentation/en-us/uefn/verse-parkour-template-in-unreal-editor-for-fortnite)
+- [Animation 101 Template](https://dev.epicgames.com/documentation/en-us/uefn/animation-101-template-in-unreal-editor-for-fortnite)
+- [Deserted: Domination Template](https://dev.epicgames.com/documentation/en-us/uefn/deserted-domination-template-in-unreal-editor-for-fortnite)
+
+### Epic Intro
+
+
+
+- [What's New in Unreal Editor for Fortnite](https://dev.epicgames.com/documentation/en-us/uefn/whats-new-in-unreal-editor-for-fortnite)
+- [Learn Programming with Verse](https://dev.epicgames.com/documentation/en-us/uefn/learn-programming-with-verse-in-unreal-editor-for-fortnite)
+- [Collaborating in Unreal Editor for Fortnite](https://dev.epicgames.com/documentation/en-us/uefn/collaborating-in-unreal-editor-for-fortnite)
+- [Unreal Revision Control](https://dev.epicgames.com/documentation/en-us/uefn/unreal-revision-control-in-unreal-editor-for-fortnite)
+- [Creating Teams in Creator Portal](https://dev.epicgames.com/documentation/en-us/uefn/creating-teams-in-creator-portal-in-unreal-editor-for-fortnite)
+- [Get Started with UEFN](https://dev.epicgames.com/community/fortnite/getting-started/uefn)
+- [Unreal Editor for Fortnite Documentation](https://dev.epicgames.com/documentation/en-us/uefn/unreal-editor-for-fortnite-documentation)
+- [Import from the Fab Marketplace](https://dev.epicgames.com/documentation/en-us/uefn/import-from-fab-in-unreal-editor-for-fortnite)
+- [Get Started with Verse](https://dev.epicgames.com/community/fortnite/getting-started/verse)
 
  
 
