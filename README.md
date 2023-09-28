@@ -101,6 +101,7 @@ Misc NOT tested
 - Verse Interpreter (Python) - https://github.com/Marcel-TO/Verse-Interpreter-in-Python
 - Verse Interpreter (Haskel) - https://github.com/michifueby/Verse-Interpreter
 - WIP - An abstract machine for the Verse language [Eric Conlon](https://ericconlon.com) - https://github.com/ejconlon/lyric
+- Verse Interpreter (C#) - https://github.com/onur1211/verse-interpreter
 
 
 
