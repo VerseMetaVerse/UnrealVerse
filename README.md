@@ -186,6 +186,7 @@ Misc NOT tested
 - https://www.reddit.com/r/FortniteCreative/
 - Tracking UEFN versions - https://github.com/Mast3rGamers/UEFN-releases
 - https://github.com/Tevtongermany/UEFN-Assets-Gallery/wiki
+- Giant information repository (JA) but has useful diagrams and links - https://github.com/ken-okabe/functional-programming-from-scratch-ja
 
 
 ## Misc Verse code on Github
