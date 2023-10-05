@@ -212,6 +212,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - https://github.com/mattyatea/uefn
 - https://github.com/IslandArchitekt/UEFN-Verse-Library
 - https://github.com/imaginarycomponent/StartMenuSample
+- https://github.com/marcosguijr/uefn
 - https://github.com/felislsd/UEFN_TestProject
 - "This is the first ever open sourced GitHub repo of Verse in the world!" - https://github.com/Cubed/uefn-verse-projects
 - []()
