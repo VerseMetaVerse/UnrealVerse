@@ -194,6 +194,7 @@ Misc NOT tested
 This list is NOT curated but it might be useful to you since it is surprisingly hard to search for Verse code repos on Github due to name congestion (any topic with a -verse e.g. SpiderVerse) and the lack of a GitHub language type for Verse
 
 - https://github.com/kbfngg/uefn
+- Verse Samples - https://github.com/OsirionGG/Verse-Samples
 - https://github.com/kbfngg/verse-modules
 - https://github.com/Petlja/demo_uefn_mini_games
 - https://github.com/svarelanic/LightsPuzzle
