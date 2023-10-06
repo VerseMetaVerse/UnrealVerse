@@ -210,6 +210,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - https://github.com/RedAvengerYT/VerseScriptsUEFN
 - https://github.com/AitorWesterhof/PublicUEFNScripts
 - https://github.com/mattyatea/uefn
+- https://github.com/ZenixYT/UEFN-scripts
 - https://github.com/IslandArchitekt/UEFN-Verse-Library
 - https://github.com/imaginarycomponent/StartMenuSample
 - https://github.com/marcosguijr/uefn
