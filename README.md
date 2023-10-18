@@ -215,6 +215,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - https://github.com/imaginarycomponent/StartMenuSample
 - https://github.com/marcosguijr/uefn
 - https://github.com/arjff/UEFN_DEMO_1
+- Verse cannot read files/databases, so we're forced to use an external script to create a .Verse file - https://github.com/Keiron-Beadle/LabyrinthData
 - GPL license makes this rather useless: "A collection of usage examples for verse within unreal engine for fortnite" - https://github.com/wassti/Verse_Boilerplate
 - https://github.com/felislsd/UEFN_TestProject
 - "This is the first ever open sourced GitHub repo of Verse in the world!" - https://github.com/Cubed/uefn-verse-projects
