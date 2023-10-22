@@ -102,7 +102,7 @@ Misc NOT tested
 - Verse Interpreter (Haskel) - https://github.com/michifueby/Verse-Interpreter
 - WIP - An abstract machine for the Verse language [Eric Conlon](https://ericconlon.com) - https://github.com/ejconlon/lyric
 - Verse Interpreter (C#) - https://github.com/onur1211/verse-interpreter
-
+- "This repo was a first try to create a VS Code language extension for a own version of the Verse language. Unfortunately I wasn't very successful for now, just startet off. And it is currently not planned to finish this attempt." 
 
 
 ## Epic Docs
