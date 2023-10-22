@@ -89,7 +89,6 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 
 Misc NOT tested
 - VSCode extension: Visual Reference Explorer & Helper for Verse - https://github.com/cronofear-dev/VerseReferenceExplorer
-- https://github.com/m1sjo/vsCode-verse-language-extension
 - https://github.com/Manifest-Git/verse-extension
 
 ## Verse Experimental User Implementations
@@ -102,7 +101,7 @@ Misc NOT tested
 - Verse Interpreter (Haskel) - https://github.com/michifueby/Verse-Interpreter
 - WIP - An abstract machine for the Verse language [Eric Conlon](https://ericconlon.com) - https://github.com/ejconlon/lyric
 - Verse Interpreter (C#) - https://github.com/onur1211/verse-interpreter
-- "This repo was a first try to create a VS Code language extension for a own version of the Verse language. Unfortunately I wasn't very successful for now, just startet off. And it is currently not planned to finish this attempt." 
+- "This repo was a first try to create a VS Code language extension for a own version of the Verse language. Unfortunately I wasn't very successful for now, just startet off. And it is currently not planned to finish this attempt." - https://github.com/m1sjo/vsCode-verse-language-extension
 
 
 ## Epic Docs
