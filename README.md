@@ -42,6 +42,9 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - [Getting Started with Verse in UEFN](https://www.chrismccole.com/blog/getting-started-with-uefn-and-verse-unreal-engine-fortnite-creator-20)
 - [Publishing your UEFN project to Fortnite - Releasing Our First Fortnite UEFN Island](https://www.chrismccole.com/blog/releasing-our-first-fortnite-uefn-game)
 - [Type system of Fortnite's Verse language](https://brianmckenna.org/blog/verse_types)
+- [A Deep Dive Into Epic Games' Verse Programming Language](https://80.lv/articles/a-deep-dive-into-epic-games-verse-programming-language/)
+- [How Epic Games views the metaverse and the State of Unreal | Tim Sweeney](https://venturebeat.com/games/how-epic-games-views-the-metaverse-and-the-state-of-unreal-tim-sweeney/)
+- [Unreal Engine 5.2 Preview + UE for Fortnite + Verse](https://gamefromscratch.com/unreal-engine-5-2-preview-ue-for-fortnite-verse/)
 
 ## Other link repos
 - Awesom Verse (not updated) https://github.com/spilth/awesome-verse
@@ -77,6 +80,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - Warforge https://www.youtube.com/@WarforgeXP
 - Pi Equals Three https://www.youtube.com/@piequalsthree3200
   - https://github.com/PiEqualsThree/UEFN-Tutorials
+- Graeme Bull - https://www.youtube.com/playlist?list=PLFwDePNaxc-k37rZBSib8IrT8Ot0rDwbX
   
 ## Tools
 
