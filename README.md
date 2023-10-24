@@ -203,6 +203,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - https://github.com/svarelanic/LightsPuzzle
 - UEFN Devices - https://github.com/sanxfxteam/uefn-devices
 - https://github.com/futouyiba/UefnVerseCode
+- UEFN - Custom game made in Unreal Engine for Fortnite Creative (only Verse code) - https://github.com/Gguardiola/UnrealEngine-Fortnite-CarZoneFights
 - https://github.com/ppmasa8/UEFN_Verse_practice
 - https://github.com/CristovaoVictorOLM/UEFN-MAP-PICTURES-AND-VERSE-CODE
 - https://github.com/imaginarycomponent/RedVsBlueSample
