@@ -46,17 +46,14 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - [How Epic Games views the metaverse and the State of Unreal | Tim Sweeney](https://venturebeat.com/games/how-epic-games-views-the-metaverse-and-the-state-of-unreal-tim-sweeney/)
 - [Unreal Engine 5.2 Preview + UE for Fortnite + Verse](https://gamefromscratch.com/unreal-engine-5-2-preview-ue-for-fortnite-verse/)
 
-## Other link repos
-- Awesom Verse (not updated) https://github.com/spilth/awesome-verse
-- UnrealVerseGuru https://github.com/UnrealVerseGuru/VerseProgrammingLanguage
-    - https://github.com/UnrealVerseGuru
-    - https://www.youtube.com/@UnrealVerseGuru
-    - https://unrealverseguru.github.io
-    - https://www.reddit.com/user/UnrealVerseGuru/
-    - https://www.reddit.com/r/VerseUnreal/
-    - https://twitter.com/UnrealVerseGuru
-    - 
-- UEFN Verse Library - https://github.com/IslandArchitekt/UEFN-Verse-Library
+
+## Reddit
+
+- https://www.reddit.com/r/uefn/
+- https://www.reddit.com/r/FortniteCreative/
+- https://www.reddit.com/r/TheFortniteCreatives/
+- https://www.reddit.com/user/UnrealVerseGuru/
+- https://www.reddit.com/r/VerseUnreal/
 
 ## FAB.COM Asset Store
 - [FAB.COM](https://www.fab.com) eventually to replace Marketplce, currently works in UEFN [https://create.fortnite.com/news/spotlight-fab-content-added-to-uefn-in-august-2023?isWelcome=true&team=personal]
@@ -90,22 +87,24 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
     - https://en.wikipedia.org/wiki/Visual_Studio_Code
     - Note that UEFN installs a VS Code Extension for Verse automatically
 
+## Other link repos
+- Awesom Verse (not updated) https://github.com/spilth/awesome-verse
+- UnrealVerseGuru https://github.com/UnrealVerseGuru/VerseProgrammingLanguage
+    - https://github.com/UnrealVerseGuru
+    - https://www.youtube.com/@UnrealVerseGuru
+    - https://unrealverseguru.github.io
+    - https://www.reddit.com/user/UnrealVerseGuru/
+    - https://www.reddit.com/r/VerseUnreal/
+    - https://twitter.com/UnrealVerseGuru
+    - 
+- UEFN Verse Library - https://github.com/IslandArchitekt/UEFN-Verse-Library
+
 
 Misc NOT tested
 - VSCode extension: Visual Reference Explorer & Helper for Verse - https://github.com/cronofear-dev/VerseReferenceExplorer
 - https://github.com/Manifest-Git/verse-extension
 
-## Verse Experimental User Implementations
 
-- A mini-Verse implementation - https://github.com/gregr/experiments/tree/master/verse
-- Verse Interpreter - https://github.com/Benson-sama/Verse-Interpreter
-- Experiments with the Verse Calculus in miniKanren - https://github.com/webyrd/wreckto-verseo
-- Verse Compiler - https://github.com/Elioby/VerseCompiler
-- Verse Interpreter (Python) - https://github.com/Marcel-TO/Verse-Interpreter-in-Python
-- Verse Interpreter (Haskel) - https://github.com/michifueby/Verse-Interpreter
-- WIP - An abstract machine for the Verse language [Eric Conlon](https://ericconlon.com) - https://github.com/ejconlon/lyric
-- Verse Interpreter (C#) - https://github.com/onur1211/verse-interpreter
-- "This repo was a first try to create a VS Code language extension for a own version of the Verse language. Unfortunately I wasn't very successful for now, just startet off. And it is currently not planned to finish this attempt." - https://github.com/m1sjo/vsCode-verse-language-extension
 
 
 ## Epic Docs
@@ -191,6 +190,17 @@ Misc NOT tested
 - https://github.com/Tevtongermany/UEFN-Assets-Gallery/wiki
 - Giant information repository (JA) but has useful diagrams and links - https://github.com/ken-okabe/functional-programming-from-scratch-ja
 
+## Verse Experimental User Implementations
+
+- A mini-Verse implementation - https://github.com/gregr/experiments/tree/master/verse
+- Verse Interpreter - https://github.com/Benson-sama/Verse-Interpreter
+- Experiments with the Verse Calculus in miniKanren - https://github.com/webyrd/wreckto-verseo
+- Verse Compiler - https://github.com/Elioby/VerseCompiler
+- Verse Interpreter (Python) - https://github.com/Marcel-TO/Verse-Interpreter-in-Python
+- Verse Interpreter (Haskel) - https://github.com/michifueby/Verse-Interpreter
+- WIP - An abstract machine for the Verse language [Eric Conlon](https://ericconlon.com) - https://github.com/ejconlon/lyric
+- Verse Interpreter (C#) - https://github.com/onur1211/verse-interpreter
+- "This repo was a first try to create a VS Code language extension for a own version of the Verse language. Unfortunately I wasn't very successful for now, just startet off. And it is currently not planned to finish this attempt." - https://github.com/m1sjo/vsCode-verse-language-extension
 
 ## Misc Verse code on Github
 
