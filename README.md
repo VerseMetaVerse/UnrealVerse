@@ -104,7 +104,9 @@ Misc NOT tested
 - VSCode extension: Visual Reference Explorer & Helper for Verse - https://github.com/cronofear-dev/VerseReferenceExplorer
 - https://github.com/Manifest-Git/verse-extension
 
+## Creator Portal Info
 
+- A discord bot that checks creators islands for new islands and concurent players - https://github.com/eason825/CreatorBot
 
 
 ## Epic Docs
@@ -227,6 +229,10 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - https://github.com/AitorWesterhof/PublicUEFNScripts
 - https://github.com/mattyatea/uefn
 - https://github.com/ZenixYT/UEFN-scripts
+- https://github.com/colory-games/Unreal-VerseBeginnerEdition-Samples
+    - Docs: https://colory-games.net/site/uefn_verse_about/  (Japan)
+- https://github.com/acid-nine/uefn_verse_scripts
+- https://github.com/eason825/VerseProjects
 - https://github.com/IslandArchitekt/UEFN-Verse-Library
 - https://github.com/imaginarycomponent/StartMenuSample
 - https://github.com/marcosguijr/uefn
