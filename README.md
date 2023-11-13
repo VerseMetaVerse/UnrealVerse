@@ -206,6 +206,8 @@ Misc NOT tested
 
 ## Misc Verse code on Github
 
+- STARS - if you have wandered to this repo wondering why I gave your project a STAR, well first a reward for uploading any Verse Code which is not common at all and second it makes easier for me to identify new projects with Verse...
+
 This list is NOT curated but it might be useful to you since it is surprisingly hard to search for Verse code repos on Github due to name congestion (any topic with a -verse e.g. SpiderVerse) and the lack of a GitHub language type for Verse
 
 - https://github.com/kbfngg/uefn
@@ -234,6 +236,8 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - https://github.com/acid-nine/uefn_verse_scripts
 - https://github.com/eason825/VerseProjects
 - https://github.com/IslandArchitekt/UEFN-Verse-Library
+- https://github.com/CoffeeJavaBeans/CodeForUEFNprojects
+- https://github.com/CoffeeJavaBeans/fortniteProject
 - https://github.com/imaginarycomponent/StartMenuSample
 - https://github.com/marcosguijr/uefn
 - https://github.com/arjff/UEFN_DEMO_1
