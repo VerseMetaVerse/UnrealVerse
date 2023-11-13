@@ -25,10 +25,11 @@ Every Verse project generates 3 digest files that correspond to that
 - https://github.com/LemonGamingFN/uefn-verse-digests
 
 
-## Visual Verse
+# Visual Verse
 
 - Verse will function like C++ currently does and a new layer with a concept like Blueprints will be coming
 - [Visual Verse](https://twitter.com/UnrealVerseGuru/status/1636691915927171072) from [UnrealVerseGuru](https://github.com/UnrealVerseGuru/VerseProgrammingLanguage)
+- This empty repo could be a place holder or just some random thing - https://github.com/EpicVerseStudio
 
 ## Books and Reference
 
