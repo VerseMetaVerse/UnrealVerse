@@ -226,6 +226,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - https://github.com/jack-whatley/uefn-weather-code
 - https://github.com/Klenky/Verse-UEFN-Practice
 - https://github.com/benmac0/UEFN
+- https://github.com/iwaken71/IwakenVerseToolkit
 - https://github.com/Halforctimelord/UEFN-Verse-CreatureSpawner
 - https://github.com/JuNijen/CK_UEFN
 - https://github.com/RedAvengerYT/VerseScriptsUEFN
