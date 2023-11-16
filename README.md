@@ -16,12 +16,13 @@ Note that currently, the only way to compile and run Verse programs is within th
 
 Delivering the first version of of Verse as Unreal Editor for Fortnite (UEFN) means that there are 3 sub systems of concern in making a Verse program:
 
-- The Verse Language itself
-- An interface API to Unreal
-- An interface API to Fornite
+- The Verse Language itself - https://github.com/kbfngg/uefn/blob/main/modules/Verse/Verse.digest.verse
+- An interface API to Unreal - https://github.com/kbfngg/uefn/blob/main/modules/UnrealEngine/UnrealEngine.digest.verse
+- An interface API to Fornite - https://github.com/kbfngg/uefn/blob/main/modules/Fortnite/Fortnite.digest.verse
 
 Every Verse project generates 3 digest files that correspond to that
 
+- KBFNGG - (see links just above) - https://github.com/kbfngg/uefn
 - https://github.com/LemonGamingFN/uefn-verse-digests
 
 
