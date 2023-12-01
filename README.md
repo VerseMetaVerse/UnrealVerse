@@ -239,6 +239,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - https://github.com/acid-nine/uefn_verse_scripts
 - https://github.com/eason825/VerseProjects
 - https://github.com/IslandArchitekt/UEFN-Verse-Library
+- https://github.com/BonesintCreation/Verse-Snippets
 - https://github.com/CoffeeJavaBeans/CodeForUEFNprojects
 - https://github.com/CoffeeJavaBeans/fortniteProject
 - https://github.com/imaginarycomponent/StartMenuSample
