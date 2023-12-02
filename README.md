@@ -217,6 +217,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - https://github.com/kbfngg/verse-modules
 - https://github.com/Petlja/demo_uefn_mini_games
 - https://github.com/svarelanic/LightsPuzzle
+- Advent of Code 2023 in Verse for UEFN - https://github.com/zachlute/AdventOfCode2023
 - UEFN Devices - https://github.com/sanxfxteam/uefn-devices
 - A repository for UEFN (Unreal Editor for Fortnite) generic devices - https://github.com/garrettpfoy/uefn-generic-devices
 - https://github.com/futouyiba/UefnVerseCode
