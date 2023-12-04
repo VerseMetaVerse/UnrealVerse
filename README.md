@@ -244,6 +244,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - https://github.com/CoffeeJavaBeans/CodeForUEFNprojects
 - https://github.com/CoffeeJavaBeans/fortniteProject
 - https://github.com/imaginarycomponent/StartMenuSample
+- (Alert: GPL) https://github.com/Androoideka/uefn-verse-lab
 - https://github.com/marcosguijr/uefn
 - https://github.com/arjff/UEFN_DEMO_1
 - Verse cannot read files/databases, so we're forced to use an external script to create a .Verse file - https://github.com/Keiron-Beadle/LabyrinthData
