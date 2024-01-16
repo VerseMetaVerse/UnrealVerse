@@ -243,6 +243,9 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - https://github.com/BonesintCreation/Verse-Snippets
 - https://github.com/KitchenGun/UEFN_VerseStudy
 - https://github.com/CoffeeJavaBeans/CodeForUEFNprojects
+- https://github.com/Pearl-UEFN/UEFN-Codes
+- https://github.com/tsuruken0802/SampleUEFN
+- https://github.com/olopsman/uefn-verse-sample
 - https://github.com/CoffeeJavaBeans/fortniteProject
 - https://github.com/imaginarycomponent/StartMenuSample
 - (Alert: GPL) https://github.com/Androoideka/uefn-verse-lab
