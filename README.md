@@ -24,6 +24,7 @@ Every Verse project generates 3 digest files that correspond to that
 
 - KBFNGG - (see links just above) - https://github.com/kbfngg/uefn
 - https://github.com/LemonGamingFN/uefn-verse-digests
+- https://github.com/LilWikipedia/UEFNVerseAssistant
 
 
 # Visual Verse
@@ -222,6 +223,12 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - A repository for UEFN (Unreal Editor for Fortnite) generic devices - https://github.com/garrettpfoy/uefn-generic-devices
 - https://github.com/futouyiba/UefnVerseCode
 - UEFN - Custom game made in Unreal Engine for Fortnite Creative (only Verse code) - https://github.com/Gguardiola/UnrealEngine-Fortnite-CarZoneFights
+- https://github.com/BushyCreate/PaperFN
+- https://github.com/AloofBuddha/learn-verse
+- https://github.com/mikeyaworski/UEFN-Verse-Devices
+- https://github.com/bk-kurt/UE-fortnite-device-timer-via-verse
+- https://github.com/nazmi1414/UEFN-VerseLanguage-portfolio
+- https://github.com/colory-games/LetsLearnUEFN-VerseForBeginners-Samples
 - https://github.com/nhapq/uefn_verse_examples
 - https://github.com/eiei114/uefn_mvp_sample
 - https://github.com/MadsMGrin/Verse
