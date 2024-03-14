@@ -89,6 +89,11 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
     - https://code.visualstudio.com
     - https://en.wikipedia.org/wiki/Visual_Studio_Code
     - Note that UEFN installs a VS Code Extension for Verse automatically
+ 
+Misc NOT tested
+- VSCode extension: Visual Reference Explorer & Helper for Verse - https://github.com/cronofear-dev/VerseReferenceExplorer
+- https://github.com/Manifest-Git/verse-extension
+- vscode extension containing a collection of snippets for the Verse programming language - https://github.com/Ethan-Guest/verse-language-snippets 
 
 ## Other link repos
 - Awesom Verse (not updated) https://github.com/spilth/awesome-verse
@@ -103,9 +108,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - UEFN Verse Library - https://github.com/IslandArchitekt/UEFN-Verse-Library
 
 
-Misc NOT tested
-- VSCode extension: Visual Reference Explorer & Helper for Verse - https://github.com/cronofear-dev/VerseReferenceExplorer
-- https://github.com/Manifest-Git/verse-extension
+
 
 ## Creator Portal Info
 
@@ -223,6 +226,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - A repository for UEFN (Unreal Editor for Fortnite) generic devices - https://github.com/garrettpfoy/uefn-generic-devices
 - https://github.com/futouyiba/UefnVerseCode
 - UEFN - Custom game made in Unreal Engine for Fortnite Creative (only Verse code) - https://github.com/Gguardiola/UnrealEngine-Fortnite-CarZoneFights
+- https://github.com/Mostafa-Elbadry/Verse-Language
 - https://github.com/The3v0luti0n/CreativeVerseExamples
 - https://github.com/nhapq/uefn_verse_examples
 - https://github.com/BushyCreate/PaperFN
