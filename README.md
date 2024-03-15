@@ -226,6 +226,10 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - A repository for UEFN (Unreal Editor for Fortnite) generic devices - https://github.com/garrettpfoy/uefn-generic-devices
 - https://github.com/futouyiba/UefnVerseCode
 - UEFN - Custom game made in Unreal Engine for Fortnite Creative (only Verse code) - https://github.com/Gguardiola/UnrealEngine-Fortnite-CarZoneFights
+- https://github.com/PiEqualsThree/Custom-UI
+- https://github.com/PiEqualsThree/UEFN-Tutorials
+- https://github.com/PiEqualsThree/Verse-Scripts
+- https://github.com/Binpuki/verse_tools
 - https://github.com/Mostafa-Elbadry/Verse-Language
 - https://github.com/The3v0luti0n/CreativeVerseExamples
 - https://github.com/nhapq/uefn_verse_examples
