@@ -11,8 +11,11 @@ Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few peopl
 - Simon Peyton Jones - https://simon.peytonjones.org [Verse Calculus ](https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf) https://en.wikipedia.org/wiki/Lambda_calculus
 - Verse programming language showcased https://www.youtube.com/watch?v=Xon9r3piIIw&t=251s
   
+# UEFN
 
-Note that currently, the only way to compile and run Verse programs is within the UEFN editing environment. (See below for a list of experimental Veres) Verse will eventually beccome standard in all versions of Unreal in order to provide increased security and massive scale, which is essential to supporting a MetaVerse.
+Unfortunately, the only way to compile and run Verse programs is within the UEFN editing environment. (See below for a list of experimental Verses) Verse will eventually beccome standard in all versions of Unreal in order to provide increased security and massive scale, which is essential to supporting a MetaVerse.
+
+Verse is supposed to be released as OSS at which point we might see a stand alone compiler which would really reduce one barrier to learning the language. You could then also envision from that a Jupyter compatible version that would encourage adhoc and online learning.
 
 Delivering the first version of of Verse as Unreal Editor for Fortnite (UEFN) means that there are 3 sub systems of concern in making a Verse program:
 
@@ -25,6 +28,8 @@ Every Verse project generates 3 digest files that correspond to that
 - KBFNGG - (see links just above) - https://github.com/kbfngg/uefn
 - https://github.com/LemonGamingFN/uefn-verse-digests
 - https://github.com/LilWikipedia/UEFNVerseAssistant
+
+UEFN Features You Can Only Build With Verse - https://dev.epicgames.com/community/learning/talks-and-demos/Vln0/fortnite-uefn-features-you-can-only-build-with-verse-unreal-fest-2023
 
 
 # Visual Verse
@@ -48,6 +53,8 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - [A Deep Dive Into Epic Games' Verse Programming Language](https://80.lv/articles/a-deep-dive-into-epic-games-verse-programming-language/)
 - [How Epic Games views the metaverse and the State of Unreal | Tim Sweeney](https://venturebeat.com/games/how-epic-games-views-the-metaverse-and-the-state-of-unreal-tim-sweeney/)
 - [Unreal Engine 5.2 Preview + UE for Fortnite + Verse](https://gamefromscratch.com/unreal-engine-5-2-preview-ue-for-fortnite-verse/)
+- Bringing Verse Transactional Memory Semantics to C++ Introducing AutoRTFM: a transactional memory system for C++ code in Unreal Engine. Starting in Fortnite version 28.10, some of our servers—large C++ executables based on Unreal Engine—are compiled with a new compiler that gives C++ transactional memory semantics that are compatible with Verse. This is a first step towards exposing even more Unreal Engine functionality to Verse while preserving Verse semantics. The Verse programming language has transactional memory as a first-class feature.  https://www.unrealengine.com/en-US/tech-blog/bringing-verse-transactional-memory-semantics-to-c
+- Fortnite is winning the metaverse - Epic’s new partnership with Disney is just one more step in building out its virtual realm. https://www.theverge.com/24065901/fortnite-metaverse-disney-epic-partnership 
 
 
 ## Reddit
@@ -226,6 +233,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - A repository for UEFN (Unreal Editor for Fortnite) generic devices - https://github.com/garrettpfoy/uefn-generic-devices
 - https://github.com/futouyiba/UefnVerseCode
 - UEFN - Custom game made in Unreal Engine for Fortnite Creative (only Verse code) - https://github.com/Gguardiola/UnrealEngine-Fortnite-CarZoneFights
+- https://github.com/vcu-ssg/ssg-gamedev-uefn-verse
 - https://github.com/PiEqualsThree/Custom-UI
 - https://github.com/PiEqualsThree/UEFN-Tutorials
 - https://github.com/PiEqualsThree/Verse-Scripts
