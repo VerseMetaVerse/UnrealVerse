@@ -1,6 +1,15 @@
 # Verse, and Unreal and UEFN and UE5 and UE6 and Fortnite
-Information and links about Epic's Verse programming language
+Information and links about Epic's Verse programming language. 
 Since Verse is expected to converge into the general Unreal codebase in 2024 or 2025 the scope of information found here will probably expand to be more useful to everyone
+
+# Creating with Unreal
+
+- C++
+- Blueprints
+- Verse
+- Visual Verse
+
+# Verse
 
 "Verse is being designed as a programming language for the metaverse, with upcoming features to enable future scalability to *vast open worlds built by millions of creators for billions of players*. Verse is launching in Fortnite today, and will come to all Unreal Engine users a couple years down the road."
 https://www.unrealengine.com/en-US/blog/dive-into-epic-s-announcements-from-gdc-2023
@@ -12,6 +21,14 @@ Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few peopl
 - Simon Peyton Jones - https://simon.peytonjones.org [Verse Calculus ](https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf) https://en.wikipedia.org/wiki/Lambda_calculus
 - Verse programming language showcased https://www.youtube.com/watch?v=Xon9r3piIIw&t=251s
   
+# UE6
+
+Since Verse is expected to converge into the general Unreal codebase in 2024 or 2025 the scope of information found here will probably expand to be more useful to everyone
+
+# UE5
+
+Since Verse is expected to converge into the general Unreal codebase in 2024 or 2025 the scope of information found here will probably expand to be more useful to everyone
+
 # UEFN
 
 Unfortunately, the only way to compile and run Verse programs is within the UEFN editing environment. (See below for a list of experimental Verses) Verse will eventually beccome standard in all versions of Unreal in order to provide increased security and massive scale, which is essential to supporting a MetaVerse.
