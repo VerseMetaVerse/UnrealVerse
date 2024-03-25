@@ -1,6 +1,6 @@
-# Verse, and Unreal and UEFN and UE5 and UE6 and Fortnite
-Information and links about Epic's Verse programming language. 
-Since Verse is expected to converge into the general Unreal codebase in 2024 or 2025 the scope of information found here will probably expand to be more useful to everyone
+# The UNREAL Universe of Verse, and UEFN and Fortnite and UE5 with UE6 convergence
+Here there is all the information and links about Epic's Verse programming language. 
+Since Verse is expected to converge into the general Unreal codebase in 2024 or 2025 the scope of information found here will probably expand to be more useful to everyone with the addition of information on Fortnite as well as traditional Unreal UE5
 
 # Creating with Unreal
 
