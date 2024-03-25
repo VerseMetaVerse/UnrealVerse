@@ -49,12 +49,20 @@ Every Verse project generates 3 digest files that correspond to that
 
 UEFN Features You Can Only Build With Verse - https://dev.epicgames.com/community/learning/talks-and-demos/Vln0/fortnite-uefn-features-you-can-only-build-with-verse-unreal-fest-2023
 
+# FAB.COM Asset Store
+- [FAB.COM](https://www.fab.com) eventually to replace Marketplce, currently works in UEFN [https://create.fortnite.com/news/spotlight-fab-content-added-to-uefn-in-august-2023?isWelcome=true&team=personal]
+- [Announcing Fab, an Evolution of the Unreal Engine Marketplace](https://forums.unrealengine.com/t/announcing-fab-an-evolution-of-the-unreal-engine-marketplace/795198)
+- [Announcing Fab, the Next Phase for Sketchfab](https://sketchfab.com/blogs/community/announcing-fab-the-next-phase-for-sketchfab)
+- [ANNOUNCING A NEW CHAPTER FOR QUIXEL](https://quixel.com/blog/2023/3/22/announcing-a-new-chapter-for-quixel)
+- [Introducing Fab – A Unified Creator Marketplace from Epic Games](https://magazine.artstation.com/2023/03/introducing-fab/)
 
 # Visual Verse
 
 - Verse will function like C++ currently does and a new layer with a concept like Blueprints will be coming
 - [Visual Verse](https://twitter.com/UnrealVerseGuru/status/1636691915927171072) from [UnrealVerseGuru](https://github.com/UnrealVerseGuru/VerseProgrammingLanguage)
 - This empty repo could be a place holder or just some random thing - https://github.com/EpicVerseStudio
+
+# Verse Reference
 
 ## Books and Reference
 
@@ -83,12 +91,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - https://www.reddit.com/user/UnrealVerseGuru/
 - https://www.reddit.com/r/VerseUnreal/
 
-## FAB.COM Asset Store
-- [FAB.COM](https://www.fab.com) eventually to replace Marketplce, currently works in UEFN [https://create.fortnite.com/news/spotlight-fab-content-added-to-uefn-in-august-2023?isWelcome=true&team=personal]
-- [Announcing Fab, an Evolution of the Unreal Engine Marketplace](https://forums.unrealengine.com/t/announcing-fab-an-evolution-of-the-unreal-engine-marketplace/795198)
-- [Announcing Fab, the Next Phase for Sketchfab](https://sketchfab.com/blogs/community/announcing-fab-the-next-phase-for-sketchfab)
-- [ANNOUNCING A NEW CHAPTER FOR QUIXEL](https://quixel.com/blog/2023/3/22/announcing-a-new-chapter-for-quixel)
-- [Introducing Fab – A Unified Creator Marketplace from Epic Games](https://magazine.artstation.com/2023/03/introducing-fab/)
+# Verse Samples
 
 
 ## UEFN Fortnite Islands on Github
@@ -97,7 +100,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - Cyber Tag: https://github.com/ViktorNorman/Cyber-Tag and access it at https://www.fortnite.com/creative/island-codes/0045-2606-3270
 
 
-## Verse and UEFN Education
+# Verse and UEFN Education
 
 - The [Fortnite Sensei](https://www.youtube.com/@fortnite_sensei) 
   - from the amazing Unreal Sensei - https://www.youtube.com/@unrealsensei
@@ -107,7 +110,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
   - https://github.com/PiEqualsThree/UEFN-Tutorials
 - Graeme Bull - https://www.youtube.com/playlist?list=PLFwDePNaxc-k37rZBSib8IrT8Ot0rDwbX
   
-## Tools
+# Verse Tools
 
 - Epic UEFN - https://store.epicgames.com/en-US/p/fortnite--uefn
 - Visual Studio Code - used by UEFN to edit Verse code
@@ -120,7 +123,12 @@ Misc NOT tested
 - https://github.com/Manifest-Git/verse-extension
 - vscode extension containing a collection of snippets for the Verse programming language - https://github.com/Ethan-Guest/verse-language-snippets 
 
+## Creator Portal Info
+
+- A discord bot that checks creators islands for new islands and concurent players - https://github.com/eason825/CreatorBot
 ## Other link repos
+
+## Verse
 - Awesom Verse (not updated) https://github.com/spilth/awesome-verse
 - UnrealVerseGuru https://github.com/UnrealVerseGuru/VerseProgrammingLanguage
     - https://github.com/UnrealVerseGuru
@@ -130,14 +138,14 @@ Misc NOT tested
     - https://www.reddit.com/r/VerseUnreal/
     - https://twitter.com/UnrealVerseGuru
     - 
-- UEFN Verse Library - https://github.com/IslandArchitekt/UEFN-Verse-Library
+
+## UE5
+
+- https://github.com/Coop56/awesome-unreal
+- https://github.com/insthync/awesome-unreal
+- https://github.com/mikeroyal/Unreal-Engine-Guide AI created mess of mostly useless info
 
 
-
-
-## Creator Portal Info
-
-- A discord bot that checks creators islands for new islands and concurent players - https://github.com/eason825/CreatorBot
 
 
 ## Epic Docs
@@ -235,6 +243,8 @@ Misc NOT tested
 - Verse Interpreter (C#) - https://github.com/onur1211/verse-interpreter
 - "This repo was a first try to create a VS Code language extension for a own version of the Verse language. Unfortunately I wasn't very successful for now, just startet off. And it is currently not planned to finish this attempt." - https://github.com/m1sjo/vsCode-verse-language-extension
 
+
+
 ## Misc Verse code on Github
 
 - STARS - if you have wandered to this repo wondering why I gave your project a STAR, well first a reward for uploading any Verse Code which is not common at all and second it makes easier for me to identify new projects with Verse...
@@ -246,6 +256,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - https://github.com/kbfngg/verse-modules
 - https://github.com/Petlja/demo_uefn_mini_games
 - https://github.com/svarelanic/LightsPuzzle
+- UEFN Verse Library - https://github.com/IslandArchitekt/UEFN-Verse-Library
 - Advent of Code 2023 in Verse for UEFN - https://github.com/zachlute/AdventOfCode2023
 - UEFN Devices - https://github.com/sanxfxteam/uefn-devices
 - A repository for UEFN (Unreal Editor for Fortnite) generic devices - https://github.com/garrettpfoy/uefn-generic-devices
