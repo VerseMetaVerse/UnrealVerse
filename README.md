@@ -4,12 +4,13 @@ Since Verse is expected to converge into the general Unreal codebase in 2024 or 
 
 # Creating with Unreal
 
-- C++
-- Blueprints
+
 - Verse
 - Visual Verse
+- Blueprints
+- C++
 
-# Verse
+# Verse (UEFN, UE6)
 
 "Verse is being designed as a programming language for the metaverse, with upcoming features to enable future scalability to *vast open worlds built by millions of creators for billions of players*. Verse is launching in Fortnite today, and will come to all Unreal Engine users a couple years down the road."
 https://www.unrealengine.com/en-US/blog/dive-into-epic-s-announcements-from-gdc-2023
@@ -20,16 +21,29 @@ Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few peopl
 - [Beyond Functional Programming: The Verse Programming Language (Simon Peyton Jones)](https://www.youtube.com/watch?v=832JF1o7Ck8)
 - Simon Peyton Jones - https://simon.peytonjones.org [Verse Calculus ](https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf) https://en.wikipedia.org/wiki/Lambda_calculus
 - Verse programming language showcased https://www.youtube.com/watch?v=Xon9r3piIIw&t=251s
-  
-# UE6
+
+# Visual Verse (UE6 ?)
+
+- Verse will function like C++ currently does and a new layer with a concept like Blueprints will be coming
+- [Visual Verse](https://twitter.com/UnrealVerseGuru/status/1636691915927171072) from [UnrealVerseGuru](https://github.com/UnrealVerseGuru/VerseProgrammingLanguage)
+- This empty repo could be a place holder or just some random thing - https://github.com/EpicVerseStudio
+
+# Blueprints (UE5, UE6)
+
+# C++ (UE5, UE6)
+
+
+# UNREAL STUDIO
+
+## UE6
 
 Since Verse is expected to converge into the general Unreal codebase in 2024 or 2025 the scope of information found here will probably expand to be more useful to everyone
 
-# UE5
+## UE5
 
 Since Verse is expected to converge into the general Unreal codebase in 2024 or 2025 the scope of information found here will probably expand to be more useful to everyone
 
-# UEFN
+## UEFN
 
 Unfortunately, the only way to compile and run Verse programs is within the UEFN editing environment. (See below for a list of experimental Verses) Verse will eventually beccome standard in all versions of Unreal in order to provide increased security and massive scale, which is essential to supporting a MetaVerse.
 
@@ -49,22 +63,47 @@ Every Verse project generates 3 digest files that correspond to that
 
 UEFN Features You Can Only Build With Verse - https://dev.epicgames.com/community/learning/talks-and-demos/Vln0/fortnite-uefn-features-you-can-only-build-with-verse-unreal-fest-2023
 
-# FAB.COM Asset Store
+# FAB.COM
+
+The New Asset Store (Included in UEFN, part of UE6?)
+
+
 - [FAB.COM](https://www.fab.com) eventually to replace Marketplce, currently works in UEFN [https://create.fortnite.com/news/spotlight-fab-content-added-to-uefn-in-august-2023?isWelcome=true&team=personal]
 - [Announcing Fab, an Evolution of the Unreal Engine Marketplace](https://forums.unrealengine.com/t/announcing-fab-an-evolution-of-the-unreal-engine-marketplace/795198)
 - [Announcing Fab, the Next Phase for Sketchfab](https://sketchfab.com/blogs/community/announcing-fab-the-next-phase-for-sketchfab)
 - [ANNOUNCING A NEW CHAPTER FOR QUIXEL](https://quixel.com/blog/2023/3/22/announcing-a-new-chapter-for-quixel)
 - [Introducing Fab – A Unified Creator Marketplace from Epic Games](https://magazine.artstation.com/2023/03/introducing-fab/)
 
-# Visual Verse
 
-- Verse will function like C++ currently does and a new layer with a concept like Blueprints will be coming
-- [Visual Verse](https://twitter.com/UnrealVerseGuru/status/1636691915927171072) from [UnrealVerseGuru](https://github.com/UnrealVerseGuru/VerseProgrammingLanguage)
-- This empty repo could be a place holder or just some random thing - https://github.com/EpicVerseStudio
+# Sample Games
 
-# Verse Reference
+## Verse Samples
 
-## Books and Reference
+### UEFN Fortnite Islands on Github
+
+- For Temple: https://github.com/pheobus78/UEFN_ForTemple and access it at https://www.fortnite.com/creative/island-codes/9444-4916-7452
+- Cyber Tag: https://github.com/ViktorNorman/Cyber-Tag and access it at https://www.fortnite.com/creative/island-codes/0045-2606-3270
+
+## Blueprint Samples
+
+
+## C++ Samples
+
+# TOOLS
+
+## Verse Tools
+
+## Blueprint Tools
+
+## C++ Tools
+
+
+
+# REFERENCE
+
+## Verse Reference
+
+### Books and Reference
 
 A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it here](https://verse-book.netlify.app/verse/)
 
@@ -91,13 +130,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - https://www.reddit.com/user/UnrealVerseGuru/
 - https://www.reddit.com/r/VerseUnreal/
 
-# Verse Samples
 
-
-## UEFN Fortnite Islands on Github
-
-- For Temple: https://github.com/pheobus78/UEFN_ForTemple and access it at https://www.fortnite.com/creative/island-codes/9444-4916-7452
-- Cyber Tag: https://github.com/ViktorNorman/Cyber-Tag and access it at https://www.fortnite.com/creative/island-codes/0045-2606-3270
 
 
 # Verse and UEFN Education
