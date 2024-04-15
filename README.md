@@ -3,6 +3,14 @@ Here there is all the information and links about Epic's Verse programming langu
 
 # Epic Games
 
+- https://github.com/EpicGames/Signup To access our repositories,
+  - sign up for an Epic account at UnrealEngine.com https://www.unrealengine.com/ and
+  - register your GitHub ID using these instructions. https://www.unrealengine.com/ue4-on-github
+  - After that, you can find our repositories here: Unreal Engine https://github.com/EpicGames/UnrealEngine and
+  - https://github.com/EpicGamesExt
+  - https://epicgamesext.github.io/BlenderTools/
+- https://github.com/jaydenmilne/steamsync Tool to automatically add games from the Epic Games Launcher to Steam
+- https://github.com/nikop/epic-games-ratings Ratings for all games in Epic Games Store
 - https://www.unrealengine.com/en-US/feed
 - https://www.unrealengine.com/en-US/uses/switching-to-unreal-engine
 - https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-3-documentation
@@ -99,6 +107,12 @@ The New Asset Store (Included in UEFN, part of UE6?)
 ## Verse and UEFN Tools
 
 ## Fortnite Tools
+
+- https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation
+- https://github.com/MixV2/EpicResearch Research about Epic's non-documented API. All the documentation can be found within the docs folder.
+- https://github.com/fnbrjs/fnbr.js A library to interact with Epic Games' Fortnite HTTP and XMPP services
+- https://github.com/FortniteCentral/MercuryCommons A common utility package for CUE4Parse and interfacing with Epic Games/Fortnite services.
+- 
 
 ## UE5 Tools
 General Tools and Plugins for Unreal Studio
