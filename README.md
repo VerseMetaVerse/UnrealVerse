@@ -115,15 +115,35 @@ The New Asset Store (Included in UEFN, part of UE6?)
 - 
 
 ## UE5 Tools
+
 General Tools and Plugins for Unreal Studio
 
 - https://cdn1.epicgames.com/ue/product/Screenshot/OptimizationToolFull-1920x1080-e51ff7b569d5dc9b63e826037dda09c6.png?resize=1&w=1920 https://www.unrealengine.com/marketplace/en-US/product/optimization-debug-tool The Optimization Debug Tool Helps you to do easy optimization for multiple static and skeletal meshes related to LODs and Nanite methods, as well as optimization for textures associated with quality and memory use. On the other hand, the tool can spot and debug almost any aspect of game development, and the additional ability of the tool includes the option to modify quality settings and set them in-game in a few simple clicks.
 - https://cdn1.epicgames.com/ue/product/Screenshot/Sunset-1920x1080-9915cf54f5965e863c9291101e9206fd.jpg?resize=1&w=1920 https://www.unrealengine.com/marketplace/en-US/product/ultra-dynamic-sky A flexible dynamic sky system with natural cloud motion, plus customizable sun, moon and stars.
 
 ## Blueprint Tools
+
 Tools that help make Blueprints
 
+- https://github.com/nachomonkey/RefreshAllNodes plugin that refreshes and compiles all of your blueprints
+- https://github.com/rfsheffer/RyHelpfulHelpers/raw/master/Resources/Icon128.png https://github.com/rfsheffer/RyHelpfulHelpers Extremely helpful helper functions for developing Blueprint and C++ projects in Unreal Engine. https://www.unrealengine.com/marketplace/en-US/product/ryan-s-helpful-helpers
+- https://user-images.githubusercontent.com/47295080/147773806-fbaae57b-51e7-400f-a1a4-88a92bd77bd4.png https://github.com/LouisRaverdy/DiscordRPC plugin for making presence, invite, join and spectating with Discord.
+- https://github.com/gjverhoeff/sumatras-studios-tools Evolving Blueprint Library plugin with functions I use often within Unreal Engine 5. Small now, but adding when a new function is needed.
+- https://github.com/DoubleDeez/MDViewModel Model-View-ViewModel Plugin with automatic data binding to use in UMG Widget, Actor, and Object Blueprints
+- https://github.com/DoubleDeez/MDMetaDataEditor plugin to enable editing meta data of Blueprint Properties, Functions, and Function and Event Parameters
+- https://github.com/pramberg/NeatFunctions plugin that adds some new metadata tags you can put on UFUNCTIONs to get a better user experience when the functions are used in Blueprint.
+- https://github.com/Incanta/unreal-bp-csv-parsing plugin that adds CSV parsing blueprint nodes
+- https://github.com/ZackBradshaw/Bluepy Plugin for unreal to generate blueprints using Gen AI
+- https://github.com/uextm/UEXTMIntegers Wrappers for integer types to enable Blueprint/UPROPERTY/UFUNCTION support in Unreal Engine.
+- https://github.com/HoussineMehnik/UE4-EditorScriptingToolsPlugin Extend and customize some part the Unreal Editor using Blueprints. The plugin comes with some basic tools samples. https://unrealengineresources.com/plugins
+- https://github.com/Yorshka-Vermilion/UnrealEngine---Maze-generator-and-solver blueprint for generating mazes of given size, and build in algorithms (A* and wall-follower) to solve them.
+- https://github.com/heyomidk/HardReferenceFinder editor plugin for identifying hard references in a blueprint graph.
+- https://github.com/jlnordin/LiveBlueprintVariableDebugging plugin that adds support for viewing live Blueprint variable values directly in the Actor details pane when playing or simulating in the editor.
+- https://github.com/thejinchao/turbolink plugin enables Google gRPC work with Unreal Engine using C++ and Blueprint
+
+
 ## C++ Tools
+
 Tools that help make C++
 
 
