@@ -108,6 +108,8 @@ The New Asset Store (Included in UEFN, part of UE6?)
 
 ## Verse and UEFN Tools
 
+https://github.com/Meshcapade/mc-uefn Meshcapade support for Unreal Editor for Fortnite (UEFN) This plugin allows you to quickly retarget motions created on the Meshcapade.me platform onto your own characters in Unreal Editor for Fortnite. Bodies created on the Meshcapade platform are created using the SMPL core technology, and are thus referred to as SMPL-bodies.
+
 ## Fortnite Tools
 
 - https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation
@@ -350,6 +352,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - A repository for UEFN (Unreal Editor for Fortnite) generic devices - https://github.com/garrettpfoy/uefn-generic-devices
 - https://github.com/futouyiba/UefnVerseCode
 - UEFN - Custom game made in Unreal Engine for Fortnite Creative (only Verse code) - https://github.com/Gguardiola/UnrealEngine-Fortnite-CarZoneFights
+- https://github.com/Meshcapade/mc-uefn
 - https://github.com/appiemaster/TimerUI
 - NextbotAI https://github.com/Dyplay/NextbotAI_UFEN
 - Verse Devices https://github.com/naz-zal/UEFN-Verse
