@@ -417,6 +417,34 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - GPL license makes this rather useless: "A collection of usage examples for verse within unreal engine for fortnite" - https://github.com/wassti/Verse_Boilerplate
 - https://github.com/felislsd/UEFN_TestProject
 - "This is the first ever open sourced GitHub repo of Verse in the world!" - https://github.com/Cubed/uefn-verse-projects
+
+# Unreal Marketplace Items That Might Be Worth A Look
+
+These generally cost various amounts but can be used in any amount for any purpose as long as they are used with the Unreal Engine
+
+- TO-BE-TESTED: EXTILE PLUS Non-repetitive tiling master materials Removes tiling repetition on any texture and create complex effects directly in material. (Extile was recently featured in the 2022 Venice Film Festival)  https://www.unrealengine.com/marketplace/en-US/product/extile-plus-non-repetitive-tiling-material YT: https://www.youtube.com/watch?v=6rOaPmDWCd0
+- TO-BE-TESTED: EasyFog from the same maker as EasyMapper (https://www.unrealengine.com/marketplace/en-US/product/easymapper) - https://www.unrealengine.com/marketplace/en-US/product/easyfog YT https://www.youtube.com/watch?v=CyRksVjviwg
+- TO-BE-TESTED: ProInstance Tools Plugin - same maker as "Blockout Tools" for procedural placement https://www.unrealengine.com/marketplace/en-US/product/proinstance-tools-plugin docs - https://dmkarpukhin.itch.io/proinstance-tools-plugin YT: https://www.youtube.com/watch?v=YYhLWI5Nl4E and https://www.youtube.com/watch?v=-teNQEs_aZE
+- TO-BE-TESTED: Blockout Tools Plugin  - https://www.unrealengine.com/marketplace/en-US/product/blockout-tools-plugin YT: https://www.youtube.com/watch?v=rXjbH-JmLKU
+- NANITE: VERTEX: TO-BE-TESTED: EasyMapper - some sort of modern material manager with Nanite and Vertex Blending - https://www.unrealengine.com/marketplace/en-US/product/easymapper docs on YT - https://youtu.be/UWrCA-t0v3U
+- PCG: TO-BE-TESTED: Massive World - Procedural Generation with PCG - some sort of PCG Landscape generator https://www.unrealengine.com/marketplace/en-US/product/massive-world-procedural-generation-with-pcg - DOCS: https://qwertystudio.gitbook.io/massive-world YT: https://www.youtube.com/watch?v=YrHXOdrbGks
+- PCG: TO-BE-TESTED: PCG Biome: River Generator - Some sort of water area generator  using PCG system - https://www.unrealengine.com/marketplace/en-US/product/pcg-river-biome-generator-interactive-foliage-tree-water - Docs - https://defect.gitbook.io/defect-marketplace - YT: https://www.youtube.com/watch?v=6lWTHgW66MY
+- TO-BE-TESTED: Retro Sci-Fi Guy's make a place you would actually enjoy exploring! https://www.unrealengine.com/marketplace/en-US/profile/Olivier+Garrigue?count=20&sortBy=effectiveDate&sortDir=DESC&start=0 - Example: - SciFi 'Populate' Pack - https://www.unrealengine.com/marketplace/en-US/product/scifi-populate-pack YT: https://www.youtube.com/watch?v=pJdHAWJUjgQ
+- TO-BE-TESTED: Basic Splined Mesh Blueprint - FREE general purpose spline code in Blueprint https://www.youtube.com/watch?v=hFZljPUWW8Q Can be purchased here: https://www.unrealengine.com/marketplace/en-US/product/basic-splined-mesh-blueprint?sessionInvalidated=true or downloaded for free (Source: Unreal Showcase) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - []()
 - []()
 - []()
