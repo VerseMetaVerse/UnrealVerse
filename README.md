@@ -102,7 +102,7 @@ The New Asset Store (Included in UEFN, part of UE6?)
 
 ### UEFN Fortnite Islands on Github
 
-- For Temple: https://github.com/pheobus78/UEFN_ForTemple and access it at https://www.fortnite.com/creative/island-codes/9444-4916-7452 ![](https://github.com/pheobus78/UEFN_ForTemple/raw/main/assets/fortemple.png | width="50%")
+- For Temple: https://github.com/pheobus78/UEFN_ForTemple and access it at https://www.fortnite.com/creative/island-codes/9444-4916-7452 <img src="https://github.com/pheobus78/UEFN_ForTemple/raw/main/assets/fortemple.png" width="50%">
 - Cyber Tag: https://github.com/ViktorNorman/Cyber-Tag and access it at https://www.fortnite.com/creative/island-codes/0045-2606-3270 ![image](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/ad4f06e6-2b90-43e3-882f-a537e06addc9)
 
 ## Blueprint Samples
