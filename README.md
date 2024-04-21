@@ -1,5 +1,4 @@
-# The UNREAL Universe
-![unreal-engine](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/fd300acf-5804-4394-a120-9020886d3a52)
+# The UNREAL Universe <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/fd300acf-5804-4394-a120-9020886d3a52" width="50%">
 
 Verse, and UEFN and Fortnite and UE5 with a convergence of the tech upcoming in UE6
 This started as a collection of all the information and links about Epic's Verse programming language, but since Verse is expected to converge into the general Unreal codebase in 2024 or 2025 the scope of information found here will expand to be more useful to everyone Unreal with the addition of information on Fortnite as well as the traditional Unreal UE5 ecosystem
