@@ -15,6 +15,12 @@ Here there is all the information and links about Epic's Verse programming langu
 - https://www.unrealengine.com/en-US/uses/switching-to-unreal-engine
 - https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-3-documentation
 - https://portal.productboard.com/epicgames/1-unreal-engine-public-roadmap/tabs/106-unreal-engine-5-4
+- Epic Games Ownership - https://en.wikipedia.org/wiki/Epic_Games
+  - Tim Sweeney 51.4%  https://en.wikipedia.org/wiki/Tim_Sweeney_(game_developer)
+  - Tencent 40%  https://en.wikipedia.org/wiki/Tencent
+  - Disney 9% https://en.wikipedia.org/wiki/The_Walt_Disney_Company
+  - Sony 5.4%  https://en.wikipedia.org/wiki/Sony
+  - Kirkbi (LEGO) 3.2%  https://en.wikipedia.org/wiki/Kirkbi
 
 # Creating with Unreal
 
