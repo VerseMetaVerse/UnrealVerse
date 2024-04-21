@@ -1,4 +1,5 @@
 # The UNREAL Universe
+![unreal-engine](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/fd300acf-5804-4394-a120-9020886d3a52)
 
 Verse, and UEFN and Fortnite and UE5 with a convergence of the tech upcoming in UE6
 This started as a collection of all the information and links about Epic's Verse programming language, but since Verse is expected to converge into the general Unreal codebase in 2024 or 2025 the scope of information found here will expand to be more useful to everyone Unreal with the addition of information on Fortnite as well as the traditional Unreal UE5 ecosystem
@@ -52,6 +53,15 @@ Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few peopl
 # Blueprints (UE5, UE6)
 
 # C++ (UE5, UE6)
+![cpp](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a912860-1d74-4671-a700-ed43ffa84724)
+
+# Other Programming Languages
+
+### Unreal Engine .NET  
+
+- ![68747470733a2f2f692e696d6775722e636f6d2f63365a6e3753452e706e67](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a763647-97bb-43ce-b278-255dae177aaf)
+- Unreal Engine .NET 6 integration - UnrealCLR is a plugin which natively integrates .NET host into the Unreal Engine with the Common Language Runtime for direct execution of managed code to build a game/application logic using the full power of C# 10.0, F# 6.0, and .NET facilities with engine API. The project is aimed at stability, performance, and maintainability. https://github.com/nxrighthere/UnrealCLR
+- ![dotnet](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/ba02d53e-b257-4d03-927c-5fb4745b2737) UnrealSharp attempts to add a dotnet core integration to some parts of Unreal Engine. It does this by creating what the dotnet documentation calls a "native host" in the context of a subsystem, and exposes functionality by providing function pointers to dotnet https://github.com/lambda-snail/UnrealSharp
 
 
 # UNREAL STUDIO
@@ -109,7 +119,11 @@ The New Asset Store (Included in UEFN, part of UE6?)
 
 
 ## C++ Samples
+![cpp](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/4d0b2e9c-aef2-4434-b6d6-e23a3aa92cb7)
 
+- ![AirSimDroneManual](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/8b22d424-e741-4ca6-9ec1-a02a4115e57e)
+- Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research https://github.com/microsoft/AirSim
+- Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine C++ Course & Stanford University https://github.com/tomlooman/ActionRoguelike
 - https://github.com/KARNB24/Astral-Warfare Welcome to Astral Warfare: Quantum Reckoning, an action-packed game developed on Unreal Engine 5.3.2
 
 # TOOLS
@@ -158,11 +172,14 @@ Tools that help make Blueprints
 
 
 ## C++ Tools
+![cpp](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/fd0573fc-01f6-42f2-90a8-4ca6b91b368b)
 
 Tools that help make C++
 
 
 
+- ![e9906d80-8cc3-11eb-8ae0-3ed530fea978](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/86e09552-30be-4cfc-bf42-f1928b8cc4f8)
+- Design-agnostic node system for scripting game’s flow in Unreal Engine https://github.com/MothCocoon/FlowGraph 
 
 # REFERENCE
 
