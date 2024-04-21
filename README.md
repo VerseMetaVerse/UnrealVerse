@@ -1,4 +1,6 @@
-# The UNREAL Universe <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/fd300acf-5804-4394-a120-9020886d3a52" width="10%">
+ <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/fd300acf-5804-4394-a120-9020886d3a52" width="20%">
+
+# The UNREAL Universe
 
 Verse, and UEFN and Fortnite and UE5 with a convergence of the tech upcoming in UE6
 This started as a collection of all the information and links about Epic's Verse programming language, but since Verse is expected to converge into the general Unreal codebase in 2024 or 2025 the scope of information found here will expand to be more useful to everyone Unreal with the addition of information on Fortnite as well as the traditional Unreal UE5 ecosystem
@@ -52,7 +54,7 @@ Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few peopl
 # Blueprints (UE5, UE6)
 
 # C++ (UE5, UE6)
-![cpp](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a912860-1d74-4671-a700-ed43ffa84724)
+<img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a912860-1d74-4671-a700-ed43ffa84724" width="50%">
 
 # Other Programming Languages
 
