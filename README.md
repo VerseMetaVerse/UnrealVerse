@@ -55,7 +55,7 @@ Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few peopl
 
 # C++ (UE5, UE6)
 
-<img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a912860-1d74-4671-a700-ed43ffa84724" width="20%">
+<img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a912860-1d74-4671-a700-ed43ffa84724" width="5%">
 
 # Other Programming Languages
 
