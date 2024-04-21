@@ -61,7 +61,7 @@ Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few peopl
 
 ### Unreal Engine .NET  
 
-- <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a763647-97bb-43ce-b278-255dae177aaf" width="10%">
+- <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a763647-97bb-43ce-b278-255dae177aaf" width="30%">
 - Unreal Engine .NET 6 integration - UnrealCLR is a plugin which natively integrates .NET host into the Unreal Engine with the Common Language Runtime for direct execution of managed code to build a game/application logic using the full power of C# 10.0, F# 6.0, and .NET facilities with engine API. The project is aimed at stability, performance, and maintainability. https://github.com/nxrighthere/UnrealCLR
 - <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/ba02d53e-b257-4d03-927c-5fb4745b2737" width="5%"> UnrealSharp attempts to add a dotnet core integration to some parts of Unreal Engine. It does this by creating what the dotnet documentation calls a "native host" in the context of a subsystem, and exposes functionality by providing function pointers to dotnet https://github.com/lambda-snail/UnrealSharp
 
