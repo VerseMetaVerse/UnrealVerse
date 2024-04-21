@@ -55,15 +55,15 @@ Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few peopl
 
 # C++ (UE5, UE6)
 
-<img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a912860-1d74-4671-a700-ed43ffa84724" width="5%">
+<img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a912860-1d74-4671-a700-ed43ffa84724" width="8%">
 
 # Other Programming Languages
 
 ### Unreal Engine .NET  
 
-- ![68747470733a2f2f692e696d6775722e636f6d2f63365a6e3753452e706e67](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a763647-97bb-43ce-b278-255dae177aaf)
+- <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a763647-97bb-43ce-b278-255dae177aaf" width="10%">
 - Unreal Engine .NET 6 integration - UnrealCLR is a plugin which natively integrates .NET host into the Unreal Engine with the Common Language Runtime for direct execution of managed code to build a game/application logic using the full power of C# 10.0, F# 6.0, and .NET facilities with engine API. The project is aimed at stability, performance, and maintainability. https://github.com/nxrighthere/UnrealCLR
-- ![dotnet](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/ba02d53e-b257-4d03-927c-5fb4745b2737) UnrealSharp attempts to add a dotnet core integration to some parts of Unreal Engine. It does this by creating what the dotnet documentation calls a "native host" in the context of a subsystem, and exposes functionality by providing function pointers to dotnet https://github.com/lambda-snail/UnrealSharp
+- <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/ba02d53e-b257-4d03-927c-5fb4745b2737" width="5%"> UnrealSharp attempts to add a dotnet core integration to some parts of Unreal Engine. It does this by creating what the dotnet documentation calls a "native host" in the context of a subsystem, and exposes functionality by providing function pointers to dotnet https://github.com/lambda-snail/UnrealSharp
 
 
 # UNREAL STUDIO
@@ -121,7 +121,8 @@ The New Asset Store (Included in UEFN, part of UE6?)
 
 
 ## C++ Samples
-![cpp](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/4d0b2e9c-aef2-4434-b6d6-e23a3aa92cb7)
+
+<img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a912860-1d74-4671-a700-ed43ffa84724" width="8%">
 
 - ![AirSimDroneManual](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/8b22d424-e741-4ca6-9ec1-a02a4115e57e)
 - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research https://github.com/microsoft/AirSim
@@ -174,7 +175,8 @@ Tools that help make Blueprints
 
 
 ## C++ Tools
-![cpp](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/fd0573fc-01f6-42f2-90a8-4ca6b91b368b)
+
+<img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a912860-1d74-4671-a700-ed43ffa84724" width="8%">
 
 Tools that help make C++
 
