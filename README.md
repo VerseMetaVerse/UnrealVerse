@@ -102,10 +102,12 @@ Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few peopl
 
 ### Lua
 
-- ![18461506](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/b17a5cae-282c-4844-9564-8abe00d9f067) lua dev plugin for unreal engine 4 or 5 https://github.com/Tencent/sluaunreal
-    - NOTE: Tencent owns 40% of Epic Games
+Tencent ![18461506](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/b17a5cae-282c-4844-9564-8abe00d9f067) 
+- NOTE: Tencent owns 40% of Epic Games, they appear to have TWO separate Lua plugins:
+- lua dev plugin for unreal engine 4 or 5 https://github.com/Tencent/sluaunreal
 - A feature-rich, easy-learning and highly optimized Lua scripting plugin for UE. https://github.com/Tencent/UnLua
-    - ![UnLua](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/48b7182f-0a82-4e0b-b585-cf0d282285d5) 
+    - ![UnLua](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/48b7182f-0a82-4e0b-b585-cf0d282285d5)
+    - https://github.com/Tencent/UnLua/blob/master/Docs/EN/UnLua_Programming_Guide.md
 
 # UNREAL STUDIO
 
