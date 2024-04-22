@@ -1,12 +1,36 @@
- <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/fd300acf-5804-4394-a120-9020886d3a52" width="20%">
 
-# The UNREAL Universe
+
+# The UNREAL Universe  <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/fd300acf-5804-4394-a120-9020886d3a52" width="20%">
 
 Verse, and UEFN and Fortnite and UE5 with a convergence of the tech upcoming in UE6
-This started as a collection of all the information and links about Epic's Verse programming language, but since Verse is expected to converge into the general Unreal codebase in 2024 or 2025 the scope of information found here will expand to be more useful to everyone Unreal with the addition of information on Fortnite as well as the traditional Unreal UE5 ecosystem
+This started as a collection of all the information and links about Epic's Verse programming language, but since Verse is expected to converge into the general Unreal codebase in 2024 or 2025 the scope of information found here will expand to be more useful to everyone in the Unreal Universe with the addition of information on Fortnite as well as the traditional Unreal UE5 ecosystem
 
-# Epic Games
+### This Document
 
+The document is organized by categories of 
+- Unreal Programming Languages
+    - Low level (C++, Verse)
+    - High level (Blueprints, VisualVerse)
+- Extra Programming Languages
+    - Python (Editor scripting)
+    - Python (via Addon)
+    - C# and F# (via Addon)
+- Important Companions such as Blender
+
+There is also a "Type of Interest" set of categories that I hope to feature with a color code of some sort:
+- Background, History and Future Directions
+- A Learning path via Document Links
+- A Learning path via Video Tutorial Links
+- Quick Reference Links
+- Lists of Tools and Utilities
+- Lists of Plugins and Addons, both OSS/Free and recommended commercial
+- Samples, Examples and Full Featured Code
+- 3D and 2D Assets, both OSS/Free and recommended commercial
+- Pointers to other collections of Game Development info
+
+# Brief Mention of Epic Games
+
+- Hopefully more detail can eventually be found at https://github.com/VerseMetaVerse/EpicGames
 - https://github.com/EpicGames/Signup To access our repositories,
   - sign up for an Epic account at UnrealEngine.com https://www.unrealengine.com/ and
   - register your GitHub ID using these instructions. https://www.unrealengine.com/ue4-on-github
@@ -33,6 +57,7 @@ This started as a collection of all the information and links about Epic's Verse
 - Visual Verse
 - Blueprints
 - C++
+- Other
 
 # Verse (UEFN, UE6)
 
