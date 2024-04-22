@@ -13,6 +13,8 @@ This started as a collection of all the information and links about Epic's Verse
   - After that, you can find our repositories here: Unreal Engine https://github.com/EpicGames/UnrealEngine and
   - https://github.com/EpicGamesExt
   - https://epicgamesext.github.io/BlenderTools/
+  - Official mirror of Blender https://github.com/blender/blender http://www.blender.org/
+   - <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/b5694db7-8938-4044-93f8-9f7def7208a8" width="30%">
 - https://github.com/jaydenmilne/steamsync Tool to automatically add games from the Epic Games Launcher to Steam
 - https://github.com/nikop/epic-games-ratings Ratings for all games in Epic Games Store
 - https://www.unrealengine.com/en-US/feed
@@ -178,12 +180,28 @@ Tools that help make Blueprints
 
 <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a912860-1d74-4671-a700-ed43ffa84724" width="8%">
 
-Tools that help make C++
+### Tools for Unreal based on C++
 
-
-
-- ![e9906d80-8cc3-11eb-8ae0-3ed530fea978](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/86e09552-30be-4cfc-bf42-f1928b8cc4f8)
+- <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/0e6e7c0c-f0bf-4660-8a48-c6360f67f9c3" width="30%">
+- A Voxel Plugin for Unreal Engine https://github.com/Phyronnaz/VoxelPlugin
+- <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/86e09552-30be-4cfc-bf42-f1928b8cc4f8" width="50%">
 - Design-agnostic node system for scripting game’s flow in Unreal Engine https://github.com/MothCocoon/FlowGraph 
+
+### Misc C++ Tools and Libs of interest to Unreal Developers
+
+<img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a912860-1d74-4671-a700-ed43ffa84724" width="8%">
+
+- <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/e9b3e3cc-3872-466f-bfa5-3fda54895097" width="20%">
+- The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure. https://github.com/assimp/assimp
+
+# BLENDER ADDONS
+
+<img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/b5694db7-8938-4044-93f8-9f7def7208a8" width="30%">
+- https://epicgamesext.github.io/BlenderTools/
+- Official mirror of Blender https://github.com/blender/blender http://www.blender.org/
+- <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/bcea4a6b-e073-4b36-a847-9c525cdfed47" width="20%">
+- Stable Diffusion built-in to Blender https://github.com/carson-katri/dream-textures
+
 
 # REFERENCE
 
@@ -463,8 +481,12 @@ These generally cost various amounts but can be used in any amount for any purpo
 
 
 
+# Other Misc Game Development LINK Repositories
 
-
+- ![98503724-2c85-4c61-b52c-77fef707327c](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/78edfb5e-c234-46de-b286-6fde1dba3712)
+- Gamedev https://github.com/FronkonGames/Awesome-Gamedev
+- <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/7bf909f9-0dba-45ba-b8d9-d866aef886f7" width="50%">
+- A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone. https://github.com/agmmnn/awesome-blender
 
 
 
