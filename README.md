@@ -15,6 +15,7 @@ The document is organized by categories of
     - Python (Editor scripting)
     - Python (via Addon)
     - C# and F# (via Addon)
+    - Lua (via Addon)
 - Important Companions such as Blender
 
 There is also a "Type of Interest" set of categories that I hope to feature with a color code of some sort:
