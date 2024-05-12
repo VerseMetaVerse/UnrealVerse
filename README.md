@@ -506,13 +506,14 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - https://github.com/olopsman/uefn-verse-sample
 - https://github.com/CoffeeJavaBeans/fortniteProject
 - https://github.com/imaginarycomponent/StartMenuSample
-- (Alert: GPL) https://github.com/Androoideka/uefn-verse-lab
 - https://github.com/marcosguijr/uefn
 - https://github.com/arjff/UEFN_DEMO_1
 - Verse cannot read files/databases, so we're forced to use an external script to create a .Verse file - https://github.com/Keiron-Beadle/LabyrinthData
-- GPL license makes this rather useless: "A collection of usage examples for verse within unreal engine for fortnite" - https://github.com/wassti/Verse_Boilerplate
 - https://github.com/felislsd/UEFN_TestProject
 - "This is the first ever open sourced GitHub repo of Verse in the world!" - https://github.com/Cubed/uefn-verse-projects
+- *ALERT: GPL* The GPL license is a poor fit for library or snippet code to be used elsewhere *TO BE AVOIDED*
+    - A collection of usage examples for verse within unreal engine for fortnite - https://github.com/wassti/Verse_Boilerplate
+    - Testing ground for the Verse language in Unreal Engine for Fortnite -  https://github.com/Androoideka/uefn-verse-lab
 
 # Unreal Marketplace Items That Might Be Worth A Look
 
