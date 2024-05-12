@@ -178,7 +178,19 @@ The New Asset Store (Included in UEFN, part of UE6?)
 
 ## Verse and UEFN Tools
 
-https://github.com/Meshcapade/mc-uefn Meshcapade support for Unreal Editor for Fortnite (UEFN) This plugin allows you to quickly retarget motions created on the Meshcapade.me platform onto your own characters in Unreal Editor for Fortnite. Bodies created on the Meshcapade platform are created using the SMPL core technology, and are thus referred to as SMPL-bodies.
+- Epic UEFN - https://store.epicgames.com/en-US/p/fortnite--uefn
+- Visual Studio Code - used by UEFN to edit Verse code
+    - https://code.visualstudio.com
+    - https://en.wikipedia.org/wiki/Visual_Studio_Code
+    - Note that UEFN installs a VS Code Extension for Verse automatically
+ 
+### Misc Verse Tools
+- VSCode extension: Visual Reference Explorer & Helper for Verse - https://github.com/cronofear-dev/VerseReferenceExplorer
+- https://github.com/Manifest-Git/verse-extension
+- vscode extension containing a collection of snippets for the Verse programming language - https://github.com/Ethan-Guest/verse-language-snippets
+- Verse Helper extension for VS Code https://github.com/konstantinbelyakov/verse-helper-vscode
+- Meshcapade support for Unreal Editor for Fortnite (UEFN) This plugin allows you to quickly retarget motions created on the Meshcapade.me platform onto your own characters in Unreal Editor for Fortnite. Bodies created on the Meshcapade platform are created using the SMPL core technology, and are thus referred to as SMPL-bodies. https://github.com/Meshcapade/mc-uefn 
+
 
 ## Fortnite Tools
 
@@ -290,18 +302,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
   - https://github.com/PiEqualsThree/UEFN-Tutorials
 - Graeme Bull - https://www.youtube.com/playlist?list=PLFwDePNaxc-k37rZBSib8IrT8Ot0rDwbX
   
-# Verse Tools
 
-- Epic UEFN - https://store.epicgames.com/en-US/p/fortnite--uefn
-- Visual Studio Code - used by UEFN to edit Verse code
-    - https://code.visualstudio.com
-    - https://en.wikipedia.org/wiki/Visual_Studio_Code
-    - Note that UEFN installs a VS Code Extension for Verse automatically
- 
-Misc NOT tested
-- VSCode extension: Visual Reference Explorer & Helper for Verse - https://github.com/cronofear-dev/VerseReferenceExplorer
-- https://github.com/Manifest-Git/verse-extension
-- vscode extension containing a collection of snippets for the Verse programming language - https://github.com/Ethan-Guest/verse-language-snippets 
 
 ## Creator Portal Info
 
