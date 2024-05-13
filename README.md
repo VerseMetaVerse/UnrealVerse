@@ -443,6 +443,11 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - A repository for UEFN (Unreal Editor for Fortnite) generic devices - https://github.com/garrettpfoy/uefn-generic-devices
 - https://github.com/futouyiba/UefnVerseCode
 - UEFN - Custom game made in Unreal Engine for Fortnite Creative (only Verse code) - https://github.com/Gguardiola/UnrealEngine-Fortnite-CarZoneFights
+- This repo is supposed to contain code snippets in Verse, and make learning process easier - https://github.com/powolnik/Verse-Reference-Library
+- All infomation and code in this file some files look like code but is strictly code info - https://github.com/Tstrongvode/codesverse
+- boss example code just use to modify - https://github.com/Tstrongvode/BossExampleRepo
+- lichbossfightmechanics a bunch of resources to train chatgpton - https://github.com/Tstrongvode/GPTlichbossfightmechanics
+- just copy and pasting digest info - https://github.com/Tstrongvode/versedigest
 - https://github.com/tuurGevers/hexagon_tilr_generation_uefn
 - https://github.com/tuurGevers/procedural-dungeon
 - https://github.com/tuurGevers/conway_verse
