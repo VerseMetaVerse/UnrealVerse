@@ -453,6 +453,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - https://github.com/tuurGevers/conway_verse
 - https://github.com/tuurGevers/verse_utils
 - https://github.com/Yuvin15/VerseCode-For-Upcoming-game
+- https://github.com/imcouri/verse_custom_button
 - Verse code used across my projects https://github.com/babakaros/Verse
 - Verse snippets for use with UEFN https://github.com/mandeep/VerseMaxxing
 - Explore a growing collection of code files and libraries designed to simplify and enhance your content creation process using Unreal Editor and Verse. This toolkit streamlines repetitive tasks and empowers you to build content faster. We welcome contributions from fellow developers who share our passion for enriching the Fortnite content creation landscape. https://github.com/NeurealUEFN/Verse
