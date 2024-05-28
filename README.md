@@ -456,6 +456,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - https://github.com/tuurGevers/procedural-dungeon
 - https://github.com/tuurGevers/conway_verse
 - https://github.com/tuurGevers/verse_utils
+- A collection of verse snippets I made to use in UEFN https://github.com/mephistia/verse-snippets
 - https://github.com/Yuvin15/VerseCode-For-Upcoming-game
 - https://github.com/imcouri/verse_custom_button
 - Verse code used across my projects https://github.com/babakaros/Verse
