@@ -5,6 +5,8 @@
 Verse, and UEFN and Fortnite and UE5 with a convergence of the tech upcoming in UE6
 This started as a collection of all the information and links about Epic's Verse programming language, but since Verse is expected to converge into the general Unreal codebase in 2024 or 2025 the scope of information found here will expand to be more useful to everyone in the Unreal Universe with the addition of information on Fortnite as well as the traditional Unreal UE5 ecosystem
 
+General Unreal News - https://www.unrealengine.com/en-US/feed
+
 ### This Document
 
 The document is organized by categories of 
@@ -29,7 +31,7 @@ There is also a "Type of Interest" set of categories that I hope to feature with
 - 3D and 2D Assets, both OSS/Free and recommended commercial
 - Pointers to other collections of Game Development info
 
-# Brief Mention of Epic Games
+# Epic Games
 
 - Hopefully more detail can eventually be found at https://github.com/VerseMetaVerse/EpicGames
 - https://github.com/EpicGames/Signup To access our repositories,
@@ -112,6 +114,10 @@ Tencent ![18461506](https://github.com/VerseMetaVerse/UnrealVerse/assets/1734458
 
 # UNREAL STUDIO
 
+Minimum and recommended hardware specifications and necessary software for developing with Unreal Engine (also includes specs for a typical system used at Epic) https://dev.epicgames.com/documentation/en-us/unreal-engine/hardware-and-software-specifications-for-unreal-engine
+
+Docs: https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-4-documentation?application_version=5.4
+Forum: https://forums.unrealengine.com/categories?tag=unreal-engine
 
 ## UE6
 
@@ -122,6 +128,11 @@ Since Verse is expected to converge into the general Unreal codebase in 2024 or 
 Since Verse is expected to converge into the general Unreal codebase in 2024 or 2025 the scope of information found here will probably expand to be more useful to everyone
 
 ## UEFN
+
+UEFN Docs: https://dev.epicgames.com/documentation/en-us/uefn/unreal-editor-for-fortnite-documentation
+Fortnite Creative Docs: https://dev.epicgames.com/documentation/en-us/fortnite-creative/fortnite-creative-documentation
+Verse Docs: https://dev.epicgames.com/documentation/en-us/uefn/learn-programming-with-verse-in-unreal-editor-for-fortnite
+UEFN Forum: https://forums.unrealengine.com/categories?tag=fortnite
 
 Unfortunately, the only way to compile and run Verse programs is within the UEFN editing environment. (See below for a list of experimental Verses) Verse will eventually beccome standard in all versions of Unreal in order to provide increased security and massive scale, which is essential to supporting a MetaVerse.
 
