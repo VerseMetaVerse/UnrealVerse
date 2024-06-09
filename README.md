@@ -454,6 +454,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - A repository for UEFN (Unreal Editor for Fortnite) generic devices - https://github.com/garrettpfoy/uefn-generic-devices
 - https://github.com/futouyiba/UefnVerseCode
 - UEFN - Custom game made in Unreal Engine for Fortnite Creative (only Verse code) - https://github.com/Gguardiola/UnrealEngine-Fortnite-CarZoneFights.
+- custom UEFN button written in Verse - https://github.com/imcouri/verse_custom_button
 - Code snippets in Verse Language https://github.com/phanmer/uefn
 - I create tutorials for Verse in Unreal Editor for Fortnite on my YouTube channel: https://www.youtube.com/channel/UCsg1W2c0YnHLbQT9S_d4V5A - the code snippets for each video so you can easily copy + paste! Use this code freely in your own games and experiences. Enjoy! https://github.com/nulleqcodes/uefn-tutorials
 - This repo is supposed to contain code snippets in Verse, and make learning process easier - https://github.com/powolnik/Verse-Reference-Library
@@ -556,7 +557,10 @@ These generally cost various amounts but can be used in any amount for any purpo
 - TO-BE-TESTED: Retro Sci-Fi Guy's make a place you would actually enjoy exploring! https://www.unrealengine.com/marketplace/en-US/profile/Olivier+Garrigue?count=20&sortBy=effectiveDate&sortDir=DESC&start=0 - Example: - SciFi 'Populate' Pack - https://www.unrealengine.com/marketplace/en-US/product/scifi-populate-pack YT: https://www.youtube.com/watch?v=pJdHAWJUjgQ
 - TO-BE-TESTED: Basic Splined Mesh Blueprint - FREE general purpose spline code in Blueprint https://www.youtube.com/watch?v=hFZljPUWW8Q Can be purchased here: https://www.unrealengine.com/marketplace/en-US/product/basic-splined-mesh-blueprint?sessionInvalidated=true or downloaded for free (Source: Unreal Showcase) 
 
+# MetaVerse OR ROBLOX
 
+![Screenshot 2024-06-09 141440](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/e11e5fa2-b9cb-4c0f-bd14-04c6e0dd4fae)
+IKEA wants to pay real people to work in its new store inside Roblox game - https://www.cnn.com/2024/06/07/tech/ikea-job-roblox-intl-scli-gbr/index.html
 
 # Other Misc Game Development LINK Repositories
 
