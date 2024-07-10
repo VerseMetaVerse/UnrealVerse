@@ -454,6 +454,9 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - A repository for UEFN (Unreal Editor for Fortnite) generic devices - https://github.com/garrettpfoy/uefn-generic-devices
 - https://github.com/futouyiba/UefnVerseCode
 - UEFN - Custom game made in Unreal Engine for Fortnite Creative (only Verse code) - https://github.com/Gguardiola/UnrealEngine-Fortnite-CarZoneFights.
+- The code I wrote for this open world game mode I created in Fortnite using Epic Games' Verse language. 
+- Verse files used in YouTube tutorials https://github.com/JHBOGameDev/YTVerseTutorials https://github.com/mikeramosco/universe182
+- UEFN SceneGraph Sample 01 https://github.com/nobanashi/SceneGraphSample01
 - custom UEFN button written in Verse - https://github.com/imcouri/verse_custom_button
 - Code snippets in Verse Language https://github.com/phanmer/uefn
 - I create tutorials for Verse in Unreal Editor for Fortnite on my YouTube channel: https://www.youtube.com/channel/UCsg1W2c0YnHLbQT9S_d4V5A - the code snippets for each video so you can easily copy + paste! Use this code freely in your own games and experiences. Enjoy! https://github.com/nulleqcodes/uefn-tutorials
@@ -537,11 +540,17 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - https://github.com/marcosguijr/uefn
 - https://github.com/arjff/UEFN_DEMO_1
 - Verse cannot read files/databases, so we're forced to use an external script to create a .Verse file - https://github.com/Keiron-Beadle/LabyrinthData
+- This script is a template for creating purchasable items in the game https://github.com/Tsaryii/TycoonStomper
+- This one is very niche, it is to stress test your server performance. You just run the 'LatencyManager' function whenever you want to start a test! It'll return the multithreaded score and every single thread score.https://github.com/Tsaryii/StressTestor
 - https://github.com/felislsd/UEFN_TestProject
 - "This is the first ever open sourced GitHub repo of Verse in the world!" - https://github.com/Cubed/uefn-verse-projects
-- *ALERT: GPL* The GPL license is a poor fit for library or snippet code to be used elsewhere *TO BE AVOIDED*
+
+  
+- *ALERT: GPL* The following projects with the GPL license are a poor fit for library or snippet code to be used elsewhere *TO BE AVOIDED*
     - A collection of usage examples for verse within unreal engine for fortnite - https://github.com/wassti/Verse_Boilerplate
     - Testing ground for the Verse language in Unreal Engine for Fortnite -  https://github.com/Androoideka/uefn-verse-lab
+    - Modular & Dynamic Verse Tycoon Kit. https://github.com/Tsaryii/TycoonKitX
+    - A free tycoonkit to use in UEFN https://github.com/Tsaryii/SuperKitX-1.0.1
 
 # Unreal Marketplace Items That Might Be Worth A Look
 
