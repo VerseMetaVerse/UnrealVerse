@@ -454,6 +454,8 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - A repository for UEFN (Unreal Editor for Fortnite) generic devices - https://github.com/garrettpfoy/uefn-generic-devices
 - https://github.com/futouyiba/UefnVerseCode
 - UEFN - Custom game made in Unreal Engine for Fortnite Creative (only Verse code) - https://github.com/Gguardiola/UnrealEngine-Fortnite-CarZoneFights.
+- This is a useful tool created for UEFN https://github.com/posita33/PositiveUEFNUtility/tree/develop
+- A Wallhack script made with UEFN scripting language VERSE. Use for Creative 2.0! https://github.com/ItsKuf/kuff_wallhack
 - The code I wrote for this open world game mode I created in Fortnite using Epic Games' Verse language. 
 - Verse files used in YouTube tutorials https://github.com/JHBOGameDev/YTVerseTutorials https://github.com/mikeramosco/universe182
 - UEFN SceneGraph Sample 01 https://github.com/nobanashi/SceneGraphSample01
