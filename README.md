@@ -454,6 +454,10 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - A repository for UEFN (Unreal Editor for Fortnite) generic devices - https://github.com/garrettpfoy/uefn-generic-devices
 - https://github.com/futouyiba/UefnVerseCode
 - UEFN - Custom game made in Unreal Engine for Fortnite Creative (only Verse code) - https://github.com/Gguardiola/UnrealEngine-Fortnite-CarZoneFights.
+- custom UEFN FFA map with three game modes (Boxfight, Zonewars, Realistics) https://github.com/AlbertSteinn/Boxfight-Zonewars-Realistics
+- custom 1v1 map for Fortnite with unique gameplay mechanics using Verse programming. https://github.com/AlbertSteinn/Steinn-1v1-Map
+- custom UEFN map designed to practice piece control and mechanics in Fortnite https://github.com/AlbertSteinn/Mechanics-Training-Map
+- custom UEFN map designed for competitive boxfight tournaments in Fortnite. https://github.com/AlbertSteinn/Boxfight-Tournament-Map
 - Verse devices https://github.com/DragonHunter1357/verse-devices
 - This is a useful tool created for UEFN https://github.com/posita33/PositiveUEFNUtility/tree/develop
 - A Wallhack script made with UEFN scripting language VERSE. Use for Creative 2.0! https://github.com/ItsKuf/kuff_wallhack
