@@ -196,6 +196,7 @@ The New Asset Store (Included in UEFN, part of UE6?)
     - Note that UEFN installs a VS Code Extension for Verse automatically
  
 ### Misc Verse Tools
+- Checking up-time of UEFN services https://github.com/jok-dev/uefn-uptime
 - VSCode extension: Visual Reference Explorer & Helper for Verse - https://github.com/cronofear-dev/VerseReferenceExplorer
 - https://github.com/Manifest-Git/verse-extension
 - vscode extension containing a collection of snippets for the Verse programming language - https://github.com/Ethan-Guest/verse-language-snippets
