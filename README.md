@@ -455,6 +455,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - A repository for UEFN (Unreal Editor for Fortnite) generic devices - https://github.com/garrettpfoy/uefn-generic-devices
 - https://github.com/futouyiba/UefnVerseCode
 - UEFN - Custom game made in Unreal Engine for Fortnite Creative (only Verse code) - https://github.com/Gguardiola/UnrealEngine-Fortnite-CarZoneFights.
+- Random Output Device https://github.com/CCruzFight/UEFN
 - custom UEFN FFA map with three game modes (Boxfight, Zonewars, Realistics) https://github.com/AlbertSteinn/Boxfight-Zonewars-Realistics
 - custom 1v1 map for Fortnite with unique gameplay mechanics using Verse programming. https://github.com/AlbertSteinn/Steinn-1v1-Map
 - custom UEFN map designed to practice piece control and mechanics in Fortnite https://github.com/AlbertSteinn/Mechanics-Training-Map
@@ -473,6 +474,9 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - boss example code just use to modify - https://github.com/Tstrongvode/BossExampleRepo
 - lichbossfightmechanics a bunch of resources to train chatgpton - https://github.com/Tstrongvode/GPTlichbossfightmechanics
 - just copy and pasting digest info - https://github.com/Tstrongvode/versedigest
+- https://github.com/tuurGevers/open-source-game
+- https://github.com/tuurGevers/verse_multilang
+- https://github.com/tuurGevers/Build_detect
 - https://github.com/tuurGevers/uefn_raycasting
 - https://github.com/tuurGevers/UEFN_NPC_utils
 - https://github.com/tuurGevers/uefn-timer-lib
