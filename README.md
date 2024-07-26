@@ -436,7 +436,21 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - Verse Interpreter (C#) - https://github.com/onur1211/verse-interpreter
 - "This repo was a first try to create a VS Code language extension for a own version of the Verse language. Unfortunately I wasn't very successful for now, just startet off. And it is currently not planned to finish this attempt." - https://github.com/m1sjo/vsCode-verse-language-extension
 
+## SNIPPET THINGS
 
+### UNREAL SNIPPETS
+
+### VERSE SNIPPETS
+
+- collection of a ton of Verse scripts for UEFN / Fortnite Creative! https://github.com/MadsMGrin/Verse
+- vscode extension containing a collection of snippets for the Verse programming language https://github.com/Ethan-Guest/verse-language-snippets
+- Verse snippets for use with UEFN https://github.com/mandeep/VerseMaxxing
+- Code snippets in Verse Language https://github.com/phanmer/uefn
+- Code in Verse or other languages to solve algorithms https://github.com/CoffeeJavaBeans/CodeForUEFNprojects
+- Examples of scripts on Versal for the Unreal Engine Fortnite Editor https://github.com/GholemHub/UEFN_Verse_Examples
+- code snippets in Verse, and make learning process easier https://github.com/powolnik/Verse-Reference-Library
+- *WARNING - INSANE LICENSE FOR SNIPPETS* Snippets and examples of Verse code https://github.com/jamessmoore/verse-snippets
+- *WARNING - INSANE LICENSE FOR SNIPPETS* https://github.com/Tsaryii/Verse-Snippets
 
 ## Misc Verse code on Github
 
