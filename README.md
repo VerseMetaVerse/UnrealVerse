@@ -269,6 +269,13 @@ Tools that help make Blueprints
 - <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/bcea4a6b-e073-4b36-a847-9c525cdfed47" width="30%">
     - Stable Diffusion built-in to Blender https://github.com/carson-katri/dream-textures
 
+# QUATERNIONS and other friends
+
+- Vectors & Dot Product • Math for Game Devs [Part 1] https://www.youtube.com/watch?v=MOYiVLEnhrw
+- https://github.com/CraftedCart/BlueprintRotationLibrary
+- Smooth Movement - BP Math Extended by Vector and Quaternion Interpolation https://www.unrealengine.com/marketplace/en-US/product/smooth-movement-bp-math-extended-by-vector-interpolation-quaternion-rotation
+- Unified Rotations https://www.unrealengine.com/marketplace/en-US/product/unified-rotations
+- Clean Gimball Lock Solution / 6 Degree of Freedom Movement Component https://www.unrealengine.com/marketplace/en-US/product/ezdof-clean-gimball-lock-solution-6-degree-of-freedom-movement-component
 
 # REFERENCE
 
