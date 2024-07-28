@@ -612,6 +612,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 
 These generally cost various amounts but can be used in any amount for any purpose as long as they are used with the Unreal Engine
 
+- One Earth to rule them all. A realistic high-fidelity asset with feature rich shaders for orbital scenes and truly cinematic Earth close ups. Easy customization directly from blueprint parameters. - https://www.unrealengine.com/marketplace/en-US/product/incredible-earth-80k
 - TO-BE-TESTED: EXTILE PLUS Non-repetitive tiling master materials Removes tiling repetition on any texture and create complex effects directly in material. (Extile was recently featured in the 2022 Venice Film Festival)  https://www.unrealengine.com/marketplace/en-US/product/extile-plus-non-repetitive-tiling-material YT: https://www.youtube.com/watch?v=6rOaPmDWCd0
 - TO-BE-TESTED: EasyFog from the same maker as EasyMapper (https://www.unrealengine.com/marketplace/en-US/product/easymapper) - https://www.unrealengine.com/marketplace/en-US/product/easyfog YT https://www.youtube.com/watch?v=CyRksVjviwg
 - TO-BE-TESTED: ProInstance Tools Plugin - same maker as "Blockout Tools" for procedural placement https://www.unrealengine.com/marketplace/en-US/product/proinstance-tools-plugin docs - https://dmkarpukhin.itch.io/proinstance-tools-plugin YT: https://www.youtube.com/watch?v=YYhLWI5Nl4E and https://www.youtube.com/watch?v=-teNQEs_aZE
