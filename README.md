@@ -273,10 +273,29 @@ Tools that help make Blueprints
 
 "The quaternions are members of a noncommutative division algebra first invented by William Rowan Hamilton. The idea for quaternions occurred to him while he was walking along the Royal Canal on his way to a meeting of the Irish Academy, and Hamilton was so pleased with his discovery that he scratched the fundamental formula of quaternion algebra,  i^2=j^2=k^2=ijk=-1, into the stone of the Brougham bridge" - https://mathworld.wolfram.com/Quaternion.html
 
-- https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Math/Quat?application_version=5.3
-- https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Math
+
 - Vectors & Dot Product • Math for Game Devs [Part 1] https://www.youtube.com/watch?v=MOYiVLEnhrw
 - https://github.com/CraftedCart/BlueprintRotationLibrary
+
+## QUARTERNIONS in GPU and Niagara
+
+- Niagara Set Quaternion Array - https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Niagara/NiagaraSetQuaternionArray?application_version=5.4
+
+## QUATERNIONS in Epic Python
+
+- unreal.Quat - https://docs.unrealengine.com/5.0/en-US/PythonAPI/class/Quat.html
+
+## QUARTERNIONS Epic Examples
+
+- Custom Gravity in UE 5.4 - https://dev.epicgames.com/community/learning/tutorials/w6l7/unreal-engine-custom-gravity-in-ue-5-4
+- Nearest Neighbor Model 5.4 - https://dev.epicgames.com/community/learning/tutorials/pwaY/unreal-engine-nearest-neighbor-model-5-4
+
+## QUARTERNIONS Epic Reference
+
+- https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Math/Quat?application_version=5.3
+- https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Math
+
+## QUARTERNIONS in Unreal Marketplace
 - Smooth Movement - BP Math Extended by Vector and Quaternion Interpolation https://www.unrealengine.com/marketplace/en-US/product/smooth-movement-bp-math-extended-by-vector-interpolation-quaternion-rotation
 - Unified Rotations https://www.unrealengine.com/marketplace/en-US/product/unified-rotations
 - Clean Gimball Lock Solution / 6 Degree of Freedom Movement Component https://www.unrealengine.com/marketplace/en-US/product/ezdof-clean-gimball-lock-solution-6-degree-of-freedom-movement-component
