@@ -269,7 +269,13 @@ Tools that help make Blueprints
 - <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/bcea4a6b-e073-4b36-a847-9c525cdfed47" width="30%">
     - Stable Diffusion built-in to Blender https://github.com/carson-katri/dream-textures
 
-# QUATERNIONS and other friends
+# QUATERNIONS and other Friends
+
+The quaternions are members of a noncommutative division algebra first invented by William Rowan Hamilton. The idea for quaternions occurred to him while he was walking along the Royal Canal on his way to a meeting of the Irish Academy, and Hamilton was so pleased with his discovery that he scratched the fundamental formula of quaternion algebra,
+
+ i^2=j^2=k^2=ijk=-1, 	
+(1)
+into the stone of the Brougham bridge - https://mathworld.wolfram.com/Quaternion.html
 
 - Vectors & Dot Product • Math for Game Devs [Part 1] https://www.youtube.com/watch?v=MOYiVLEnhrw
 - https://github.com/CraftedCart/BlueprintRotationLibrary
