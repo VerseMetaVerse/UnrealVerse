@@ -271,12 +271,10 @@ Tools that help make Blueprints
 
 # QUATERNIONS and other Friends
 
-The quaternions are members of a noncommutative division algebra first invented by William Rowan Hamilton. The idea for quaternions occurred to him while he was walking along the Royal Canal on his way to a meeting of the Irish Academy, and Hamilton was so pleased with his discovery that he scratched the fundamental formula of quaternion algebra,
+"The quaternions are members of a noncommutative division algebra first invented by William Rowan Hamilton. The idea for quaternions occurred to him while he was walking along the Royal Canal on his way to a meeting of the Irish Academy, and Hamilton was so pleased with his discovery that he scratched the fundamental formula of quaternion algebra,  i^2=j^2=k^2=ijk=-1, into the stone of the Brougham bridge" - https://mathworld.wolfram.com/Quaternion.html
 
- i^2=j^2=k^2=ijk=-1, 	
-(1)
-into the stone of the Brougham bridge - https://mathworld.wolfram.com/Quaternion.html
-
+- https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Math/Quat?application_version=5.3
+- https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Math
 - Vectors & Dot Product • Math for Game Devs [Part 1] https://www.youtube.com/watch?v=MOYiVLEnhrw
 - https://github.com/CraftedCart/BlueprintRotationLibrary
 - Smooth Movement - BP Math Extended by Vector and Quaternion Interpolation https://www.unrealengine.com/marketplace/en-US/product/smooth-movement-bp-math-extended-by-vector-interpolation-quaternion-rotation
