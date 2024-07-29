@@ -499,6 +499,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - A repository for UEFN (Unreal Editor for Fortnite) generic devices - https://github.com/garrettpfoy/uefn-generic-devices
 - https://github.com/futouyiba/UefnVerseCode
 - UEFN - Custom game made in Unreal Engine for Fortnite Creative (only Verse code) - https://github.com/Gguardiola/UnrealEngine-Fortnite-CarZoneFights.
+- Fortnite programming languague templates - https://github.com/victorgxn/verse_templates
 - Random Output Device https://github.com/CCruzFight/UEFN
 - custom UEFN FFA map with three game modes (Boxfight, Zonewars, Realistics) https://github.com/AlbertSteinn/Boxfight-Zonewars-Realistics
 - custom 1v1 map for Fortnite with unique gameplay mechanics using Verse programming. https://github.com/AlbertSteinn/Steinn-1v1-Map
