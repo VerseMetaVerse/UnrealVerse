@@ -186,6 +186,71 @@ The New Asset Store (Included in UEFN, part of UE6?)
 - https://github.com/KARNB24/Astral-Warfare Welcome to Astral Warfare: Quantum Reckoning, an action-packed game developed on Unreal Engine 5.3.2
 - David's unreal engine example projects - https://github.com/david-pp/UEExampleProjects
 
+# ECS
+
+- <img width="25%" src="https://github.com/user-attachments/assets/9a86c076-f105-49fd-a0be-70ffb5011838"> Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more - https://github.com/skypjack/entt
+- <img width="25%" src="https://github.com/user-attachments/assets/f4242305-42f8-4cf3-8024-037704c1bbf5">  fast entity component system (ECS) for C & C++ - https://github.com/SanderMertens/flecs
+
+
+# SNIPPET THINGS
+
+## UNREAL SNIPPETS
+
+- A bunch of notes and code snippets that I write while figuring out how to use the Unreal Engine - https://github.com/ibbles/LearningUnreal
+- vscode-unreal-snippets - https://github.com/pseuplex/vscode-unreal-snippets
+- Unreal Engine Code Example & Snippets - https://github.com/david-pp/UESnippets
+- A collection of code snippets for Unreal Engine projects - https://github.com/TheJamsh/UnrealSnippets
+- UE4 related useful code snippets - https://github.com/sasmaster/UnrealEngineCodeSnippets
+- Unreal Snippets - https://github.com/Tonetfal/UnrealSnippets
+- Select Snippets of Code for Implementing Rollback - https://github.com/Clarkmonsterman/Unreal-Networking
+- Quality of life code snippets for Unreal Engine - https://github.com/mika314/QofL
+- list of useful Unreal Engine snippets. For Visual Studio 2022 - https://github.com/TheOnlySocialHermit/UnrealSnippets
+
+## VERSE SNIPPETS
+
+- collection of a ton of Verse scripts for UEFN / Fortnite Creative! https://github.com/MadsMGrin/Verse
+- vscode extension containing a collection of snippets for the Verse programming language https://github.com/Ethan-Guest/verse-language-snippets
+- Verse snippets for use with UEFN https://github.com/mandeep/VerseMaxxing
+- Code snippets in Verse Language https://github.com/phanmer/uefn
+- Code in Verse or other languages to solve algorithms https://github.com/CoffeeJavaBeans/CodeForUEFNprojects
+- Examples of scripts on Versal for the Unreal Engine Fortnite Editor https://github.com/GholemHub/UEFN_Verse_Examples
+- code snippets in Verse, and make learning process easier https://github.com/powolnik/Verse-Reference-Library
+- *WARNING - INSANE LICENSE FOR SNIPPETS* Snippets and examples of Verse code https://github.com/jamessmoore/verse-snippets
+- *WARNING - INSANE LICENSE FOR SNIPPETS* https://github.com/Tsaryii/Verse-Snippets
+
+# QUATERNIONS and other Friends
+
+"The quaternions are members of a noncommutative division algebra first invented by William Rowan Hamilton. The idea for quaternions occurred to him while he was walking along the Royal Canal on his way to a meeting of the Irish Academy, and Hamilton was so pleased with his discovery that he scratched the fundamental formula of quaternion algebra,  i^2=j^2=k^2=ijk=-1, into the stone of the Brougham bridge" - https://mathworld.wolfram.com/Quaternion.html
+
+
+- Vectors & Dot Product • Math for Game Devs [Part 1] https://www.youtube.com/watch?v=MOYiVLEnhrw
+- https://github.com/CraftedCart/BlueprintRotationLibrary
+
+## QUARTERNIONS in GPU and Niagara
+
+- Niagara Set Quaternion Array - https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Niagara/NiagaraSetQuaternionArray?application_version=5.4
+
+## QUATERNIONS in Epic Python
+
+- unreal.Quat - https://docs.unrealengine.com/5.0/en-US/PythonAPI/class/Quat.html
+
+## QUARTERNIONS Epic Examples
+
+- Custom Gravity in UE 5.4 - https://dev.epicgames.com/community/learning/tutorials/w6l7/unreal-engine-custom-gravity-in-ue-5-4
+- Nearest Neighbor Model 5.4 - https://dev.epicgames.com/community/learning/tutorials/pwaY/unreal-engine-nearest-neighbor-model-5-4
+
+## QUARTERNIONS Epic Reference
+
+- https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Math/Quat?application_version=5.3
+- https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Math
+
+## QUARTERNIONS in Unreal Marketplace
+- Smooth Movement - BP Math Extended by Vector and Quaternion Interpolation https://www.unrealengine.com/marketplace/en-US/product/smooth-movement-bp-math-extended-by-vector-interpolation-quaternion-rotation
+- Unified Rotations https://www.unrealengine.com/marketplace/en-US/product/unified-rotations
+- Clean Gimball Lock Solution / 6 Degree of Freedom Movement Component https://www.unrealengine.com/marketplace/en-US/product/ezdof-clean-gimball-lock-solution-6-degree-of-freedom-movement-component
+
+
+
 # TOOLS
 
 ## Verse and UEFN Tools
@@ -270,62 +335,7 @@ Tools that help make Blueprints
 - <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/bcea4a6b-e073-4b36-a847-9c525cdfed47" width="30%">
     - Stable Diffusion built-in to Blender https://github.com/carson-katri/dream-textures
 
-## SNIPPET THINGS
 
-### UNREAL SNIPPETS
-
-- A bunch of notes and code snippets that I write while figuring out how to use the Unreal Engine - https://github.com/ibbles/LearningUnreal
-- vscode-unreal-snippets - https://github.com/pseuplex/vscode-unreal-snippets
-- Unreal Engine Code Example & Snippets - https://github.com/david-pp/UESnippets
-- A collection of code snippets for Unreal Engine projects - https://github.com/TheJamsh/UnrealSnippets
-- UE4 related useful code snippets - https://github.com/sasmaster/UnrealEngineCodeSnippets
-- Unreal Snippets - https://github.com/Tonetfal/UnrealSnippets
-- Select Snippets of Code for Implementing Rollback - https://github.com/Clarkmonsterman/Unreal-Networking
-- Quality of life code snippets for Unreal Engine - https://github.com/mika314/QofL
-- list of useful Unreal Engine snippets. For Visual Studio 2022 - https://github.com/TheOnlySocialHermit/UnrealSnippets
-
-### VERSE SNIPPETS
-
-- collection of a ton of Verse scripts for UEFN / Fortnite Creative! https://github.com/MadsMGrin/Verse
-- vscode extension containing a collection of snippets for the Verse programming language https://github.com/Ethan-Guest/verse-language-snippets
-- Verse snippets for use with UEFN https://github.com/mandeep/VerseMaxxing
-- Code snippets in Verse Language https://github.com/phanmer/uefn
-- Code in Verse or other languages to solve algorithms https://github.com/CoffeeJavaBeans/CodeForUEFNprojects
-- Examples of scripts on Versal for the Unreal Engine Fortnite Editor https://github.com/GholemHub/UEFN_Verse_Examples
-- code snippets in Verse, and make learning process easier https://github.com/powolnik/Verse-Reference-Library
-- *WARNING - INSANE LICENSE FOR SNIPPETS* Snippets and examples of Verse code https://github.com/jamessmoore/verse-snippets
-- *WARNING - INSANE LICENSE FOR SNIPPETS* https://github.com/Tsaryii/Verse-Snippets
-
-# QUATERNIONS and other Friends
-
-"The quaternions are members of a noncommutative division algebra first invented by William Rowan Hamilton. The idea for quaternions occurred to him while he was walking along the Royal Canal on his way to a meeting of the Irish Academy, and Hamilton was so pleased with his discovery that he scratched the fundamental formula of quaternion algebra,  i^2=j^2=k^2=ijk=-1, into the stone of the Brougham bridge" - https://mathworld.wolfram.com/Quaternion.html
-
-
-- Vectors & Dot Product • Math for Game Devs [Part 1] https://www.youtube.com/watch?v=MOYiVLEnhrw
-- https://github.com/CraftedCart/BlueprintRotationLibrary
-
-## QUARTERNIONS in GPU and Niagara
-
-- Niagara Set Quaternion Array - https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Niagara/NiagaraSetQuaternionArray?application_version=5.4
-
-## QUATERNIONS in Epic Python
-
-- unreal.Quat - https://docs.unrealengine.com/5.0/en-US/PythonAPI/class/Quat.html
-
-## QUARTERNIONS Epic Examples
-
-- Custom Gravity in UE 5.4 - https://dev.epicgames.com/community/learning/tutorials/w6l7/unreal-engine-custom-gravity-in-ue-5-4
-- Nearest Neighbor Model 5.4 - https://dev.epicgames.com/community/learning/tutorials/pwaY/unreal-engine-nearest-neighbor-model-5-4
-
-## QUARTERNIONS Epic Reference
-
-- https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Math/Quat?application_version=5.3
-- https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Math
-
-## QUARTERNIONS in Unreal Marketplace
-- Smooth Movement - BP Math Extended by Vector and Quaternion Interpolation https://www.unrealengine.com/marketplace/en-US/product/smooth-movement-bp-math-extended-by-vector-interpolation-quaternion-rotation
-- Unified Rotations https://www.unrealengine.com/marketplace/en-US/product/unified-rotations
-- Clean Gimball Lock Solution / 6 Degree of Freedom Movement Component https://www.unrealengine.com/marketplace/en-US/product/ezdof-clean-gimball-lock-solution-6-degree-of-freedom-movement-component
 
 # REFERENCE
 
