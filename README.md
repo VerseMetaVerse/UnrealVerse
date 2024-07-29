@@ -184,6 +184,7 @@ The New Asset Store (Included in UEFN, part of UE6?)
 - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research https://github.com/microsoft/AirSim
 - Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine C++ Course & Stanford University https://github.com/tomlooman/ActionRoguelike
 - https://github.com/KARNB24/Astral-Warfare Welcome to Astral Warfare: Quantum Reckoning, an action-packed game developed on Unreal Engine 5.3.2
+- David's unreal engine example projects - https://github.com/david-pp/UEExampleProjects
 
 # TOOLS
 
@@ -268,6 +269,32 @@ Tools that help make Blueprints
     - <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/b5694db7-8938-4044-93f8-9f7def7208a8" width="40%">
 - <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/bcea4a6b-e073-4b36-a847-9c525cdfed47" width="30%">
     - Stable Diffusion built-in to Blender https://github.com/carson-katri/dream-textures
+
+## SNIPPET THINGS
+
+### UNREAL SNIPPETS
+
+- A bunch of notes and code snippets that I write while figuring out how to use the Unreal Engine - https://github.com/ibbles/LearningUnreal
+- vscode-unreal-snippets - https://github.com/pseuplex/vscode-unreal-snippets
+- Unreal Engine Code Example & Snippets - https://github.com/david-pp/UESnippets
+- A collection of code snippets for Unreal Engine projects - https://github.com/TheJamsh/UnrealSnippets
+- UE4 related useful code snippets - https://github.com/sasmaster/UnrealEngineCodeSnippets
+- Unreal Snippets - https://github.com/Tonetfal/UnrealSnippets
+- Select Snippets of Code for Implementing Rollback - https://github.com/Clarkmonsterman/Unreal-Networking
+- Quality of life code snippets for Unreal Engine - https://github.com/mika314/QofL
+- list of useful Unreal Engine snippets. For Visual Studio 2022 - https://github.com/TheOnlySocialHermit/UnrealSnippets
+
+### VERSE SNIPPETS
+
+- collection of a ton of Verse scripts for UEFN / Fortnite Creative! https://github.com/MadsMGrin/Verse
+- vscode extension containing a collection of snippets for the Verse programming language https://github.com/Ethan-Guest/verse-language-snippets
+- Verse snippets for use with UEFN https://github.com/mandeep/VerseMaxxing
+- Code snippets in Verse Language https://github.com/phanmer/uefn
+- Code in Verse or other languages to solve algorithms https://github.com/CoffeeJavaBeans/CodeForUEFNprojects
+- Examples of scripts on Versal for the Unreal Engine Fortnite Editor https://github.com/GholemHub/UEFN_Verse_Examples
+- code snippets in Verse, and make learning process easier https://github.com/powolnik/Verse-Reference-Library
+- *WARNING - INSANE LICENSE FOR SNIPPETS* Snippets and examples of Verse code https://github.com/jamessmoore/verse-snippets
+- *WARNING - INSANE LICENSE FOR SNIPPETS* https://github.com/Tsaryii/Verse-Snippets
 
 # QUATERNIONS and other Friends
 
@@ -466,21 +493,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 - Verse Interpreter (C#) - https://github.com/onur1211/verse-interpreter
 - "This repo was a first try to create a VS Code language extension for a own version of the Verse language. Unfortunately I wasn't very successful for now, just startet off. And it is currently not planned to finish this attempt." - https://github.com/m1sjo/vsCode-verse-language-extension
 
-## SNIPPET THINGS
 
-### UNREAL SNIPPETS
-
-### VERSE SNIPPETS
-
-- collection of a ton of Verse scripts for UEFN / Fortnite Creative! https://github.com/MadsMGrin/Verse
-- vscode extension containing a collection of snippets for the Verse programming language https://github.com/Ethan-Guest/verse-language-snippets
-- Verse snippets for use with UEFN https://github.com/mandeep/VerseMaxxing
-- Code snippets in Verse Language https://github.com/phanmer/uefn
-- Code in Verse or other languages to solve algorithms https://github.com/CoffeeJavaBeans/CodeForUEFNprojects
-- Examples of scripts on Versal for the Unreal Engine Fortnite Editor https://github.com/GholemHub/UEFN_Verse_Examples
-- code snippets in Verse, and make learning process easier https://github.com/powolnik/Verse-Reference-Library
-- *WARNING - INSANE LICENSE FOR SNIPPETS* Snippets and examples of Verse code https://github.com/jamessmoore/verse-snippets
-- *WARNING - INSANE LICENSE FOR SNIPPETS* https://github.com/Tsaryii/Verse-Snippets
 
 ## Misc Verse code on Github
 
