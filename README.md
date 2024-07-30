@@ -713,12 +713,20 @@ IKEA wants to pay real people to work in its new store inside Roblox game - http
 >
 > 
 
-$${\color{orange}Orange}$$
-$${\color{yellow}Yellow}$$
-$${\color{lightblue}Light \space Blue}$$
-$${\color{blue}Blue}$$
-$${\color{lightgreen}Light \space Green}$$
-$${\color{green}Green}$$
-$${\color{red}Red}$$
+- $${\color{orange}Orange}$$
+- $${\color{yellow}Yellow}$$
+- $${\color{lightblue}Light \space Blue}$$
+- $${\color{blue}Blue}$$
+- $${\color{lightgreen}Light \space Green}$$
+- $${\color{green}Green}$$
+- $${\color{red}Red}$$
+
+# $${\color{orange}Orange}$$
+# $${\color{yellow}Yellow}$$
+# $${\color{lightblue}Light \space Blue}$$
+# $${\color{blue}Blue}$$
+# $${\color{lightgreen}Light \space Green}$$
+# $${\color{green}Green}$$
+# $${\color{red}Red}$$
 
 
