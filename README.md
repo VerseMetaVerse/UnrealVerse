@@ -2,7 +2,7 @@
 
 # The UNREAL Universe  <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/fd300acf-5804-4394-a120-9020886d3a52" width="20%">
 
-[!IMPORTANT] test
+$${\color{orange}Orange}$$[!IMPORTANT] test
 test
 
 > [!IMPORTANT]
