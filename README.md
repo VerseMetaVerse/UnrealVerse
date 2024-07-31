@@ -2,8 +2,6 @@
 
 # The UNREAL Universe  <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/fd300acf-5804-4394-a120-9020886d3a52" width="20%">
 
-$${\color{orange}Orange}$$[!IMPORTANT] test
-test
 
 > [!IMPORTANT]
 > Verse, and UEFN and Fortnite and UE5 with a convergence of the tech upcoming in UE6
@@ -515,9 +513,11 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - custom UEFN map designed for competitive boxfight tournaments in Fortnite. https://github.com/AlbertSteinn/Boxfight-Tournament-Map
 - Verse devices https://github.com/DragonHunter1357/verse-devices
 - This is a useful tool created for UEFN https://github.com/posita33/PositiveUEFNUtility/tree/develop
-- A Wallhack script made with UEFN scripting language VERSE. Use for Creative 2.0! https://github.com/ItsKuf/kuff_wallhack
-- The code I wrote for this open world game mode I created in Fortnite using Epic Games' Verse language. 
-- Verse files used in YouTube tutorials https://github.com/JHBOGameDev/YTVerseTutorials https://github.com/mikeramosco/universe182
+- Wayfinder https://github.com/kiffpuppygames/Wayfinder
+- Verse script that allows you to use custom weapons (kind of) - https://github.com/ItsKuf/Kuff_CustomWeapons
+- Wallhack script made with UEFN scripting language VERSE. Use for Creative 2.0! https://github.com/ItsKuf/kuff_wallhack
+- The code I wrote for this open world game mode I created in Fortnite using Epic Games' Verse language. https://github.com/mikeramosco/universe182
+- Verse files used in YouTube tutorials https://github.com/JHBOGameDev/YTVerseTutorials 
 - UEFN SceneGraph Sample 01 https://github.com/nobanashi/SceneGraphSample01
 - custom UEFN button written in Verse - https://github.com/imcouri/verse_custom_button
 - Code snippets in Verse Language https://github.com/phanmer/uefn
