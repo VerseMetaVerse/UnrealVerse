@@ -615,7 +615,8 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - "This is the first ever open sourced GitHub repo of Verse in the world!" - https://github.com/Cubed/uefn-verse-projects
 
   
-- *ALERT: GPL* The following projects with the GPL license are a poor fit for library or snippet code to be used elsewhere *TO BE AVOIDED*
+> [!WARNING]
+> *ALERT: GPL* The following projects with the GPL license are a poor fit for library or snippet code to be used elsewhere *TO BE AVOIDED*
     - A collection of usage examples for verse within unreal engine for fortnite - https://github.com/wassti/Verse_Boilerplate
     - Testing ground for the Verse language in Unreal Engine for Fortnite -  https://github.com/Androoideka/uefn-verse-lab
     - Modular & Dynamic Verse Tycoon Kit. https://github.com/Tsaryii/TycoonKitX
