@@ -617,10 +617,11 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
   
 > [!WARNING]
 > *ALERT: GPL* The following projects with the GPL license are a poor fit for library or snippet code to be used elsewhere *TO BE AVOIDED*
-    - A collection of usage examples for verse within unreal engine for fortnite - https://github.com/wassti/Verse_Boilerplate
-    - Testing ground for the Verse language in Unreal Engine for Fortnite -  https://github.com/Androoideka/uefn-verse-lab
-    - Modular & Dynamic Verse Tycoon Kit. https://github.com/Tsaryii/TycoonKitX
-    - A free tycoonkit to use in UEFN https://github.com/Tsaryii/SuperKitX-1.0.1
+
+- A collection of usage examples for verse within unreal engine for fortnite - https://github.com/wassti/Verse_Boilerplate
+- Testing ground for the Verse language in Unreal Engine for Fortnite -  https://github.com/Androoideka/uefn-verse-lab
+- Modular & Dynamic Verse Tycoon Kit. https://github.com/Tsaryii/TycoonKitX
+- A free tycoonkit to use in UEFN https://github.com/Tsaryii/SuperKitX-1.0.1
 
 # Unreal Marketplace Items That Might Be Worth A Look
 
