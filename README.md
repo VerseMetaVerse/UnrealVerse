@@ -211,6 +211,7 @@ The New Asset Store (Included in UEFN, part of UE6?)
 ## VERSE SNIPPETS
 
 - collection of a ton of Verse scripts for UEFN / Fortnite Creative! https://github.com/MadsMGrin/Verse
+- Unreal Engine Fortnite Verse Code Snippets - https://github.com/Bexarclaw/UEFN-Verse-Snippets
 - vscode extension containing a collection of snippets for the Verse programming language https://github.com/Ethan-Guest/verse-language-snippets
 - Verse snippets for use with UEFN https://github.com/mandeep/VerseMaxxing
 - Code snippets in Verse Language https://github.com/phanmer/uefn
@@ -505,6 +506,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - A repository for UEFN (Unreal Editor for Fortnite) generic devices - https://github.com/garrettpfoy/uefn-generic-devices
 - https://github.com/futouyiba/UefnVerseCode
 - UEFN - Custom game made in Unreal Engine for Fortnite Creative (only Verse code) - https://github.com/Gguardiola/UnrealEngine-Fortnite-CarZoneFights.
+- Unreal Engine Fortnite Verse Code Snippets - https://github.com/Bexarclaw/UEFN-Verse-Snippets
 - Fortnite programming languague templates - https://github.com/victorgxn/verse_templates
 - Random Output Device https://github.com/CCruzFight/UEFN
 - custom UEFN FFA map with three game modes (Boxfight, Zonewars, Realistics) https://github.com/AlbertSteinn/Boxfight-Zonewars-Realistics
