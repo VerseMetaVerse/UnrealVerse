@@ -218,8 +218,10 @@ The New Asset Store (Included in UEFN, part of UE6?)
 - Code in Verse or other languages to solve algorithms https://github.com/CoffeeJavaBeans/CodeForUEFNprojects
 - Examples of scripts on Versal for the Unreal Engine Fortnite Editor https://github.com/GholemHub/UEFN_Verse_Examples
 - code snippets in Verse, and make learning process easier https://github.com/powolnik/Verse-Reference-Library
-- *WARNING - INSANE LICENSE FOR SNIPPETS* Snippets and examples of Verse code https://github.com/jamessmoore/verse-snippets
-- *WARNING - INSANE LICENSE FOR SNIPPETS* https://github.com/Tsaryii/Verse-Snippets
+> [!WARNING]
+> *INSANE LICENSE FOR SNIPPETS*
+>  Snippets and examples of Verse code https://github.com/jamessmoore/verse-snippets
+>  https://github.com/Tsaryii/Verse-Snippets
 
 # QUATERNIONS and other Friends
 
