@@ -508,6 +508,8 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - A repository for UEFN (Unreal Editor for Fortnite) generic devices - https://github.com/garrettpfoy/uefn-generic-devices
 - https://github.com/futouyiba/UefnVerseCode
 - UEFN - Custom game made in Unreal Engine for Fortnite Creative (only Verse code) - https://github.com/Gguardiola/UnrealEngine-Fortnite-CarZoneFights.
+- This Script will allow you to automatically respawn the player instead of them having a cooldown to respawn - https://github.com/seandotnet/VerseRespawnScript
+- Verse files showcasing my experiments, such as developing custom mechanics - https://github.com/AlbertSteinn/Custom-Codes
 - Unreal Engine Fortnite Verse Code Snippets - https://github.com/Bexarclaw/UEFN-Verse-Snippets
 - Fortnite programming languague templates - https://github.com/victorgxn/verse_templates
 - Random Output Device https://github.com/CCruzFight/UEFN
