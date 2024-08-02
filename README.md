@@ -704,6 +704,21 @@ IKEA wants to pay real people to work in its new store inside Roblox game - http
 - []()
 - []()
 
+	- Programming Language
+		- $${\color{blue}BLUEPRINT}$$
+		- $${\color{magenta}VERSE}$$
+		- $${\color{yellow}c++}$$
+	- Large Tools like Blender - TEAL
+	- Learning - LIME
+	- Reference - ORANGE
+	- Small Tools and Utilities - CYAN
+	- Plugins and addons - CYAN
+	- Libraries - CYAN
+	- Samples/Examples - GREEN
+	- 2D and 3D assets - PINK
+    - Background Info - OLIVE
+
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
