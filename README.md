@@ -508,6 +508,8 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - A repository for UEFN (Unreal Editor for Fortnite) generic devices - https://github.com/garrettpfoy/uefn-generic-devices
 - https://github.com/futouyiba/UefnVerseCode
 - UEFN - Custom game made in Unreal Engine for Fortnite Creative (only Verse code) - https://github.com/Gguardiola/UnrealEngine-Fortnite-CarZoneFights.
+- This is my code written to power my Fortnite mining map. I hope you enjoy - https://github.com/EthanSkltn/Fortnite-Mining-Game
+- Common reusable UEFN verse classes - https://github.com/psykoloGG/VerseClasses
 - This Script will allow you to automatically respawn the player instead of them having a cooldown to respawn - https://github.com/seandotnet/VerseRespawnScript
 - Verse files showcasing my experiments, such as developing custom mechanics - https://github.com/AlbertSteinn/Custom-Codes
 - Unreal Engine Fortnite Verse Code Snippets - https://github.com/Bexarclaw/UEFN-Verse-Snippets
@@ -622,6 +624,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 
 - A collection of usage examples for verse within unreal engine for fortnite - https://github.com/wassti/Verse_Boilerplate
 - Testing ground for the Verse language in Unreal Engine for Fortnite -  https://github.com/Androoideka/uefn-verse-lab
+- TycoonKitX is a comprehensive tycoonkit meant to be easily expanded upon! - https://github.com/Tsaryii/ProjectOST
 - Modular & Dynamic Verse Tycoon Kit. https://github.com/Tsaryii/TycoonKitX
 - A free tycoonkit to use in UEFN https://github.com/Tsaryii/SuperKitX-1.0.1
 
