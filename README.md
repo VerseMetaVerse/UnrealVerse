@@ -188,7 +188,7 @@ The New Asset Store (Included in UEFN, part of UE6?)
 - https://github.com/KARNB24/Astral-Warfare Welcome to Astral Warfare: Quantum Reckoning, an action-packed game developed on Unreal Engine 5.3.2
 
 
-# $${\color{pink}PCG}$$
+# $${\color{cyan}PCG}$$
 
 - PCGEx is a free (libre) Unreal 5 plugin that expands PCG capabilities. It offers a variety of high-performance nodes; with an edge for building relational graphs (Freeform, Delaunay, Voronoi, MST etc), advanced pathfinding; and much more - https://github.com/Nebukam/PCGExtendedToolkit
  - An example project showcasing PCGExtendedToolkit https://github.com/Nebukam/PCGExExampleProject
@@ -204,16 +204,20 @@ The New Asset Store (Included in UEFN, part of UE6?)
   - https://github.com/Amathlog/PCG_CustomNodes
 - An A* pathfinding implementation with PCG (Procedural Content Generation) to generate custom splines in unreal engine between two points - https://github.com/spood/PCGPathfinding
 - Unreal PCG Templates - https://github.com/DeveloperBastian/PCG_Templates
+- Road design tool for UnrealEngine - https://github.com/fullike/RoadBuilder
+- A procedural stacking tool, using PCG for Unreal Engine 5 - https://github.com/TheNeuronCollider/TheBoxStacker
+- Explore a dynamically generated rainforest world in Unreal Engine with Procedural Content Generation (PCG). Traverse lush, dense foliage, encounter diverse wildlife, and uncover hidden treasures as the rainforest evolves with each new adventure. Experience the wonder of nature in a virtual ecosystem where every journey is unique, courtesy of PCG - https://github.com/AlexCrombieF/PCG
+- TerraPrime is an advanced landscape automaterial and PCG toolkit for Unreal Engine 5.4+, designed to enhance terrain realism with seamless integration of Nanite and Lumen. It offers a variety of features including dynamic texture blending, elevation-based material application, and an array of customizable biome - https://github.com/OrchidIsle/TerraPrime
+- Landscape Combinator is an Unreal Engine 5.4 plugin for Windows and Linux that lets you create landscapes from real-world data in a few simple steps: https://github.com/LandscapeCombinator/LandscapeCombinator
 
 
-
-# ECS
+# $${\color{cyan}ECS}$$
 
 - <img width="25%" src="https://github.com/user-attachments/assets/9a86c076-f105-49fd-a0be-70ffb5011838"> Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more - https://github.com/skypjack/entt
 - <img width="25%" src="https://github.com/user-attachments/assets/f4242305-42f8-4cf3-8024-037704c1bbf5">  fast entity component system (ECS) for C & C++ - https://github.com/SanderMertens/flecs
 
 
-# SNIPPET THINGS
+# $${\color{cyan}SNIPPETS}$$
 
 ## UNREAL SNIPPETS
 
@@ -242,7 +246,9 @@ The New Asset Store (Included in UEFN, part of UE6?)
 >  Snippets and examples of Verse code https://github.com/jamessmoore/verse-snippets
 >  https://github.com/Tsaryii/Verse-Snippets
 
-# QUATERNIONS and other Friends
+# $${\color{cyan}QUATERNIONS}$$
+
+## Quaternions and other Friends
 
 "The quaternions are members of a noncommutative division algebra first invented by William Rowan Hamilton. The idea for quaternions occurred to him while he was walking along the Royal Canal on his way to a meeting of the Irish Academy, and Hamilton was so pleased with his discovery that he scratched the fundamental formula of quaternion algebra,  i^2=j^2=k^2=ijk=-1, into the stone of the Brougham bridge" - https://mathworld.wolfram.com/Quaternion.html
 
