@@ -186,7 +186,26 @@ The New Asset Store (Included in UEFN, part of UE6?)
 - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research https://github.com/microsoft/AirSim
 - Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine C++ Course & Stanford University https://github.com/tomlooman/ActionRoguelike
 - https://github.com/KARNB24/Astral-Warfare Welcome to Astral Warfare: Quantum Reckoning, an action-packed game developed on Unreal Engine 5.3.2
+
+
+# $${\color{pink}PCG}$$
+
+- PCGEx is a free (libre) Unreal 5 plugin that expands PCG capabilities. It offers a variety of high-performance nodes; with an edge for building relational graphs (Freeform, Delaunay, Voronoi, MST etc), advanced pathfinding; and much more - https://github.com/Nebukam/PCGExtendedToolkit
+ - An example project showcasing PCGExtendedToolkit https://github.com/Nebukam/PCGExExampleProject
+ - ProcGenLabs PCG nodes - https://github.com/mikec316/PGL-PCGNodes
+- PCGAsset - https://github.com/TimChen1383/PCGAsset
+- This repo collects my public PCG tools - https://github.com/ExportGeometry/pcg-extension
+- Maze - https://github.com/NextopCode/UE5-MazePCG
+- OpenPCG - https://github.com/ubuntunux/OpenPCG
 - David's unreal engine example projects - https://github.com/david-pp/UEExampleProjects
+- This project is to experiment with UE5 features - https://github.com/gam0022/UE5_Examples
+- Accompanying project to the Unreal PCG Tutorial series: https://www.youtube.com/watch?v=BqPhdQOweqU&list=PLA03OHAaHgYpo0enf8p-2oEpja3grLOKZ - https://github.com/freetimecoder/unreal-pcg-examples
+- Repository for PCG Tutorial in Unreal 5.4 - https://www.youtube.com/channel/UC8oszEDFBhDmpeXtnPrDP4A - https://github.com/Amathlog/TutorialPCG
+  - https://github.com/Amathlog/PCG_CustomNodes
+- An A* pathfinding implementation with PCG (Procedural Content Generation) to generate custom splines in unreal engine between two points - https://github.com/spood/PCGPathfinding
+- Unreal PCG Templates - https://github.com/DeveloperBastian/PCG_Templates
+
+
 
 # ECS
 
