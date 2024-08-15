@@ -58,13 +58,14 @@ There is also a "Type of Interest" set of categories that I hope to feature with
 
 # Creating with Unreal
 
-- Verse
-- Visual Verse
-- Blueprints
-- C++
+- $${\color{magenta}Verse}$$
+- $${\color{magenta}VisualVerse}$$
+- $${\color{blue}Blueprints}$$
+- $${\color{yellow}C++}$$
 - Other
 
-# Verse (UEFN, UE6)
+# $${\color{magenta}Verse}$$
+## Verse (UEFN, UE6)
 
 "Verse is being designed as a programming language for the metaverse, with upcoming features to enable future scalability to *vast open worlds built by millions of creators for billions of players*. Verse is launching in Fortnite today, and will come to all Unreal Engine users a couple years down the road."
 https://www.unrealengine.com/en-US/blog/dive-into-epic-s-announcements-from-gdc-2023
@@ -76,15 +77,18 @@ Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few peopl
 - Simon Peyton Jones - https://simon.peytonjones.org [Verse Calculus ](https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf) https://en.wikipedia.org/wiki/Lambda_calculus
 - Verse programming language showcased https://www.youtube.com/watch?v=Xon9r3piIIw&t=251s
 
-# Visual Verse (UE6 ?)
+# $${\color{magenta}VisualVerse}$$
+## Visual Verse (UE6 ?)
 
 - Verse will function like C++ currently does and a new layer with a concept like Blueprints will be coming
 - [Visual Verse](https://twitter.com/UnrealVerseGuru/status/1636691915927171072) from [UnrealVerseGuru](https://github.com/UnrealVerseGuru/VerseProgrammingLanguage)
 - This empty repo could be a place holder or just some random thing - https://github.com/EpicVerseStudio
 
-# Blueprints (UE5, UE6)
+# $${\color{blue}Blueprints}$$
+## Blueprints (UE5, UE6)
 
-# C++ (UE5, UE6)
+# $${\color{yellow}C++}$$
+## C++ (UE5, UE6)
 
 <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a912860-1d74-4671-a700-ed43ffa84724" width="8%">
 
