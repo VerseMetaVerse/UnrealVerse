@@ -19,8 +19,8 @@
  - $${\color{lime}SAMPLES}$$
 	- 2D and 3D assets - PINK
     - Background Info - OLIVE
-    - $${\color{purple}UNREALMARKETPLACE}$$
-    - $${\color{pink}OTHERLANG}$$
+    - $${\color{pink}UNREALMARKETPLACE}$$
+    - $${\color{green}OTHERLANG}$$
 
 
 > [!NOTE]
