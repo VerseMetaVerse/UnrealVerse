@@ -62,7 +62,7 @@ There is also a "Type of Interest" set of categories that I hope to feature with
 - $${\color{magenta}VisualVerse}$$
 - $${\color{blue}Blueprints}$$
 - $${\color{yellow}C++}$$
-- Other
+- $${\color{green}OTHERLANG}$$
 
 # $${\color{magenta}Verse}$$
 ## Verse (UEFN, UE6)
@@ -92,15 +92,17 @@ Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few peopl
 
 <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a912860-1d74-4671-a700-ed43ffa84724" width="8%">
 
-# Other Programming Languages
+# $${\color{green}OTHERLANG}$$
+## Other Programming Languages
 
+### $${\color{green}C#}$$
 ### Unreal Engine .NET  (C#, F#)
 
 - <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a763647-97bb-43ce-b278-255dae177aaf" width="30%">
 - Unreal Engine .NET 6 integration - UnrealCLR is a plugin which natively integrates .NET host into the Unreal Engine with the Common Language Runtime for direct execution of managed code to build a game/application logic using the full power of C# 10.0, F# 6.0, and .NET facilities with engine API. The project is aimed at stability, performance, and maintainability. https://github.com/nxrighthere/UnrealCLR
 - <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/ba02d53e-b257-4d03-927c-5fb4745b2737" width="5%"> UnrealSharp attempts to add a dotnet core integration to some parts of Unreal Engine. It does this by creating what the dotnet documentation calls a "native host" in the context of a subsystem, and exposes functionality by providing function pointers to dotnet https://github.com/lambda-snail/UnrealSharp
 
-### Python
+### $${\color{green}PYTHON}$$
 
 - A Recipe Book on ways to use Python in Unreal Engine 5 written by Brian Kortbus https://github.com/bralkor/unreal_python_recipe_book
 - Some of my personal scripts i made to use for my own projects, but free of charge to be used for any project https://github.com/mamoniem/UnrealEditorPythonScripts
@@ -109,7 +111,7 @@ Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few peopl
 - This project is a collection of internal tools developed in Python for working with Unreal Engine. It includes functionalities for retrieving version information from a Git repository, updating Unreal Engine configuration files, and handling template files. https://github.com/IT-Hock/UEBuildTools  ![logo](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/351fd7ac-9e33-42fe-b81f-43032c4db788)
 
 
-### Lua
+### $${\color{green}LUA}$$
 
 Tencent ![18461506](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/b17a5cae-282c-4844-9564-8abe00d9f067) 
 - NOTE: Tencent owns 40% of Epic Games, they appear to have TWO separate Lua plugins:
@@ -158,6 +160,7 @@ Every Verse project generates 3 digest files that correspond to that
 
 UEFN Features You Can Only Build With Verse - https://dev.epicgames.com/community/learning/talks-and-demos/Vln0/fortnite-uefn-features-you-can-only-build-with-verse-unreal-fest-2023
 
+# $${\color{pink}FAB}$$
 # FAB.COM
 
 The New Asset Store (Included in UEFN, part of UE6?)
@@ -170,7 +173,7 @@ The New Asset Store (Included in UEFN, part of UE6?)
 - [Introducing Fab – A Unified Creator Marketplace from Epic Games](https://magazine.artstation.com/2023/03/introducing-fab/)
 
 
-# Sample Games
+# $${\color{lime}SAMPLES}$$
 
 ## Verse Samples
 
@@ -371,7 +374,7 @@ Tools that help make Blueprints
 
 
 
-# REFERENCE
+# $${\color{orange}REFERENCE}$$
 
 ## Verse Reference
 
@@ -659,6 +662,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - Modular & Dynamic Verse Tycoon Kit. https://github.com/Tsaryii/TycoonKitX
 - A free tycoonkit to use in UEFN https://github.com/Tsaryii/SuperKitX-1.0.1
 
+# $${\color{pink}UNREALMARKETPLACE}$$
 # Unreal Marketplace Items That Might Be Worth A Look
 
 These generally cost various amounts but can be used in any amount for any purpose as long as they are used with the Unreal Engine
