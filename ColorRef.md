@@ -10,14 +10,16 @@
 		- $${\color{magenta}VERSE}$$
 		- $${\color{yellow}c++}$$
 	- Large Tools like Blender - TEAL
-	- Learning - LIME
-	- Reference - ORANGE
+	- $${\color{teal}Learning}$$
+	- $${\color{orange}Reference}$$
 	- Small Tools and Utilities - CYAN
 	- Plugins and addons - CYAN
 	- Libraries - CYAN
-	- Samples/Examples - GREEN
+	- Samples/Examples/STARTER kITS - GREEN
+ - $${\color{lime}SAMPLES}$$
 	- 2D and 3D assets - PINK
     - Background Info - OLIVE
+    - $${\color{pink}UnrealMarketplace}$$
 
 
 > [!NOTE]
