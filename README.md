@@ -95,7 +95,7 @@ Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few peopl
 # $${\color{green}OTHERLANG}$$
 ## Other Programming Languages
 
-### $${\color{green}C#}$$
+### $${\color{green}CSHARP}$$
 ### Unreal Engine .NET  (C#, F#)
 
 - <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a763647-97bb-43ce-b278-255dae177aaf" width="30%">
