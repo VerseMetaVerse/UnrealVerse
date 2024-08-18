@@ -540,6 +540,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - A repository for UEFN (Unreal Editor for Fortnite) generic devices - https://github.com/garrettpfoy/uefn-generic-devices
 - https://github.com/futouyiba/UefnVerseCode
 - UEFN - Custom game made in Unreal Engine for Fortnite Creative (only Verse code) - https://github.com/Gguardiola/UnrealEngine-Fortnite-CarZoneFights.
+- Verse Cookbook https://github.com/gladimdim/verse-cookbook
 - This is a collection of UEFN Verse Language Snippets, I'm setting to the side as a learning experience for the verse language - https://github.com/TylerAustInW/VerseSnippets
 - Basic Gun Game System With UI - https://github.com/BonesintCreation/Verse-Snippets
 - This is my code written to power my Fortnite mining map. I hope you enjoy - https://github.com/EthanSkltn/Fortnite-Mining-Game
