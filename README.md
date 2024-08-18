@@ -540,6 +540,8 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - A repository for UEFN (Unreal Editor for Fortnite) generic devices - https://github.com/garrettpfoy/uefn-generic-devices
 - https://github.com/futouyiba/UefnVerseCode
 - UEFN - Custom game made in Unreal Engine for Fortnite Creative (only Verse code) - https://github.com/Gguardiola/UnrealEngine-Fortnite-CarZoneFights.
+- A verse class for converting epoch timestamps to human readable date objects https://github.com/imcouri/verse_date
+- Verse Item/Cosmetic Shop https://github.com/imcouri/verse_item_shop
 - Verse Cookbook https://github.com/gladimdim/verse-cookbook
 - This is a collection of UEFN Verse Language Snippets, I'm setting to the side as a learning experience for the verse language - https://github.com/TylerAustInW/VerseSnippets
 - Basic Gun Game System With UI - https://github.com/BonesintCreation/Verse-Snippets
@@ -560,7 +562,8 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - Verse script that allows you to use custom weapons (kind of) - https://github.com/ItsKuf/Kuff_CustomWeapons
 - Wallhack script made with UEFN scripting language VERSE. Use for Creative 2.0! https://github.com/ItsKuf/kuff_wallhack
 - The code I wrote for this open world game mode I created in Fortnite using Epic Games' Verse language. https://github.com/mikeramosco/universe182
-- Verse files used in YouTube tutorials https://github.com/JHBOGameDev/YTVerseTutorials 
+- Verse files used in YouTube tutorials https://github.com/JHBOGameDev/YTVerseTutorials
+- Verse Material Parameter https://github.com/nobanashi/VerseMaterialParameterSample01
 - UEFN SceneGraph Sample 01 https://github.com/nobanashi/SceneGraphSample01
 - custom UEFN button written in Verse - https://github.com/imcouri/verse_custom_button
 - Code snippets in Verse Language https://github.com/phanmer/uefn
