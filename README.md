@@ -196,10 +196,38 @@ The New Asset Store (Included in UEFN, part of UE6?)
 - https://github.com/KARNB24/Astral-Warfare Welcome to Astral Warfare: Quantum Reckoning, an action-packed game developed on Unreal Engine 5.3.2
 
 
+# $${\color{cyan}SNIPPETS}$$
 
-# TOOLS
+## $${\color{yellow}C++}$$ $${\color{cyan}SNIPPETS}$$
 
-## Verse and UEFN Tools
+- A bunch of notes and code snippets that I write while figuring out how to use the Unreal Engine - https://github.com/ibbles/LearningUnreal
+- vscode-unreal-snippets - https://github.com/pseuplex/vscode-unreal-snippets
+- Unreal Engine Code Example & Snippets - https://github.com/david-pp/UESnippets
+- A collection of code snippets for Unreal Engine projects - https://github.com/TheJamsh/UnrealSnippets
+- UE4 related useful code snippets - https://github.com/sasmaster/UnrealEngineCodeSnippets
+- Unreal Snippets - https://github.com/Tonetfal/UnrealSnippets
+- Select Snippets of Code for Implementing Rollback - https://github.com/Clarkmonsterman/Unreal-Networking
+- Quality of life code snippets for Unreal Engine - https://github.com/mika314/QofL
+- list of useful Unreal Engine snippets. For Visual Studio 2022 - https://github.com/TheOnlySocialHermit/UnrealSnippets
+
+## $${\color{magenta}VERSE}$$ $${\color{cyan}SNIPPETS}$$
+
+- collection of a ton of Verse scripts for UEFN / Fortnite Creative! https://github.com/MadsMGrin/Verse
+- Unreal Engine Fortnite Verse Code Snippets - https://github.com/Bexarclaw/UEFN-Verse-Snippets
+- vscode extension containing a collection of snippets for the Verse programming language https://github.com/Ethan-Guest/verse-language-snippets
+- Verse snippets for use with UEFN https://github.com/mandeep/VerseMaxxing
+- Code snippets in Verse Language https://github.com/phanmer/uefn
+- Code in Verse or other languages to solve algorithms https://github.com/CoffeeJavaBeans/CodeForUEFNprojects
+- Examples of scripts on Versal for the Unreal Engine Fortnite Editor https://github.com/GholemHub/UEFN_Verse_Examples
+- code snippets in Verse, and make learning process easier https://github.com/powolnik/Verse-Reference-Library
+> [!WARNING]
+> *INSANE LICENSE FOR SNIPPETS*
+>  Snippets and examples of Verse code https://github.com/jamessmoore/verse-snippets
+>  https://github.com/Tsaryii/Verse-Snippets
+
+# $${\color{brown}TOOLS}$$
+
+## $${\color{magenta}VERSE}$$ $${\color{brown}TOOLS}$$
 
 - Epic UEFN - https://store.epicgames.com/en-US/p/fortnite--uefn
 - Visual Studio Code - used by UEFN to edit Verse code
@@ -216,7 +244,7 @@ The New Asset Store (Included in UEFN, part of UE6?)
 - Meshcapade support for Unreal Editor for Fortnite (UEFN) This plugin allows you to quickly retarget motions created on the Meshcapade.me platform onto your own characters in Unreal Editor for Fortnite. Bodies created on the Meshcapade platform are created using the SMPL core technology, and are thus referred to as SMPL-bodies. https://github.com/Meshcapade/mc-uefn 
 
 
-## Fortnite Tools
+## Fortnite $${\color{brown}TOOLS}$$
 
 - https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation
 - https://github.com/MixV2/EpicResearch Research about Epic's non-documented API. All the documentation can be found within the docs folder.
@@ -224,7 +252,7 @@ The New Asset Store (Included in UEFN, part of UE6?)
 - https://github.com/FortniteCentral/MercuryCommons A common utility package for CUE4Parse and interfacing with Epic Games/Fortnite services.
 - 
 
-## UE5 Tools
+## UE5 $${\color{brown}TOOLS}$$
 
 General Tools and Plugins for Unreal Studio
 
@@ -234,7 +262,7 @@ General Tools and Plugins for Unreal Studio
 - https://cdn1.epicgames.com/ue/product/Screenshot/OptimizationToolFull-1920x1080-e51ff7b569d5dc9b63e826037dda09c6.png?resize=1&w=1920 https://www.unrealengine.com/marketplace/en-US/product/optimization-debug-tool The Optimization Debug Tool Helps you to do easy optimization for multiple static and skeletal meshes related to LODs and Nanite methods, as well as optimization for textures associated with quality and memory use. On the other hand, the tool can spot and debug almost any aspect of game development, and the additional ability of the tool includes the option to modify quality settings and set them in-game in a few simple clicks.
 - https://cdn1.epicgames.com/ue/product/Screenshot/Sunset-1920x1080-9915cf54f5965e863c9291101e9206fd.jpg?resize=1&w=1920 https://www.unrealengine.com/marketplace/en-US/product/ultra-dynamic-sky A flexible dynamic sky system with natural cloud motion, plus customizable sun, moon and stars.
 
-## Blueprint Tools
+## $${\color{blue}BLUEPRINT}$$ $${\color{brown}TOOLS}$$
 
 Tools that help make Blueprints
 
@@ -255,7 +283,7 @@ Tools that help make Blueprints
 - https://github.com/thejinchao/turbolink plugin enables Google gRPC work with Unreal Engine using C++ and Blueprint
 
 
-## C++ Tools
+## $${\color{yellow}C++}$$ $${\color{brown}TOOLS}$$
 
 <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a912860-1d74-4671-a700-ed43ffa84724" width="8%">
 
@@ -273,7 +301,7 @@ Tools that help make Blueprints
 - <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/e9b3e3cc-3872-466f-bfa5-3fda54895097" width="20%">
 - The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure. https://github.com/assimp/assimp
 
-# BLENDER ADDONS
+# BLENDER $${\color{brown}TOOLS}$$
 
 - Blender addons that improve the game development workflow between Blender and Unreal https://epicgamesext.github.io/BlenderTools/ https://github.com/EpicGamesExt/BlenderTools
 - Official mirror of Blender https://github.com/blender/blender http://www.blender.org/
@@ -331,34 +359,6 @@ Tools that help make Blueprints
 - <img width="25%" src="https://github.com/user-attachments/assets/f4242305-42f8-4cf3-8024-037704c1bbf5">  fast entity component system (ECS) for C & C++ - https://github.com/SanderMertens/flecs
 
 
-# $${\color{cyan}SNIPPETS}$$
-
-## UNREAL SNIPPETS
-
-- A bunch of notes and code snippets that I write while figuring out how to use the Unreal Engine - https://github.com/ibbles/LearningUnreal
-- vscode-unreal-snippets - https://github.com/pseuplex/vscode-unreal-snippets
-- Unreal Engine Code Example & Snippets - https://github.com/david-pp/UESnippets
-- A collection of code snippets for Unreal Engine projects - https://github.com/TheJamsh/UnrealSnippets
-- UE4 related useful code snippets - https://github.com/sasmaster/UnrealEngineCodeSnippets
-- Unreal Snippets - https://github.com/Tonetfal/UnrealSnippets
-- Select Snippets of Code for Implementing Rollback - https://github.com/Clarkmonsterman/Unreal-Networking
-- Quality of life code snippets for Unreal Engine - https://github.com/mika314/QofL
-- list of useful Unreal Engine snippets. For Visual Studio 2022 - https://github.com/TheOnlySocialHermit/UnrealSnippets
-
-## VERSE SNIPPETS
-
-- collection of a ton of Verse scripts for UEFN / Fortnite Creative! https://github.com/MadsMGrin/Verse
-- Unreal Engine Fortnite Verse Code Snippets - https://github.com/Bexarclaw/UEFN-Verse-Snippets
-- vscode extension containing a collection of snippets for the Verse programming language https://github.com/Ethan-Guest/verse-language-snippets
-- Verse snippets for use with UEFN https://github.com/mandeep/VerseMaxxing
-- Code snippets in Verse Language https://github.com/phanmer/uefn
-- Code in Verse or other languages to solve algorithms https://github.com/CoffeeJavaBeans/CodeForUEFNprojects
-- Examples of scripts on Versal for the Unreal Engine Fortnite Editor https://github.com/GholemHub/UEFN_Verse_Examples
-- code snippets in Verse, and make learning process easier https://github.com/powolnik/Verse-Reference-Library
-> [!WARNING]
-> *INSANE LICENSE FOR SNIPPETS*
->  Snippets and examples of Verse code https://github.com/jamessmoore/verse-snippets
->  https://github.com/Tsaryii/Verse-Snippets
 
 # $${\color{cyan}QUATERNIONS}$$
 
