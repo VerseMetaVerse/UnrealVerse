@@ -374,10 +374,28 @@ Tools that help make Blueprints
     - Stable Diffusion built-in to Blender https://github.com/carson-katri/dream-textures
 
 
+# $${\color{teal}LEARNING}$$
+
+## $${\color{magenta}VERSE}$$ $${\color{teal}LEARNING}$$
+
+# Verse and UEFN Education
+
+- The [Fortnite Sensei](https://www.youtube.com/@fortnite_sensei) 
+  - from the amazing Unreal Sensei - https://www.youtube.com/@unrealsensei
+  - https://www.unrealsensei.com/
+- Warforge https://www.youtube.com/@WarforgeXP
+- Pi Equals Three https://www.youtube.com/@piequalsthree3200
+  - https://github.com/PiEqualsThree/UEFN-Tutorials
+- Graeme Bull - https://www.youtube.com/playlist?list=PLFwDePNaxc-k37rZBSib8IrT8Ot0rDwbX
+
+## $${\color{blue}BLUEPRINT}$$ $${\color{teal}LEARNING}$$
+
+## $${\color{myellow}C++}$$ $${\color{teal}LEARNING}$$
+
 
 # $${\color{orange}REFERENCE}$$
 
-## Verse Reference
+## $${\color{magenta}VERSE}$$ $${\color{orange}REFERENCE}$$
 
 ### Books and Reference
 
@@ -409,15 +427,7 @@ A very basic Verse Book [src](https://github.com/glinesbdev/versus) [Read it her
 
 
 
-# Verse and UEFN Education
 
-- The [Fortnite Sensei](https://www.youtube.com/@fortnite_sensei) 
-  - from the amazing Unreal Sensei - https://www.youtube.com/@unrealsensei
-  - https://www.unrealsensei.com/
-- Warforge https://www.youtube.com/@WarforgeXP
-- Pi Equals Three https://www.youtube.com/@piequalsthree3200
-  - https://github.com/PiEqualsThree/UEFN-Tutorials
-- Graeme Bull - https://www.youtube.com/playlist?list=PLFwDePNaxc-k37rZBSib8IrT8Ot0rDwbX
   
 
 
