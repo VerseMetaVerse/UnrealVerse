@@ -194,7 +194,8 @@ The New Asset Store (Included in UEFN, part of UE6?)
 
 - ![AirSimDroneManual](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/8b22d424-e741-4ca6-9ec1-a02a4115e57e)
 - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research https://github.com/microsoft/AirSim
-- Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine C++ Course & Stanford University https://github.com/tomlooman/ActionRoguelike
+- Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine C++ Course & Stanford University https://github.com/tomlooman/ActionRoguelike - https://courses.tomlooman.com/p/unrealengine-cpp?coupon_code=COMMUNITY15&src=github
+- Simple C++ FPS Template for Unreal Engine https://github.com/tomlooman/SimpleFPSTemplate - https://www.tomlooman.com/fps-template/
 - https://github.com/KARNB24/Astral-Warfare Welcome to Astral Warfare: Quantum Reckoning, an action-packed game developed on Unreal Engine 5.3.2
 - Ultimate Starter Kit plugin to speed up development of Unreal Engine games
     - https://github.com/hfjooste/UltimateStarterKit
@@ -217,6 +218,12 @@ The New Asset Store (Included in UEFN, part of UE6?)
     - Platform Utils: Easily detect different platform types and architectures
     - Project Utils: Extract project information like name, description, and version
 - LyraConveniencePlugin - This is a very simple base plugin to extend Unreal Engine's Lyra Starter Game in a modular fashion. I used this as a base to build my game upon. https://github.com/bruteforks/LyraConveniencePlugin
+- Fully replicated third person shooter using Unreal Engine 5 https://github.com/PierceProvias/Third-Person-Shooter
+- DarkSoulsClone https://github.com/PierceProvias/DarkSoulsClone
+- Backrooms horror game being made in Unreal Engine 5 coming to Steam soon with sound design by Cooper. https://github.com/cwindrow007/LiminalEscape
+-  hobby project in the action-adventure genre https://github.com/Thyke/RuinsOfEternity
+-  Unreal Engine 5.4 open world RPG build. https://github.com/AaronHGameDesign/Slash
+-  Template for a 3rd person shooter game built in Unreal Engine. https://github.com/trapgar/unreal-thirdpersonshooter
 
 
 
