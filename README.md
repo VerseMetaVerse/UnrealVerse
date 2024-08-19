@@ -184,6 +184,8 @@ The New Asset Store (Included in UEFN, part of UE6?)
 
 ## $${\color{blue}BLUEPRINT}$$ $${\color{lime}SAMPLES}$$
 
+- Introduction to Blueprints for UE5 https://github.com/LSU-UE5/UE5-Intro-To-Blueprints-Starter
+
 
 ## $${\color{yellow}C++}$$  $${\color{lime}SAMPLES}$$
 
@@ -194,6 +196,28 @@ The New Asset Store (Included in UEFN, part of UE6?)
 - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research https://github.com/microsoft/AirSim
 - Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine C++ Course & Stanford University https://github.com/tomlooman/ActionRoguelike
 - https://github.com/KARNB24/Astral-Warfare Welcome to Astral Warfare: Quantum Reckoning, an action-packed game developed on Unreal Engine 5.3.2
+- Ultimate Starter Kit plugin to speed up development of Unreal Engine games
+    - https://github.com/hfjooste/UltimateStarterKit
+    - https://hfjooste.github.io/UltimateStarterKit/
+    - https://github.com/hfjooste/USKDemo
+    - Logger: A system used to easily log info to file and via on-screen messages
+    - Save data management: A system used to easily save/load game data with support for multiple save slots
+    - Settings: A full settings system including both the UI and save/load logic
+    - Dialogue System: A full dialogue system with support for different participants, choices, and branches
+    - Inventory Management: Manage multiple inventories with save data integration
+    - Input Indicators: A system used to easily detect different input devices and update the UI to display the correct indicators
+    - Currency: A system that is used to easily manage different types of currency
+    - Audio: A system used to manage the basic properties of audio files
+    - Stats: A system used to easily manage character stats with an optional regenerate ability
+    - Menu system: A customizable menu system with support for controllers and complex menu layouts
+    - Interact system: A customizable interaction system with interact prompts
+    - Quest system: A quest system with support for multiple quest points
+    - Message Popups: A reusable message popup widget with support for multiple buttons
+    - Config Utils: Extract information from different config files
+    - Platform Utils: Easily detect different platform types and architectures
+    - Project Utils: Extract project information like name, description, and version
+- LyraConveniencePlugin - This is a very simple base plugin to extend Unreal Engine's Lyra Starter Game in a modular fashion. I used this as a base to build my game upon. https://github.com/bruteforks/LyraConveniencePlugin
+
 
 
 # $${\color{cyan}SNIPPETS}$$
