@@ -196,6 +196,8 @@ The New Asset Store (Included in UEFN, part of UE6?)
 - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research https://github.com/microsoft/AirSim
 - Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine C++ Course & Stanford University https://github.com/tomlooman/ActionRoguelike - https://courses.tomlooman.com/p/unrealengine-cpp?coupon_code=COMMUNITY15&src=github
 - Simple C++ FPS Template for Unreal Engine https://github.com/tomlooman/SimpleFPSTemplate - https://www.tomlooman.com/fps-template/
+- Replicated Parkour System w/ 300+ animations which uses a custom movement component to translate and rotate the character across, on top/ below, onto and off of a surface in result of achieving valid hit results on the respective ray casts being performed. This Parkour System is paired with the Epic Games' Unreal Engine 5 Plugin, "Motion Warping". https://github.com/AEDude/Unreal_Engine_5_Parkour_System https://www.youtube.com/@AEDudes
+- A third person online shooter game. The inspiration for this game derives from the fun times I had while playing Socom Confrontation! My approach in development is targeted on the implementations of animations; smooth movement and a fast response time is critical. Also, network replication which maintains server authority is a priority. https://github.com/AEDude/Unreal_Engine_5_Shooter_Online
 - https://github.com/KARNB24/Astral-Warfare Welcome to Astral Warfare: Quantum Reckoning, an action-packed game developed on Unreal Engine 5.3.2
 - A template that can be used to start projects that will use some new features that come with Unreal Engine 5 as well as powerful existing features like the GAS and others. https://github.com/lucoiso/UEProject_Elementus
     - ![171550569-09dc7c78-c921-4b60-92a1-0a50b9e8ccca](https://github.com/user-attachments/assets/94601421-3436-4a0b-906d-7c8c3528d6d4)
@@ -335,7 +337,9 @@ Tools that help make Blueprints
 - <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/0e6e7c0c-f0bf-4660-8a48-c6360f67f9c3" width="30%">
 - A Voxel Plugin for Unreal Engine https://github.com/Phyronnaz/VoxelPlugin
 - <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/86e09552-30be-4cfc-bf42-f1928b8cc4f8" width="50%">
-- Design-agnostic node system for scripting game’s flow in Unreal Engine https://github.com/MothCocoon/FlowGraph 
+- Design-agnostic node system for scripting game’s flow in Unreal Engine https://github.com/MothCocoon/FlowGraph
+- An extension of the tools which are provided by Epic Games in Unreal Engine 5. By initiating a new use case for some of the functions found within the UEditorUtilityLibrary and the UEditorAssetLibrary, a more powerful Editor can be put to use, enabling effective and efficient methods of optimizing project files. https://github.com/AEDude/Unreal_Engine_5_Tool_Belt
+- An open-source Unreal Engine plugin that provides quality-of-life functionality to developers. https://github.com/UnrealDirective/UDCore https://udcore.unrealdirective.com/
 
 ### Misc C++ Tools and Libs of interest to Unreal Developers
 
