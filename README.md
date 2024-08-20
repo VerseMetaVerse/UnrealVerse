@@ -236,6 +236,15 @@ The New Asset Store (Included in UEFN, part of UE6?)
 - ASTRAL SHIPWRIGHT / Full game sources for Astral Shipwright, a space sim made with Unreal Engine 5 https://github.com/strangergwenn/AstralShipwright
     - https://astralshipwright.com/ ![68747470733a2f2f61737472616c736869707772696768742e636f6d2f67616c6c6572795f646174612f322e6a7067](https://github.com/user-attachments/assets/4e63e6e0-b950-48c0-a317-8fce1c3af80b)
 - UE5 MilSim FPS / RTS Game (formerly ProjectM) https://github.com/HaywireInteractive/OnAllFronts-Public
+- Helicopters for Unreal Engine https://github.com/dannymcgee/Unreal_RotaryWingAircraft
+    - ![68747470733a2f2f696d672e796f75747562652e636f6d2f76692f69673938694762663242772f6d617872657364656661756c742e6a7067](https://github.com/user-attachments/assets/ce7afe75-aed1-4203-a2a8-d9f4a525f2b2)
+    - https://github.com/dannymcgee/Unreal_HeliExample
+- ActionRPG for ue5 https://github.com/mirchd/ActionRPG
+- An RTS game crafted in Unreal Engine, inspired by Age of Empires 2, and developed using C++ https://github.com/MrHaloka/age_of_heros
+    - ![3](https://github.com/user-attachments/assets/e37708e7-d300-45e6-9b60-78c658ae2616)
+- Post-Apocalyptic rpg mmo on ue5 https://github.com/Thunderdojo/ForSakenFuture
+
+
 
 
 
