@@ -197,6 +197,8 @@ The New Asset Store (Included in UEFN, part of UE6?)
 - Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine C++ Course & Stanford University https://github.com/tomlooman/ActionRoguelike - https://courses.tomlooman.com/p/unrealengine-cpp?coupon_code=COMMUNITY15&src=github
 - Simple C++ FPS Template for Unreal Engine https://github.com/tomlooman/SimpleFPSTemplate - https://www.tomlooman.com/fps-template/
 - https://github.com/KARNB24/Astral-Warfare Welcome to Astral Warfare: Quantum Reckoning, an action-packed game developed on Unreal Engine 5.3.2
+- A template that can be used to start projects that will use some new features that come with Unreal Engine 5 as well as powerful existing features like the GAS and others. https://github.com/lucoiso/UEProject_Elementus
+    - ![171550569-09dc7c78-c921-4b60-92a1-0a50b9e8ccca](https://github.com/user-attachments/assets/94601421-3436-4a0b-906d-7c8c3528d6d4)
 - Ultimate Starter Kit plugin to speed up development of Unreal Engine games
     - https://github.com/hfjooste/UltimateStarterKit
     - https://hfjooste.github.io/UltimateStarterKit/
@@ -224,6 +226,16 @@ The New Asset Store (Included in UEFN, part of UE6?)
 -  hobby project in the action-adventure genre https://github.com/Thyke/RuinsOfEternity
 -  Unreal Engine 5.4 open world RPG build. https://github.com/AaronHGameDesign/Slash
 -  Template for a 3rd person shooter game built in Unreal Engine. https://github.com/trapgar/unreal-thirdpersonshooter
+-  Unreal Engine 5 multiplayer shooter C++ project, resurrection of Warhammer 40K: Eternal Crusade. Developed using "UE best practices" from Lyra for a more complex behaviour https://github.com/JediKnightChan/EternalCrusadeResurrection
+-  Open-source Bomberman multiplayer game made in Unreal Engine 5.3 https://github.com/JanSeliv/Bomber
+    -  ![296397029-2898eace-7a57-44d1-9530-4a5abc235b2d](https://github.com/user-attachments/assets/4565118d-d33b-4479-9be0-843ad3f621a6)
+- HELIUM RAIN / Full sources for Helium Rain, a realistic space opera using Unreal Engine 4 https://github.com/strangergwenn/HeliumRain
+    - http://helium-rain.com/   ![687474703a2f2f68656c69756d2d7261696e2e636f6d2f67616c6c6572795f646174612f626c756568656172742e6a7067](https://github.com/user-attachments/assets/394481fa-0e34-4e0d-a749-a46137a99598)
+- ASTRAL SHIPWRIGHT / Full game sources for Astral Shipwright, a space sim made with Unreal Engine 5 https://github.com/strangergwenn/AstralShipwright
+    - https://astralshipwright.com/ ![68747470733a2f2f61737472616c736869707772696768742e636f6d2f67616c6c6572795f646174612f322e6a7067](https://github.com/user-attachments/assets/4e63e6e0-b950-48c0-a317-8fce1c3af80b)
+- UE5 MilSim FPS / RTS Game (formerly ProjectM) https://github.com/HaywireInteractive/OnAllFronts-Public
+
+
 
 
 
