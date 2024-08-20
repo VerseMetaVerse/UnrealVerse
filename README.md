@@ -243,6 +243,7 @@ The New Asset Store (Included in UEFN, part of UE6?)
 - An RTS game crafted in Unreal Engine, inspired by Age of Empires 2, and developed using C++ https://github.com/MrHaloka/age_of_heros
     - ![3](https://github.com/user-attachments/assets/e37708e7-d300-45e6-9b60-78c658ae2616)
 - Post-Apocalyptic rpg mmo on ue5 https://github.com/Thunderdojo/ForSakenFuture
+- RPG-Tutorial-Series-UE5 https://github.com/GavdzinskyiVeacheslav/RPG-Tutorial-Series-UE5
 
 
 
