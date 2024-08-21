@@ -250,7 +250,20 @@ The New Asset Store (Included in UEFN, part of UE6?)
 - A plugin adding a bunch of common helper functionality that I use in my UE projects https://github.com/sinbad/StevesUEHelpers Example project that demonstrates the use of StevesUEHelpers https://github.com/sinbad/StevesUEExamples
 - Steve's Utility AI SubSystem (for Unreal Engine 5) https://github.com/sinbad/SUSS
 - Steve's Unreal Dialogue System https://github.com/sinbad/SUDS Example project for SUDS https://github.com/sinbad/SUDSExample
-- 
+- Multiagent research environment toolbox based on Unreal Engine  https://github.com/binary-husky/unreal-map
+    - ![unreal-island](https://github.com/user-attachments/assets/74ecb879-8f9c-417e-bb59-31a1b90671ae)
+    - ![2023-02-12 155956](https://github.com/user-attachments/assets/23d4ce78-4c92-4191-9323-bb241167b675)
+    - ![uhmap-hete](https://github.com/user-attachments/assets/f48256d0-5905-4d2d-a99d-95bf3a020048)
+
+- Tools for Houdini, Unreal Engine and Deadline https://github.com/VFX-Tricks/VFX-Tricks-Toolbox  https://www.vfxtricks.com
+    - ![Uploading 172205434-25c8b7d1-816c-4689-935d-7717d00e27ab.svg…]()
+    - ![172036894-9816bc65-295e-4f32-974a-8148c01ccc5d](https://github.com/user-attachments/assets/05bad2bd-fbae-412e-8108-36b4141af69b)
+- Toolbox is a versatile plugin providing a comprehensive set of blueprint functions to streamline your Unreal Engine development https://github.com/Solessfir/Toolbox
+    -  Toolbox is a versatile plugin providing a comprehensive set of blueprint functions to streamline your Unreal Engine development. Boost productivity and simplify game creation for developers of all levels with essential tools at your fingertips. ![68747470733a2f2f692e696d6775722e636f6d2f71507a694a685a2e706e67](https://github.com/user-attachments/assets/e0023143-d3fc-45bc-98f6-863c8863d8fe)
+ 
+
+
+
 
 
 - An open-source Unreal Engine plugin that provides quality-of-life functionality to developers. https://github.com/UnrealDirective/UDCore https://udcore.unrealdirective.com/docs/introduction
