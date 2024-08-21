@@ -247,8 +247,9 @@ The New Asset Store (Included in UEFN, part of UE6?)
 
 
 
-
-
+- An open-source Unreal Engine plugin that provides quality-of-life functionality to developers. https://github.com/UnrealDirective/UDCore https://udcore.unrealdirective.com/docs/introduction
+- This is a small toolset to help you when setting up scenes in Unreal. https://github.com/CrispClover/AssetStudio https://forums.unrealengine.com/t/asset-studio/693616
+- Unreal Engine 5 plugin component for rendering runtime generated content. https://github.com/TriAxis-Games/RealtimeMeshComponent  https://rmc.triaxis.games https://github.com/TriAxis-Games/RealtimeMeshComponent-Docs  https://github.com/TriAxis-Games/ProceduralMeshDemos  https://github.com/TriAxis-Games/Procedural-Cities
 
 
 # $${\color{cyan}SNIPPETS}$$
