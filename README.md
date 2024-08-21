@@ -244,7 +244,13 @@ The New Asset Store (Included in UEFN, part of UE6?)
     - ![3](https://github.com/user-attachments/assets/e37708e7-d300-45e6-9b60-78c658ae2616)
 - Post-Apocalyptic rpg mmo on ue5 https://github.com/Thunderdojo/ForSakenFuture
 - RPG-Tutorial-Series-UE5 https://github.com/GavdzinskyiVeacheslav/RPG-Tutorial-Series-UE5
-
+- Helper scripts for Unreal Engine https://github.com/sinbad/UEScripts
+- Steve's Persistent Unreal Data library  https://github.com/sinbad/SPUD n example project for SPUD https://github.com/sinbad/SPUDExamples
+- Steve's Unreal Quest System: data-driven quest system for Unreal Engine https://github.com/sinbad/SUQS
+- A plugin adding a bunch of common helper functionality that I use in my UE projects https://github.com/sinbad/StevesUEHelpers Example project that demonstrates the use of StevesUEHelpers https://github.com/sinbad/StevesUEExamples
+- Steve's Utility AI SubSystem (for Unreal Engine 5) https://github.com/sinbad/SUSS
+- Steve's Unreal Dialogue System https://github.com/sinbad/SUDS Example project for SUDS https://github.com/sinbad/SUDSExample
+- 
 
 
 - An open-source Unreal Engine plugin that provides quality-of-life functionality to developers. https://github.com/UnrealDirective/UDCore https://udcore.unrealdirective.com/docs/introduction
