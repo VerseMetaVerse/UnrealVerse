@@ -98,7 +98,7 @@ Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few peopl
 ### $${\color{green}CSHARP}$$
 ### Unreal Engine .NET  (C#, F#)
 
-- <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a763647-97bb-43ce-b278-255dae177aaf" width="30%">
+- <img width="30%" src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a763647-97bb-43ce-b278-255dae177aaf" >
 - Unreal Engine .NET 6 integration - UnrealCLR is a plugin which natively integrates .NET host into the Unreal Engine with the Common Language Runtime for direct execution of managed code to build a game/application logic using the full power of C# 10.0, F# 6.0, and .NET facilities with engine API. The project is aimed at stability, performance, and maintainability. https://github.com/nxrighthere/UnrealCLR
 - <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/ba02d53e-b257-4d03-927c-5fb4745b2737" width="5%"> UnrealSharp attempts to add a dotnet core integration to some parts of Unreal Engine. It does this by creating what the dotnet documentation calls a "native host" in the context of a subsystem, and exposes functionality by providing function pointers to dotnet https://github.com/lambda-snail/UnrealSharp
 
@@ -192,7 +192,7 @@ The New Asset Store (Included in UEFN, part of UE6?)
 
 <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a912860-1d74-4671-a700-ed43ffa84724" width="8%">
 
-- ![AirSimDroneManual](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/8b22d424-e741-4ca6-9ec1-a02a4115e57e)
+- <img width="30%" src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/8b22d424-e741-4ca6-9ec1-a02a4115e57e">
 - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research https://github.com/microsoft/AirSim
 - Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine C++ Course & Stanford University https://github.com/tomlooman/ActionRoguelike - https://courses.tomlooman.com/p/unrealengine-cpp?coupon_code=COMMUNITY15&src=github
 - Simple C++ FPS Template for Unreal Engine https://github.com/tomlooman/SimpleFPSTemplate - https://www.tomlooman.com/fps-template/
@@ -200,7 +200,7 @@ The New Asset Store (Included in UEFN, part of UE6?)
 - A third person online shooter game. The inspiration for this game derives from the fun times I had while playing Socom Confrontation! My approach in development is targeted on the implementations of animations; smooth movement and a fast response time is critical. Also, network replication which maintains server authority is a priority. https://github.com/AEDude/Unreal_Engine_5_Shooter_Online
 - https://github.com/KARNB24/Astral-Warfare Welcome to Astral Warfare: Quantum Reckoning, an action-packed game developed on Unreal Engine 5.3.2
 - A template that can be used to start projects that will use some new features that come with Unreal Engine 5 as well as powerful existing features like the GAS and others. https://github.com/lucoiso/UEProject_Elementus
-    - ![171550569-09dc7c78-c921-4b60-92a1-0a50b9e8ccca](https://github.com/user-attachments/assets/94601421-3436-4a0b-906d-7c8c3528d6d4)
+    - <img width="30%" src="https://github.com/user-attachments/assets/94601421-3436-4a0b-906d-7c8c3528d6d4)
 - Ultimate Starter Kit plugin to speed up development of Unreal Engine games
     - https://github.com/hfjooste/UltimateStarterKit
     - https://hfjooste.github.io/UltimateStarterKit/
@@ -230,18 +230,18 @@ The New Asset Store (Included in UEFN, part of UE6?)
 -  Template for a 3rd person shooter game built in Unreal Engine. https://github.com/trapgar/unreal-thirdpersonshooter
 -  Unreal Engine 5 multiplayer shooter C++ project, resurrection of Warhammer 40K: Eternal Crusade. Developed using "UE best practices" from Lyra for a more complex behaviour https://github.com/JediKnightChan/EternalCrusadeResurrection
 -  Open-source Bomberman multiplayer game made in Unreal Engine 5.3 https://github.com/JanSeliv/Bomber
-    -  ![296397029-2898eace-7a57-44d1-9530-4a5abc235b2d](https://github.com/user-attachments/assets/4565118d-d33b-4479-9be0-843ad3f621a6)
+    -  <img width="30%" src="https://github.com/user-attachments/assets/4565118d-d33b-4479-9be0-843ad3f621a6">
 - HELIUM RAIN / Full sources for Helium Rain, a realistic space opera using Unreal Engine 4 https://github.com/strangergwenn/HeliumRain
-    - http://helium-rain.com/   ![687474703a2f2f68656c69756d2d7261696e2e636f6d2f67616c6c6572795f646174612f626c756568656172742e6a7067](https://github.com/user-attachments/assets/394481fa-0e34-4e0d-a749-a46137a99598)
+    - http://helium-rain.com/   <img width="30%" src="https://github.com/user-attachments/assets/394481fa-0e34-4e0d-a749-a46137a99598">
 - ASTRAL SHIPWRIGHT / Full game sources for Astral Shipwright, a space sim made with Unreal Engine 5 https://github.com/strangergwenn/AstralShipwright
-    - https://astralshipwright.com/ ![68747470733a2f2f61737472616c736869707772696768742e636f6d2f67616c6c6572795f646174612f322e6a7067](https://github.com/user-attachments/assets/4e63e6e0-b950-48c0-a317-8fce1c3af80b)
+    - https://astralshipwright.com/ <img width="30%" src="https://github.com/user-attachments/assets/4e63e6e0-b950-48c0-a317-8fce1c3af80b">
 - UE5 MilSim FPS / RTS Game (formerly ProjectM) https://github.com/HaywireInteractive/OnAllFronts-Public
 - Helicopters for Unreal Engine https://github.com/dannymcgee/Unreal_RotaryWingAircraft
-    - ![68747470733a2f2f696d672e796f75747562652e636f6d2f76692f69673938694762663242772f6d617872657364656661756c742e6a7067](https://github.com/user-attachments/assets/ce7afe75-aed1-4203-a2a8-d9f4a525f2b2)
+    - <img width="30%" src="https://github.com/user-attachments/assets/ce7afe75-aed1-4203-a2a8-d9f4a525f2b2">
     - https://github.com/dannymcgee/Unreal_HeliExample
 - ActionRPG for ue5 https://github.com/mirchd/ActionRPG
 - An RTS game crafted in Unreal Engine, inspired by Age of Empires 2, and developed using C++ https://github.com/MrHaloka/age_of_heros
-    - ![3](https://github.com/user-attachments/assets/e37708e7-d300-45e6-9b60-78c658ae2616)
+    - <img width="30%" src="https://github.com/user-attachments/assets/e37708e7-d300-45e6-9b60-78c658ae2616">
 - Post-Apocalyptic rpg mmo on ue5 https://github.com/Thunderdojo/ForSakenFuture
 - RPG-Tutorial-Series-UE5 https://github.com/GavdzinskyiVeacheslav/RPG-Tutorial-Series-UE5
 - Helper scripts for Unreal Engine https://github.com/sinbad/UEScripts
@@ -251,15 +251,14 @@ The New Asset Store (Included in UEFN, part of UE6?)
 - Steve's Utility AI SubSystem (for Unreal Engine 5) https://github.com/sinbad/SUSS
 - Steve's Unreal Dialogue System https://github.com/sinbad/SUDS Example project for SUDS https://github.com/sinbad/SUDSExample
 - Multiagent research environment toolbox based on Unreal Engine  https://github.com/binary-husky/unreal-map
-    - ![unreal-island](https://github.com/user-attachments/assets/74ecb879-8f9c-417e-bb59-31a1b90671ae)
-    - ![2023-02-12 155956](https://github.com/user-attachments/assets/23d4ce78-4c92-4191-9323-bb241167b675)
-    - ![uhmap-hete](https://github.com/user-attachments/assets/f48256d0-5905-4d2d-a99d-95bf3a020048)
+    - <img width="30%" src="https://github.com/user-attachments/assets/74ecb879-8f9c-417e-bb59-31a1b90671ae">
+    - <img width="30%" src="https://github.com/user-attachments/assets/23d4ce78-4c92-4191-9323-bb241167b675">
+    - <img width="30%" src="https://github.com/user-attachments/assets/f48256d0-5905-4d2d-a99d-95bf3a020048">
 
 - Tools for Houdini, Unreal Engine and Deadline https://github.com/VFX-Tricks/VFX-Tricks-Toolbox  https://www.vfxtricks.com
-    - ![Uploading 172205434-25c8b7d1-816c-4689-935d-7717d00e27ab.svg…]()
-    - ![172036894-9816bc65-295e-4f32-974a-8148c01ccc5d](https://github.com/user-attachments/assets/05bad2bd-fbae-412e-8108-36b4141af69b)
+    - <img width="30%" src="https://github.com/user-attachments/assets/05bad2bd-fbae-412e-8108-36b4141af69b">
 - Toolbox is a versatile plugin providing a comprehensive set of blueprint functions to streamline your Unreal Engine development https://github.com/Solessfir/Toolbox
-    -  Toolbox is a versatile plugin providing a comprehensive set of blueprint functions to streamline your Unreal Engine development. Boost productivity and simplify game creation for developers of all levels with essential tools at your fingertips. ![68747470733a2f2f692e696d6775722e636f6d2f71507a694a685a2e706e67](https://github.com/user-attachments/assets/e0023143-d3fc-45bc-98f6-863c8863d8fe)
+    -  Toolbox is a versatile plugin providing a comprehensive set of blueprint functions to streamline your Unreal Engine development. Boost productivity and simplify game creation for developers of all levels with essential tools at your fingertips. <img width="30%" src="https://github.com/user-attachments/assets/e0023143-d3fc-45bc-98f6-863c8863d8fe">
 
 
 - Greathorn.Toolbox - Our Unreal Engine Tooling https://github.com/GreathornGames/Greathorn.Toolbox
