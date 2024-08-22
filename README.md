@@ -42,7 +42,7 @@ There is also a "Type of Interest" set of categories that I hope to feature with
   - After that, you can find our repositories here: Unreal Engine https://github.com/EpicGames/UnrealEngine and https://github.com/EpicGamesExt
   - Blender addons that improve the game development workflow between Blender and Unreal https://epicgamesext.github.io/BlenderTools/ https://github.com/EpicGamesExt/BlenderTools
   - Official mirror of Blender https://github.com/blender/blender http://www.blender.org/
-      - <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/b5694db7-8938-4044-93f8-9f7def7208a8" width="40%">
+      - <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/b5694db7-8938-4044-93f8-9f7def7208a8" width="50%">
 - https://github.com/jaydenmilne/steamsync Tool to automatically add games from the Epic Games Launcher to Steam
 - https://github.com/nikop/epic-games-ratings Ratings for all games in Epic Games Store
 - https://www.unrealengine.com/en-US/feed
@@ -90,7 +90,7 @@ Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few peopl
 # $${\color{yellow}C++}$$
 ## C++ (UE5, UE6)
 
-<img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a912860-1d74-4671-a700-ed43ffa84724" width="8%">
+<img  width="10%" src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a912860-1d74-4671-a700-ed43ffa84724">
 
 # $${\color{green}OTHERLANG}$$
 ## Other Programming Languages
@@ -98,9 +98,9 @@ Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few peopl
 ### $${\color{green}CSHARP}$$
 ### Unreal Engine .NET  (C#, F#)
 
-- <img width="30%" src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a763647-97bb-43ce-b278-255dae177aaf" >
+- <img width="36%" src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a763647-97bb-43ce-b278-255dae177aaf" >
 - Unreal Engine .NET 6 integration - UnrealCLR is a plugin which natively integrates .NET host into the Unreal Engine with the Common Language Runtime for direct execution of managed code to build a game/application logic using the full power of C# 10.0, F# 6.0, and .NET facilities with engine API. The project is aimed at stability, performance, and maintainability. https://github.com/nxrighthere/UnrealCLR
-- <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/ba02d53e-b257-4d03-927c-5fb4745b2737" width="5%"> UnrealSharp attempts to add a dotnet core integration to some parts of Unreal Engine. It does this by creating what the dotnet documentation calls a "native host" in the context of a subsystem, and exposes functionality by providing function pointers to dotnet https://github.com/lambda-snail/UnrealSharp
+- <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/ba02d53e-b257-4d03-927c-5fb4745b2737" width="8%"> UnrealSharp attempts to add a dotnet core integration to some parts of Unreal Engine. It does this by creating what the dotnet documentation calls a "native host" in the context of a subsystem, and exposes functionality by providing function pointers to dotnet https://github.com/lambda-snail/UnrealSharp
 
 ### $${\color{green}PYTHON}$$
 
@@ -108,7 +108,8 @@ Verse has been designed by Simon Peyton Jones and Tim Sweeney but very few peopl
 - Some of my personal scripts i made to use for my own projects, but free of charge to be used for any project https://github.com/mamoniem/UnrealEditorPythonScripts
 - GameLink is for faster iterations than ever been possible, and at the same time a huge reduction in the time, effort & most importantly the “Cost” of game development. https://github.com/mamoniem/ugl
 - Visual Studio Code extension with features to assist when writing python code for Unreal Engine https://github.com/nils-soderman/vscode-unreal-python
-- This project is a collection of internal tools developed in Python for working with Unreal Engine. It includes functionalities for retrieving version information from a Git repository, updating Unreal Engine configuration files, and handling template files. https://github.com/IT-Hock/UEBuildTools  ![logo](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/351fd7ac-9e33-42fe-b81f-43032c4db788)
+- This project is a collection of internal tools developed in Python for working with Unreal Engine. It includes functionalities for retrieving version information from a Git repository, updating Unreal Engine configuration files, and handling template files. https://github.com/IT-Hock/UEBuildTools
+- <img width="36%" src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/351fd7ac-9e33-42fe-b81f-43032c4db788">
 
 
 ### $${\color{green}LUA}$$
@@ -117,7 +118,7 @@ Tencent ![18461506](https://github.com/VerseMetaVerse/UnrealVerse/assets/1734458
 - NOTE: Tencent owns 40% of Epic Games, they appear to have TWO separate Lua plugins:
 - lua dev plugin for unreal engine 4 or 5 https://github.com/Tencent/sluaunreal
 - A feature-rich, easy-learning and highly optimized Lua scripting plugin for UE. https://github.com/Tencent/UnLua
-    - ![UnLua](https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/48b7182f-0a82-4e0b-b585-cf0d282285d5)
+    - <img width="50%" src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/48b7182f-0a82-4e0b-b585-cf0d282285d5">
     - https://github.com/Tencent/UnLua/blob/master/Docs/EN/UnLua_Programming_Guide.md
 
 # UNREAL STUDIO
@@ -190,9 +191,9 @@ The New Asset Store (Included in UEFN, part of UE6?)
 ## $${\color{yellow}C++}$$  $${\color{lime}SAMPLES}$$
 
 
-<img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a912860-1d74-4671-a700-ed43ffa84724" width="8%">
+<img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a912860-1d74-4671-a700-ed43ffa84724" width="10%">
 
-- <img width="30%" src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/8b22d424-e741-4ca6-9ec1-a02a4115e57e">
+- <img width="80%" src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/8b22d424-e741-4ca6-9ec1-a02a4115e57e">
 - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research https://github.com/microsoft/AirSim
 - Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine C++ Course & Stanford University https://github.com/tomlooman/ActionRoguelike - https://courses.tomlooman.com/p/unrealengine-cpp?coupon_code=COMMUNITY15&src=github
 - Simple C++ FPS Template for Unreal Engine https://github.com/tomlooman/SimpleFPSTemplate - https://www.tomlooman.com/fps-template/
@@ -230,14 +231,14 @@ The New Asset Store (Included in UEFN, part of UE6?)
 -  Template for a 3rd person shooter game built in Unreal Engine. https://github.com/trapgar/unreal-thirdpersonshooter
 -  Unreal Engine 5 multiplayer shooter C++ project, resurrection of Warhammer 40K: Eternal Crusade. Developed using "UE best practices" from Lyra for a more complex behaviour https://github.com/JediKnightChan/EternalCrusadeResurrection
 -  Open-source Bomberman multiplayer game made in Unreal Engine 5.3 https://github.com/JanSeliv/Bomber
-    -  <img width="30%" src="https://github.com/user-attachments/assets/4565118d-d33b-4479-9be0-843ad3f621a6">
+    -  <img width="50%" src="https://github.com/user-attachments/assets/4565118d-d33b-4479-9be0-843ad3f621a6">
 - HELIUM RAIN / Full sources for Helium Rain, a realistic space opera using Unreal Engine 4 https://github.com/strangergwenn/HeliumRain
-    - http://helium-rain.com/   <img width="30%" src="https://github.com/user-attachments/assets/394481fa-0e34-4e0d-a749-a46137a99598">
+    - http://helium-rain.com/   <img width="50%" src="https://github.com/user-attachments/assets/394481fa-0e34-4e0d-a749-a46137a99598">
 - ASTRAL SHIPWRIGHT / Full game sources for Astral Shipwright, a space sim made with Unreal Engine 5 https://github.com/strangergwenn/AstralShipwright
-    - https://astralshipwright.com/ <img width="30%" src="https://github.com/user-attachments/assets/4e63e6e0-b950-48c0-a317-8fce1c3af80b">
+    - https://astralshipwright.com/ <img width="50%" src="https://github.com/user-attachments/assets/4e63e6e0-b950-48c0-a317-8fce1c3af80b">
 - UE5 MilSim FPS / RTS Game (formerly ProjectM) https://github.com/HaywireInteractive/OnAllFronts-Public
 - Helicopters for Unreal Engine https://github.com/dannymcgee/Unreal_RotaryWingAircraft
-    - <img width="30%" src="https://github.com/user-attachments/assets/ce7afe75-aed1-4203-a2a8-d9f4a525f2b2">
+    - <img width="50%" src="https://github.com/user-attachments/assets/ce7afe75-aed1-4203-a2a8-d9f4a525f2b2">
     - https://github.com/dannymcgee/Unreal_HeliExample
 - ActionRPG for ue5 https://github.com/mirchd/ActionRPG
 - An RTS game crafted in Unreal Engine, inspired by Age of Empires 2, and developed using C++ https://github.com/MrHaloka/age_of_heros
@@ -251,14 +252,14 @@ The New Asset Store (Included in UEFN, part of UE6?)
 - Steve's Utility AI SubSystem (for Unreal Engine 5) https://github.com/sinbad/SUSS
 - Steve's Unreal Dialogue System https://github.com/sinbad/SUDS Example project for SUDS https://github.com/sinbad/SUDSExample
 - Multiagent research environment toolbox based on Unreal Engine  https://github.com/binary-husky/unreal-map
-    - <img width="30%" src="https://github.com/user-attachments/assets/74ecb879-8f9c-417e-bb59-31a1b90671ae">
-    - <img width="30%" src="https://github.com/user-attachments/assets/23d4ce78-4c92-4191-9323-bb241167b675">
-    - <img width="30%" src="https://github.com/user-attachments/assets/f48256d0-5905-4d2d-a99d-95bf3a020048">
+    - <img width="40%" src="https://github.com/user-attachments/assets/74ecb879-8f9c-417e-bb59-31a1b90671ae">
+    - <img width="40%" src="https://github.com/user-attachments/assets/23d4ce78-4c92-4191-9323-bb241167b675">
+    - <img width="40%" src="https://github.com/user-attachments/assets/f48256d0-5905-4d2d-a99d-95bf3a020048">
 
 - Tools for Houdini, Unreal Engine and Deadline https://github.com/VFX-Tricks/VFX-Tricks-Toolbox  https://www.vfxtricks.com
-    - <img width="30%" src="https://github.com/user-attachments/assets/05bad2bd-fbae-412e-8108-36b4141af69b">
+    - <img width="60%" src="https://github.com/user-attachments/assets/05bad2bd-fbae-412e-8108-36b4141af69b">
 - Toolbox is a versatile plugin providing a comprehensive set of blueprint functions to streamline your Unreal Engine development https://github.com/Solessfir/Toolbox
-    -  Toolbox is a versatile plugin providing a comprehensive set of blueprint functions to streamline your Unreal Engine development. Boost productivity and simplify game creation for developers of all levels with essential tools at your fingertips. <img width="30%" src="https://github.com/user-attachments/assets/e0023143-d3fc-45bc-98f6-863c8863d8fe">
+    -  Toolbox is a versatile plugin providing a comprehensive set of blueprint functions to streamline your Unreal Engine development. Boost productivity and simplify game creation for developers of all levels with essential tools at your fingertips. <img width="50%" src="https://github.com/user-attachments/assets/e0023143-d3fc-45bc-98f6-863c8863d8fe">
 
 
 - Greathorn.Toolbox - Our Unreal Engine Tooling https://github.com/GreathornGames/Greathorn.Toolbox
@@ -386,7 +387,7 @@ Tools that help make Blueprints
 
 - Blender addons that improve the game development workflow between Blender and Unreal https://epicgamesext.github.io/BlenderTools/ https://github.com/EpicGamesExt/BlenderTools
 - Official mirror of Blender https://github.com/blender/blender http://www.blender.org/
-    - <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/b5694db7-8938-4044-93f8-9f7def7208a8" width="40%">
+    - <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/b5694db7-8938-4044-93f8-9f7def7208a8" width="50%">
 - <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/bcea4a6b-e073-4b36-a847-9c525cdfed47" width="30%">
     - Stable Diffusion built-in to Blender https://github.com/carson-katri/dream-textures
 
