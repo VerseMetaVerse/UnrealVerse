@@ -637,6 +637,7 @@ This list is NOT curated but it might be useful to you since it is surprisingly 
 - https://github.com/futouyiba/UefnVerseCode
 - UEFN - Custom game made in Unreal Engine for Fortnite Creative (only Verse code) - https://github.com/Gguardiola/UnrealEngine-Fortnite-CarZoneFights.
 - A verse class for converting epoch timestamps to human readable date objects https://github.com/imcouri/verse_date
+- https://github.com/mlnvz/VerseProject
 - Verse Item/Cosmetic Shop https://github.com/imcouri/verse_item_shop
 - Verse Cookbook https://github.com/gladimdim/verse-cookbook
 - This is a collection of UEFN Verse Language Snippets, I'm setting to the side as a learning experience for the verse language - https://github.com/TylerAustInW/VerseSnippets
