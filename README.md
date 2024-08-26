@@ -215,7 +215,7 @@ Explore the lush environment of the GDC SoU Electric Dreams demo, created with t
 This downloadable project reveals how the city scene from The Matrix Awakens: An Unreal Engine 5 Experience was built and demonstrates how we used Unreal Engine 5 to bring it to life. https://www.unrealengine.com/marketplace/en-US/product/city-sample
 - https://github.com/KARNB24/Astral-Warfare Welcome to Astral Warfare: Quantum Reckoning, an action-packed game developed on Unreal Engine 5.3.2
 - A template that can be used to start projects that will use some new features that come with Unreal Engine 5 as well as powerful existing features like the GAS and others. https://github.com/lucoiso/UEProject_Elementus
-    - <img width="30%" src="https://github.com/user-attachments/assets/94601421-3436-4a0b-906d-7c8c3528d6d4)
+    - <img width="30%" src="https://github.com/user-attachments/assets/94601421-3436-4a0b-906d-7c8c3528d6d4">
 - Ultimate Starter Kit plugin to speed up development of Unreal Engine games
     - https://github.com/hfjooste/UltimateStarterKit
     - https://hfjooste.github.io/UltimateStarterKit/
