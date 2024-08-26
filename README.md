@@ -434,6 +434,18 @@ Tools that help make Blueprints
 # $${\color{cyan}MOCAP}$$
 
 - TBD
+- something simple like the Sony solution any good? - https://electronics.sony.com/more/mocopi/all-mocopi/p/qmss1-uscx?srsltid=AfmBOor9q1CQaFKr9ZXkLhKc5rfq3wVCx4oroaHMxKcPbUPwQla7hzM7
+- mocopi in Animations - UE Marketplace
+Sony's mobile motion capture "mocopi": Portable, Real-Time Motion Capture for Creative Professionals. ![image](https://github.com/user-attachments/assets/cd6c86dd-370d-40d4-b984-42fd63fb7961)
+![image](https://github.com/user-attachments/assets/22eeaaa6-8ad8-4fa9-af96-0dd37a5abb53)
+
+
+- https://www.movella.com/
+Home | Movella.com
+Movella digitizes movement. Across industries and around the globe, Movella enables customers and creators to realize extraordinary outcomes.
+MVN Live Link in Code Plugins - UE Marketplace
+Stream your Xsens data live to Unreal ![image](https://github.com/user-attachments/assets/9411c5d5-bdcf-4fc5-9f5f-ec8e56c24dee)
+
   
 # $${\color{cyan}VR-AR}$$
 
