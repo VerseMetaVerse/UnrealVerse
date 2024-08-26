@@ -426,6 +426,22 @@ Tools that help make Blueprints
 
 # $${\color{cyan}SPECIFIC-TOPICS}$$
 
+# $${\color{cyan}VR-AR}$$
+
+- TBD
+
+# $${\color{cyan}GREEBLE}$$
+
+- TBD
+
+# $${\color{cyan}NPC-AI}$$
+
+- TBD
+
+# $${\color{cyan}AI-CREATORS}$$
+
+- TBD
+
 # $${\color{cyan}PCG}$$
 
 - PCGEx is a free (libre) Unreal 5 plugin that expands PCG capabilities. It offers a variety of high-performance nodes; with an edge for building relational graphs (Freeform, Delaunay, Voronoi, MST etc), advanced pathfinding; and much more - https://github.com/Nebukam/PCGExtendedToolkit
