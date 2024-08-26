@@ -458,12 +458,15 @@ Stream your Xsens data live to Unreal <img width="50%" src="https://github.com/u
 > 
 
 - Dynamic, real-time terrain generator for Unreal Engine, with object scattering capabilities. It uses chunks for optimalization. https://github.com/Yorshka-Vermilion/UnrealEngine---Terrain-Generator
-- ![313756263-4495deaa-ebd4-4993-af4b-16cdcb15e57b](https://github.com/user-attachments/assets/903ca2c4-69b3-4afa-b02a-a3901b46eba1)
+    - <img width="40%" src="https://github.com/user-attachments/assets/903ca2c4-69b3-4afa-b02a-a3901b46eba1">
 - Layout and Scatter Tools for Unreal Engine https://github.com/Green-Rain-Studios/SageScatter
 - UE4 and Unity plugin to automatically add rubble in the nooks and crannies of your scene https://github.com/alexismorin/Greebler
+    - <img width="60%" src="https://github.com/user-attachments/assets/fbc0fe47-1309-4a3d-8aa0-d3dff9755527">
+    - <img width="60%" src="https://github.com/user-attachments/assets/80fad8d6-8a6b-42a6-af87-185c774c65bd">
+    - <img width="60%" src="https://github.com/user-attachments/assets/45efa6fc-f5d8-4ce6-9578-e4e197ae9b75">
 - Blender add-on generates Greeble https://github.com/ryan874/GreebleGenerator
 - blender tool for procedurally generating tertiary detailing in both real-time and pre-rendered environments. https://github.com/DanielAskerov/Greeble-Tool
-- ![278885086-ca50e9e0-dd1a-4d47-a841-35cad1647909](https://github.com/user-attachments/assets/1ef82a7b-bae4-4396-848b-0a92f6a028f9)
+    - <img width="40%" src="https://github.com/user-attachments/assets/1ef82a7b-bae4-4396-848b-0a92f6a028f9">
 
 
 
