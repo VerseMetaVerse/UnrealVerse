@@ -193,32 +193,10 @@ The New Asset Store (Included in UEFN, part of UE6?)
 - Introduction to Blueprints for UE5 https://github.com/LSU-UE5/UE5-Intro-To-Blueprints-Starter
 
 
-## $${\color{yellow}C++}$$  $${\color{lime}SAMPLES}$$
+## $${\color{yellow}C++}$$  $${\color{lime}SAMPLES-CORE-TOOLBOX-STARTERKITS}$$
 
-
-<img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a912860-1d74-4671-a700-ed43ffa84724" width="10%">
-
-- <img width="80%" src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/8b22d424-e741-4ca6-9ec1-a02a4115e57e">
-- Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research https://github.com/microsoft/AirSim
-- Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine C++ Course & Stanford University https://github.com/tomlooman/ActionRoguelike - https://courses.tomlooman.com/p/unrealengine-cpp?coupon_code=COMMUNITY15&src=github
-- Simple C++ FPS Template for Unreal Engine https://github.com/tomlooman/SimpleFPSTemplate - https://www.tomlooman.com/fps-template/
-- Replicated Parkour System w/ 300+ animations which uses a custom movement component to translate and rotate the character across, on top/ below, onto and off of a surface in result of achieving valid hit results on the respective ray casts being performed. This Parkour System is paired with the Epic Games' Unreal Engine 5 Plugin, "Motion Warping". https://github.com/AEDude/Unreal_Engine_5_Parkour_System https://www.youtube.com/@AEDudes
-- A third person online shooter game. The inspiration for this game derives from the fun times I had while playing Socom Confrontation! My approach in development is targeted on the implementations of animations; smooth movement and a fast response time is critical. Also, network replication which maintains server authority is a priority. https://github.com/AEDude/Unreal_Engine_5_Shooter_Online
 - https://dev.epicgames.com/documentation/en-us/unreal-engine/lyra-sample-game-in-unreal-engine?application_version=5.0 https://www.unrealengine.com/marketplace/en-US/product/lyra
     - <img  width="40%" src="https://github.com/user-attachments/assets/f0dc5214-5063-43f5-830a-3bfcea67b5d4">
-- <img  width="60%" src="https://github.com/user-attachments/assets/46fe62e4-6938-4e6e-89cf-d78fe569325a">
-Get stuck in Stack’O’Bot, a small sandbox project that showcases a lean player controller, an expandable interaction system, and modular pieces you can build on. It also shows all the new features of Unreal Engine 5 in a practical vertical slice.https://www.unrealengine.com/marketplace/en-US/product/stack-o-bot
--  <img  width="60%" src="https://github.com/user-attachments/assets/00932008-981c-4031-88ea-493a1fd04802">
-Discover how Unreal Engine 5’s Early Access features can be leveraged in our all-new sample project! Valley of the Ancient demonstrates high-end visuals and practical use of UE5 features. NOTE: This project targets high-end PCs and next-gen consoles.https://www.unrealengine.com/marketplace/en-US/product/ancient-game-01
-- <img  width="60%" src="https://github.com/user-attachments/assets/9fab6290-6f5b-4cad-b7b6-fc3b6f6bef48">
-This museum-style project has a collection of maps with stands that demonstrate specific features!https://www.unrealengine.com/marketplace/en-US/product/content-examples
-- <img  width="60%" src="https://github.com/user-attachments/assets/5dcb7b10-2695-4bf5-90f5-12724cab57ec">
-Learn how to build functional gameplay animation systems with hundreds of AAA quality animations.https://www.unrealengine.com/marketplace/en-US/product/game-animation-sample
-- <img  width="60%" src="https://github.com/user-attachments/assets/dc8c0d4e-f074-4ad2-8284-566f9620903e">
-Explore the lush environment of the GDC SoU Electric Dreams demo, created with the PCG framework.https://www.unrealengine.com/marketplace/en-US/product/electric-dreams-env
-- <img  width="60%" src="https://github.com/user-attachments/assets/bd39a0ab-0b1a-4007-b144-458e614f8a9b">
-This downloadable project reveals how the city scene from The Matrix Awakens: An Unreal Engine 5 Experience was built and demonstrates how we used Unreal Engine 5 to bring it to life. https://www.unrealengine.com/marketplace/en-US/product/city-sample
-- https://github.com/KARNB24/Astral-Warfare Welcome to Astral Warfare: Quantum Reckoning, an action-packed game developed on Unreal Engine 5.3.2
 - A template that can be used to start projects that will use some new features that come with Unreal Engine 5 as well as powerful existing features like the GAS and others. https://github.com/lucoiso/UEProject_Elementus
     - <img width="50%" src="https://github.com/user-attachments/assets/94601421-3436-4a0b-906d-7c8c3528d6d4">
 - Ultimate Starter Kit plugin to speed up development of Unreal Engine games
@@ -242,6 +220,48 @@ This downloadable project reveals how the city scene from The Matrix Awakens: An
     - Platform Utils: Easily detect different platform types and architectures
     - Project Utils: Extract project information like name, description, and version
 - LyraConveniencePlugin - This is a very simple base plugin to extend Unreal Engine's Lyra Starter Game in a modular fashion. I used this as a base to build my game upon. https://github.com/bruteforks/LyraConveniencePlugin
+- Toolbox is a versatile plugin providing a comprehensive set of blueprint functions to streamline your Unreal Engine development https://github.com/Solessfir/Toolbox
+    -  Toolbox is a versatile plugin providing a comprehensive set of blueprint functions to streamline your Unreal Engine development. Boost productivity and simplify game creation for developers of all levels with essential tools at your fingertips. <img width="50%" src="https://github.com/user-attachments/assets/e0023143-d3fc-45bc-98f6-863c8863d8fe">
+- Greathorn.Toolbox - Our Unreal Engine Tooling https://github.com/GreathornGames/Greathorn.Toolbox
+- An open-source Unreal Engine plugin that provides quality-of-life functionality to developers. https://github.com/UnrealDirective/UDCore https://udcore.unrealdirective.com/docs/introduction
+- This is a small toolset to help you when setting up scenes in Unreal. https://github.com/CrispClover/AssetStudio https://forums.unrealengine.com/t/asset-studio/693616
+- A plugin adding a bunch of common helper functionality that I use in my UE projects https://github.com/sinbad/StevesUEHelpers Example project that demonstrates the use of StevesUEHelpers https://github.com/sinbad/StevesUEExamples
+
+## $${\color{yellow}C++}$$  $${\color{lime}SAMPLES-CORE-EXTENSIONS}$$
+
+- Helper scripts for Unreal Engine https://github.com/sinbad/UEScripts
+- Steve's Persistent Unreal Data library  https://github.com/sinbad/SPUD n example project for SPUD https://github.com/sinbad/SPUDExamples
+- Steve's Unreal Quest System: data-driven quest system for Unreal Engine https://github.com/sinbad/SUQS
+- Steve's Utility AI SubSystem (for Unreal Engine 5) https://github.com/sinbad/SUSS
+- Steve's Unreal Dialogue System https://github.com/sinbad/SUDS Example project for SUDS https://github.com/sinbad/SUDSExample
+- Unreal Engine 5 plugin component for rendering runtime generated content. https://github.com/TriAxis-Games/RealtimeMeshComponent  https://rmc.triaxis.games https://github.com/TriAxis-Games/RealtimeMeshComponent-Docs  https://github.com/TriAxis-Games/ProceduralMeshDemos  https://github.com/TriAxis-Games/Procedural-Cities
+
+## $${\color{yellow}C++}$$  $${\color{lime}SAMPLES}$$
+
+<img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/2a912860-1d74-4671-a700-ed43ffa84724" width="10%">
+
+- <img width="80%" src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/8b22d424-e741-4ca6-9ec1-a02a4115e57e">
+- Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research https://github.com/microsoft/AirSim
+- Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine C++ Course & Stanford University https://github.com/tomlooman/ActionRoguelike - https://courses.tomlooman.com/p/unrealengine-cpp?coupon_code=COMMUNITY15&src=github
+- Simple C++ FPS Template for Unreal Engine https://github.com/tomlooman/SimpleFPSTemplate - https://www.tomlooman.com/fps-template/
+- Replicated Parkour System w/ 300+ animations which uses a custom movement component to translate and rotate the character across, on top/ below, onto and off of a surface in result of achieving valid hit results on the respective ray casts being performed. This Parkour System is paired with the Epic Games' Unreal Engine 5 Plugin, "Motion Warping". https://github.com/AEDude/Unreal_Engine_5_Parkour_System https://www.youtube.com/@AEDudes
+- A third person online shooter game. The inspiration for this game derives from the fun times I had while playing Socom Confrontation! My approach in development is targeted on the implementations of animations; smooth movement and a fast response time is critical. Also, network replication which maintains server authority is a priority. https://github.com/AEDude/Unreal_Engine_5_Shooter_Online
+
+- <img  width="60%" src="https://github.com/user-attachments/assets/46fe62e4-6938-4e6e-89cf-d78fe569325a">
+Get stuck in Stack’O’Bot, a small sandbox project that showcases a lean player controller, an expandable interaction system, and modular pieces you can build on. It also shows all the new features of Unreal Engine 5 in a practical vertical slice.https://www.unrealengine.com/marketplace/en-US/product/stack-o-bot
+-  <img  width="60%" src="https://github.com/user-attachments/assets/00932008-981c-4031-88ea-493a1fd04802">
+Discover how Unreal Engine 5’s Early Access features can be leveraged in our all-new sample project! Valley of the Ancient demonstrates high-end visuals and practical use of UE5 features. NOTE: This project targets high-end PCs and next-gen consoles.https://www.unrealengine.com/marketplace/en-US/product/ancient-game-01
+- <img  width="60%" src="https://github.com/user-attachments/assets/9fab6290-6f5b-4cad-b7b6-fc3b6f6bef48">
+This museum-style project has a collection of maps with stands that demonstrate specific features!https://www.unrealengine.com/marketplace/en-US/product/content-examples
+- <img  width="60%" src="https://github.com/user-attachments/assets/5dcb7b10-2695-4bf5-90f5-12724cab57ec">
+Learn how to build functional gameplay animation systems with hundreds of AAA quality animations.https://www.unrealengine.com/marketplace/en-US/product/game-animation-sample
+- <img  width="60%" src="https://github.com/user-attachments/assets/dc8c0d4e-f074-4ad2-8284-566f9620903e">
+Explore the lush environment of the GDC SoU Electric Dreams demo, created with the PCG framework.https://www.unrealengine.com/marketplace/en-US/product/electric-dreams-env
+- <img  width="60%" src="https://github.com/user-attachments/assets/bd39a0ab-0b1a-4007-b144-458e614f8a9b">
+This downloadable project reveals how the city scene from The Matrix Awakens: An Unreal Engine 5 Experience was built and demonstrates how we used Unreal Engine 5 to bring it to life. https://www.unrealengine.com/marketplace/en-US/product/city-sample
+- https://github.com/KARNB24/Astral-Warfare Welcome to Astral Warfare: Quantum Reckoning, an action-packed game developed on Unreal Engine 5.3.2
+
+
 - Fully replicated third person shooter using Unreal Engine 5 https://github.com/PierceProvias/Third-Person-Shooter
 - DarkSoulsClone https://github.com/PierceProvias/DarkSoulsClone
 - Backrooms horror game being made in Unreal Engine 5 coming to Steam soon with sound design by Cooper. https://github.com/cwindrow007/LiminalEscape
@@ -264,12 +284,6 @@ This downloadable project reveals how the city scene from The Matrix Awakens: An
     - <img width="30%" src="https://github.com/user-attachments/assets/e37708e7-d300-45e6-9b60-78c658ae2616">
 - Post-Apocalyptic rpg mmo on ue5 https://github.com/Thunderdojo/ForSakenFuture
 - RPG-Tutorial-Series-UE5 https://github.com/GavdzinskyiVeacheslav/RPG-Tutorial-Series-UE5
-- Helper scripts for Unreal Engine https://github.com/sinbad/UEScripts
-- Steve's Persistent Unreal Data library  https://github.com/sinbad/SPUD n example project for SPUD https://github.com/sinbad/SPUDExamples
-- Steve's Unreal Quest System: data-driven quest system for Unreal Engine https://github.com/sinbad/SUQS
-- A plugin adding a bunch of common helper functionality that I use in my UE projects https://github.com/sinbad/StevesUEHelpers Example project that demonstrates the use of StevesUEHelpers https://github.com/sinbad/StevesUEExamples
-- Steve's Utility AI SubSystem (for Unreal Engine 5) https://github.com/sinbad/SUSS
-- Steve's Unreal Dialogue System https://github.com/sinbad/SUDS Example project for SUDS https://github.com/sinbad/SUDSExample
 - Multiagent research environment toolbox based on Unreal Engine  https://github.com/binary-husky/unreal-map
     - <img width="40%" src="https://github.com/user-attachments/assets/74ecb879-8f9c-417e-bb59-31a1b90671ae">
     - <img width="40%" src="https://github.com/user-attachments/assets/23d4ce78-4c92-4191-9323-bb241167b675">
@@ -277,11 +291,7 @@ This downloadable project reveals how the city scene from The Matrix Awakens: An
 
 - Tools for Houdini, Unreal Engine and Deadline https://github.com/VFX-Tricks/VFX-Tricks-Toolbox  https://www.vfxtricks.com
     - <img width="60%" src="https://github.com/user-attachments/assets/05bad2bd-fbae-412e-8108-36b4141af69b">
-- Toolbox is a versatile plugin providing a comprehensive set of blueprint functions to streamline your Unreal Engine development https://github.com/Solessfir/Toolbox
-    -  Toolbox is a versatile plugin providing a comprehensive set of blueprint functions to streamline your Unreal Engine development. Boost productivity and simplify game creation for developers of all levels with essential tools at your fingertips. <img width="50%" src="https://github.com/user-attachments/assets/e0023143-d3fc-45bc-98f6-863c8863d8fe">
 
-
-- Greathorn.Toolbox - Our Unreal Engine Tooling https://github.com/GreathornGames/Greathorn.Toolbox
 
  
 > [!WARNING]
@@ -290,9 +300,6 @@ This downloadable project reveals how the city scene from The Matrix Awakens: An
 
 
 
-- An open-source Unreal Engine plugin that provides quality-of-life functionality to developers. https://github.com/UnrealDirective/UDCore https://udcore.unrealdirective.com/docs/introduction
-- This is a small toolset to help you when setting up scenes in Unreal. https://github.com/CrispClover/AssetStudio https://forums.unrealengine.com/t/asset-studio/693616
-- Unreal Engine 5 plugin component for rendering runtime generated content. https://github.com/TriAxis-Games/RealtimeMeshComponent  https://rmc.triaxis.games https://github.com/TriAxis-Games/RealtimeMeshComponent-Docs  https://github.com/TriAxis-Games/ProceduralMeshDemos  https://github.com/TriAxis-Games/Procedural-Cities
 
 
 # $${\color{cyan}SNIPPETS}$$
