@@ -13,7 +13,7 @@
 ### This Document
 
 > [!NOTE]
-> Most of the various UNREAL lists of projects point to a large number of old unmaintained projects. The extent of "CURATION" here is to eliminate things that won't work with Unreal 5.4, 5.5 and 6.0 and focus on the interesting and useful.
+> Most of the other various UNREAL lists of projects on GitHub point to a large number of old unmaintained projects. The extent of "CURATION" here is to eliminate things that won't work with Unreal 5.4, 5.5 and 6.0 and focus on the interesting and useful.
 > 
 
 The document is organized by categories of 
