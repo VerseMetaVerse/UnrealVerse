@@ -200,7 +200,7 @@ The New Asset Store (Included in UEFN, part of UE6?)
 - Replicated Parkour System w/ 300+ animations which uses a custom movement component to translate and rotate the character across, on top/ below, onto and off of a surface in result of achieving valid hit results on the respective ray casts being performed. This Parkour System is paired with the Epic Games' Unreal Engine 5 Plugin, "Motion Warping". https://github.com/AEDude/Unreal_Engine_5_Parkour_System https://www.youtube.com/@AEDudes
 - A third person online shooter game. The inspiration for this game derives from the fun times I had while playing Socom Confrontation! My approach in development is targeted on the implementations of animations; smooth movement and a fast response time is critical. Also, network replication which maintains server authority is a priority. https://github.com/AEDude/Unreal_Engine_5_Shooter_Online
 - https://dev.epicgames.com/documentation/en-us/unreal-engine/lyra-sample-game-in-unreal-engine?application_version=5.0 https://www.unrealengine.com/marketplace/en-US/product/lyra
-    - <img  width="70%" src="https://github.com/user-attachments/assets/f0dc5214-5063-43f5-830a-3bfcea67b5d4">
+    - <img  width="40%" src="https://github.com/user-attachments/assets/f0dc5214-5063-43f5-830a-3bfcea67b5d4">
 - <img  width="60%" src="https://github.com/user-attachments/assets/46fe62e4-6938-4e6e-89cf-d78fe569325a">
 Get stuck in Stack’O’Bot, a small sandbox project that showcases a lean player controller, an expandable interaction system, and modular pieces you can build on. It also shows all the new features of Unreal Engine 5 in a practical vertical slice.https://www.unrealengine.com/marketplace/en-US/product/stack-o-bot
 -  <img  width="60%" src="https://github.com/user-attachments/assets/00932008-981c-4031-88ea-493a1fd04802">
@@ -215,7 +215,7 @@ Explore the lush environment of the GDC SoU Electric Dreams demo, created with t
 This downloadable project reveals how the city scene from The Matrix Awakens: An Unreal Engine 5 Experience was built and demonstrates how we used Unreal Engine 5 to bring it to life. https://www.unrealengine.com/marketplace/en-US/product/city-sample
 - https://github.com/KARNB24/Astral-Warfare Welcome to Astral Warfare: Quantum Reckoning, an action-packed game developed on Unreal Engine 5.3.2
 - A template that can be used to start projects that will use some new features that come with Unreal Engine 5 as well as powerful existing features like the GAS and others. https://github.com/lucoiso/UEProject_Elementus
-    - <img width="30%" src="https://github.com/user-attachments/assets/94601421-3436-4a0b-906d-7c8c3528d6d4">
+    - <img width="50%" src="https://github.com/user-attachments/assets/94601421-3436-4a0b-906d-7c8c3528d6d4">
 - Ultimate Starter Kit plugin to speed up development of Unreal Engine games
     - https://github.com/hfjooste/UltimateStarterKit
     - https://hfjooste.github.io/UltimateStarterKit/
