@@ -7,9 +7,14 @@
 > Verse, and UEFN and Fortnite and UE5 with a convergence of the tech upcoming in UE6
 > This started as a collection of all the information and links about Epic's Verse programming language, but since Verse is expected to converge into the general Unreal codebase in 2024 or 2025 the scope > of information found here will expand to be more useful to everyone in the Unreal Universe with the addition of information on Fortnite as well as the traditional Unreal UE5 ecosystem
 
-General Unreal News - https://www.unrealengine.com/en-US/feed
+
+- General Unreal News - https://www.unrealengine.com/en-US/feed
 
 ### This Document
+
+> [!NOTE]
+> Most of the various UNREAL lists of projects point to a large number of old unmaintained projects. The extent of "CURATION" here is to eliminate things that won't work with Unreal 5.4, 5.5 and 6.0 and focus on the interesting and useful.
+> 
 
 The document is organized by categories of 
 - Unreal Programming Languages
