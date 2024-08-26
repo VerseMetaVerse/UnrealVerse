@@ -453,6 +453,9 @@ Stream your Xsens data live to Unreal <img width="50%" src="https://github.com/u
 
 # $${\color{cyan}GREEBLE}$$
 
+> [!TIP]
+> Greeble makes your scene or setting appear more realistic with a natural scatter of loose unknown material that makes up a percentage of any real environment.
+> 
 - TBD
 
 # $${\color{cyan}NPC-AI}$$
