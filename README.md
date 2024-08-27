@@ -436,6 +436,8 @@ Tools that help make Blueprints
 
 ## $${\color{myellow}C++}$$ $${\color{teal}LEARNING}$$
 
+- $${\color{teal}Unreal}$$ $${\color{yellow}C++}$$ $${\color{teal}Code}$$ $${\color{teal}Academy}$$  which will introduce you to coding in Unreal Engine 5 covering all the essential skills to get up and running with C++ including Class Hierarchy 🪜, the relationship between Blueprints and C++ 🤝, syntax and best practices 🧑‍💻, memory management with pointers and references 💾,  custom components ⚙️,  debugging in Visual Studio 🛠️, and much more... https://www.unrealsenseicourses.com/courses/unreal-c-code-academy from UNREALSENSEI https://www.unrealsensei.com
+
 # $${\color{cyan}SPECIFIC-TOPICS}$$
 
 # $${\color{cyan}MOCAP}$$
