@@ -434,6 +434,16 @@ Tools that help make Blueprints
 
 ## $${\color{blue}BLUEPRINT}$$ $${\color{teal}LEARNING}$$
 
+### $${\color{teal}UNREALSENSEI}$$
+- UNREAL ESSENTIALS Everything you need to master Unreal Engine effectively. This course covers the essentials of Unreal.  https://www.unrealsenseicourses.com/courses/unreal-masterclass
+- GAME FROM SCRATCH The complete game creation course that covers the entire process to creating a game, from prototyping to uploading it online. https://www.unrealsenseicourses.com/courses/full-game-creation
+- UNREAL FILMMAKER Learn to create a full short film from the ground up with virtual production. Create cinematics for render or in game cutscenes. https://www.unrealsenseicourses.com/courses/unreal-filmmaker
+- ADVANCED LIGHTING Goes over the essential techniques to getting realistic lighting. A comprehensive guide to lighting in Unreal covering every method. https://www.unrealsenseicourses.com/courses/advance-lighting
+- ADVANCED MATERIALS This course walks through the process of creating an automatic landscape material from scratch. https://www.unrealsenseicourses.com/courses/advance-landscapes
+- UNREAL GAME DEVELOPER In this advance course we will take our game development skills to the next level covering advance topics like user interfaces, AI, save games, enemy logic and more. https://www.unrealsenseicourses.com/courses/unreal-game-developer
+- VIRTUAL REALITY A comprehensive overview of virtual reality in UE5 including how to create environments and characters for VR. https://www.unrealsenseicourses.com/courses/virtual-reality
+
+
 ## $${\color{yellow}C++}$$ $${\color{teal}LEARNING}$$
 
 - $${\color{teal}Unreal}$$ $${\color{yellow}C++}$$ $${\color{teal}Code}$$ $${\color{teal}Academy}$$  which will introduce you to coding in Unreal Engine 5 covering all the essential skills to get up and running with C++ including Class Hierarchy 🪜, the relationship between Blueprints and C++ 🤝, syntax and best practices 🧑‍💻, memory management with pointers and references 💾,  custom components ⚙️,  debugging in Visual Studio 🛠️, and much more... https://www.unrealsenseicourses.com/courses/unreal-c-code-academy from UNREALSENSEI https://www.unrealsensei.com
