@@ -435,6 +435,7 @@ Tools that help make Blueprints
 ## $${\color{blue}BLUEPRINT}$$ $${\color{teal}LEARNING}$$
 
 ### $${\color{teal}UNREALSENSEI}$$
+- https://www.unrealsensei.com
 - UNREAL ESSENTIALS Everything you need to master Unreal Engine effectively. This course covers the essentials of Unreal.  https://www.unrealsenseicourses.com/courses/unreal-masterclass
 - GAME FROM SCRATCH The complete game creation course that covers the entire process to creating a game, from prototyping to uploading it online. https://www.unrealsenseicourses.com/courses/full-game-creation
 - UNREAL FILMMAKER Learn to create a full short film from the ground up with virtual production. Create cinematics for render or in game cutscenes. https://www.unrealsenseicourses.com/courses/unreal-filmmaker
@@ -452,7 +453,11 @@ Tools that help make Blueprints
 
 # $${\color{cyan}MELEE}$$
 
-- TBD
+- soulslike melee combat system on unreal by blueprint (Unreal 5.1) https://github.com/georgehuan1994/Unreal-Melee-Combat-System
+    -  ![image](https://github.com/user-attachments/assets/2f250488-341a-4e9a-814d-e2d765f83df0)
+- Beat'em up / melee combat system build in Unreal engine 5 and this project all so uses Gameplay ability system https://github.com/vishwah13/UE5_MeleeCombat_System
+    - ![image](https://github.com/user-attachments/assets/fa775eea-6078-4a54-b7ca-953c02818678)
+   
 
 # $${\color{cyan}MOCAP}$$
 
