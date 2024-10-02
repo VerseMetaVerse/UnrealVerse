@@ -10,6 +10,10 @@
 
 - General Unreal News - https://www.unrealengine.com/en-US/feed
 
+> [!NOTE]
+> I can't believe it has been 2 months since the last update. This document is about 1/5 of the way to where I want it so incoming: more frequent updates
+>  
+
 ### This Document
 
 > [!NOTE]
