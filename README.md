@@ -16,6 +16,7 @@
 
 > [!TIP]
 > WHATS NEW:
+> BLACK FRIDAY is active at FAB.COM - **wishlist** has gone missing so finding your favs will be a challenge
 > FAB.COM has replaced the Unreal Marketplace and it is a horrible sad replacement that is hard to navigate and make sense of for the PRIMARY PRIORITY of being useful to Unreal Developers. I will expand the FAB.COM section as we journey together to make sense out of that mess
 
 
