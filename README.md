@@ -10,13 +10,10 @@
 
 - General Unreal News - https://www.unrealengine.com/en-US/feed
 
-> [!NOTE]
-> I can't believe it has been 2 months since the last update. This document is about 1/5 of the way to where I want it so incoming: more frequent updates
-
 
 > [!TIP]
 > WHATS NEW:
-> BLACK FRIDAY is active at FAB.COM - **wishlist** has gone missing so finding your favs will be a challenge
+> The Fabulous DISASTER of Fabulous BLACK FRIDAY is **OVER** at FAB.COM - Sign the petition to kick FAB OUT to a galaxy far far away here: https://www.change.org/p/bring-back-unreal-engine-marketplace - **wishlist** has gone missing so finding your favs will be a challenge - 
 > FAB.COM has replaced the Unreal Marketplace and it is a horrible sad replacement that is hard to navigate and make sense of for the PRIMARY PRIORITY of being useful to Unreal Developers. I will expand the FAB.COM section as we journey together to make sense out of that mess
 
 
