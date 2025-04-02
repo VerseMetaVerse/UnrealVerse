@@ -13,8 +13,8 @@
 
 > [!TIP]
 > WHATS NEW:
-> FAB.COM is now attempting a Fabulous Winter Sale afterthe Fabulous DISASTER of Fabulous BLACK FRIDAY. "Epic Games CEO Apologizes For the State of Fab at Launch" - https://80.lv/articles/epic-games-ceo-apologizes-for-the-state-of-fab-at-launch/ - Sign the petition to kick FAB OUT to a galaxy far far away here: https://www.change.org/p/bring-back-unreal-engine-marketplace - **wishlist** has gone missing so finding your favs will be a challenge - 
-> FAB.COM has replaced the Unreal Marketplace and it is a horrible sad replacement that is hard to navigate and make sense of for the PRIMARY PRIORITY of being useful to Unreal Developers. I will expand the FAB.COM section as we journey together to make sense out of that mess
+> "Epic Games CEO Apologizes For the State of Fab at Launch" - https://80.lv/articles/epic-games-ceo-apologizes-for-the-state-of-fab-at-launch/ - **wishlist** is back! -  
+> FAB.COM has replaced the Unreal Marketplace and it is an improving replacement that is hard to navigate and make sense of for the PRIMARY PRIORITY of being useful to Unreal Developers. I will expand the FAB.COM section as we journey together to make sense out of that
 
 
 ### This Document
@@ -44,6 +44,41 @@ There is also a "Type of Interest" set of categories that I hope to feature with
 - Samples, Examples and Full Featured Code
 - 3D and 2D Assets, both OSS/Free and recommended commercial
 - Pointers to other collections of Game Development info
+
+# Water
+
+- https://www.fab.com/listings/90266972-0597-4404-a54a-8c0b7e00a005 Fluid Ninja VFX Tools
+- https://www.fab.com/listings/1b9fefb2-9a94-4eca-86b0-9b0a55cde44f Ninja Player
+- https://www.fab.com/listings/80fcf53e-49f7-4635-a71c-ba81280c6618 Fluid Ninja LIVE
+- https://www.fab.com/listings/1ef97340-350f-401f-9ff4-128025dd8add Water Interact System
+- https://www.fab.com/listings/8d568170-f472-4e0d-9abb-a3984916eacd Customizable Water
+- https://www.fab.com/listings/e2e98dd4-24e5-4076-802d-e4783b76b25a Advanced Water Material
+- https://www.fab.com/listings/f169c944-5d4d-499b-a305-7518eb62d09b Physical Water Surface
+- https://www.fab.com/listings/063155ea-d9d2-4f29-b09f-33270b0bc861 Water Materials
+- https://www.fab.com/listings/9e744b5c-a8c7-416e-93a3-9c9e4b4ceea5 Advanced Water Materials
+- https://www.fab.com/listings/147c38ae-f70f-4bd3-bceb-a25e110d63a8 Versatile Water
+- https://www.fab.com/listings/873259b1-9525-49bf-8dcd-1ecf7e742746 Water Environment Essentials
+- https://www.fab.com/listings/b0c92d57-d0d4-4477-a957-2cdb205d6ec1 Water Master Material
+- https://www.fab.com/listings/d6355850-4bff-41e3-9e65-5403bb0a2e6b Water Planes (Epic)
+- https://www.fab.com/listings/da76d0bc-14e2-4870-b520-ed9b517ac554 Water BP/Caustics/Foam/Tide
+- https://www.fab.com/listings/9104e526-86b0-4f6c-97f8-9f1cee8fb73d Substrate Water Material
+- https://www.fab.com/listings/b6c34e0d-03c2-413c-82ca-5fbc09130dc2 Ultimate Water Shader UE4 and 5
+- https://www.fab.com/listings/081a1b36-a260-4347-a497-e04c26a63338 PCG Biome: River Generator (Interactive Foliage, Tree, Water, Wind System)
+- https://www.fab.com/listings/27509213-0065-4b54-a32d-ed6230236174 Master Water Material Pack
+- https://www.fab.com/listings/a6e3600e-5340-413f-8335-1db82b4ade00 Moving Water Material Pack
+- https://www.fab.com/listings/ea195c94-00af-43fb-bb1d-85a478320a27 Planetary Oceans
+- https://www.fab.com/listings/196c70cd-1283-4249-bf6b-c3019d1cbe11 Fluid Flux
+- https://www.fab.com/listings/6b1da7cd-935b-4d11-9ef4-24286aaa812a Aquatic Surface
+- https://www.fab.com/listings/57edaa8e-8d6c-4df2-a575-a86f2dde4348 Nulled Fluid
+- https://www.fab.com/listings/c8b643d2-1926-4ea8-a338-76bcefcca42f Interactive Water, Ocean and Swim Systems
+- https://www.fab.com/listings/07866d89-b250-4366-b29a-6dd5d1d27f0d 3D Alembic Ocean Surfaces
+- https://www.fab.com/listings/36933ae4-eb48-4395-951b-6357e0ff2c17 Riverology
+- https://www.fab.com/listings/87c9af41-62b7-4e70-98e3-fc72eff016ab Oceanology NextGen
+- https://www.fab.com/listings/798b269a-b760-42c5-9c2c-8e11d723d5be UIWS - Unified Interactive Water System
+- https://www.fab.com/listings/ee4bcbaf-36ea-4dd9-aade-068e1a8a4794 Shader World Plugin : Procedural Terrain, Oceans, Foliage, GPU-accelerated
+- https://www.fab.com/listings/5c388cfc-3a40-492a-87dd-88bcb0bd0682 SHADERSOURCE - Tropical Ocean Tool
+
+
 
 # Epic Games
 
