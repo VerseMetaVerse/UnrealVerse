@@ -48,7 +48,6 @@ There is also a "Type of Interest" set of categories that I hope to feature with
 # Water
 
 - https://www.fab.com/listings/90266972-0597-4404-a54a-8c0b7e00a005 Fluid Ninja VFX Tools
-- https://www.fab.com/listings/1b9fefb2-9a94-4eca-86b0-9b0a55cde44f Ninja Player
 - https://www.fab.com/listings/80fcf53e-49f7-4635-a71c-ba81280c6618 Fluid Ninja LIVE
 - https://www.fab.com/listings/1ef97340-350f-401f-9ff4-128025dd8add Water Interact System
 - https://www.fab.com/listings/8d568170-f472-4e0d-9abb-a3984916eacd Customizable Water
