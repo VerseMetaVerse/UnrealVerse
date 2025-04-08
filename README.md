@@ -47,6 +47,8 @@ There is also a "Type of Interest" set of categories that I hope to feature with
 
 # Water
 
+(Temp location)
+
 - https://www.fab.com/listings/90266972-0597-4404-a54a-8c0b7e00a005 Fluid Ninja VFX Tools
 - https://www.fab.com/listings/80fcf53e-49f7-4635-a71c-ba81280c6618 Fluid Ninja LIVE
 - https://www.fab.com/listings/1ef97340-350f-401f-9ff4-128025dd8add Water Interact System
@@ -77,7 +79,57 @@ There is also a "Type of Interest" set of categories that I hope to feature with
 - https://www.fab.com/listings/ee4bcbaf-36ea-4dd9-aade-068e1a8a4794 Shader World Plugin : Procedural Terrain, Oceans, Foliage, GPU-accelerated
 - https://www.fab.com/listings/5c388cfc-3a40-492a-87dd-88bcb0bd0682 SHADERSOURCE - Tropical Ocean Tool
 
+# Geometry Script
 
+(Temp location)
+
+- https://www.youtube.com/watch?v=gNKVGbwfX4c Geometry Scripting and Scriptable Tools | Unreal Fest 2024
+- https://www.youtube.com/watch?v=pEC3krOwcbM Modeling and Geometry Scripting in UE: Past, Present, and Future | Unreal Fest 2022
+- https://www.youtube.com/watch?v=6adlrBQbcd8 How to make a Custom Geometry Script Node in C++
+- https://www.youtube.com/watch?v=_FjSoZ65VH8 PCG + Geometry Script in UE 5.5 - Wall Generator Tutorial
+- https://www.youtube.com/watch?v=nui4QfDeG-Q Unreal Engine 5.3 - Building Generation With Geometry/Construction Script
+- https://www.youtube.com/watch?v=dLgSjATBpUk Procedural Modeling with Unreal 5 - Ch 12 Geometry scripting 5
+- https://www.youtube.com/watch?v=nW4dHuEFbQ4 Introduction to Dynamic Mesh and Geometry Script in Unreal Engine
+- https://www.youtube.com/watch?v=nEi5P9mcEb4 UE5: Building Structures - #11 Our First GEOMETRY SCRIPT
+- https://www.youtube.com/watch?v=WVVLgxyvHnc Unreal Engine - Buildings geometry script
+- https://www.youtube.com/watch?v=Y70rxO0Q2J8 3 Ways to Scatter PCG Points on a MESH in Unreal Engine 5
+- https://www.youtube.com/watch?v=HAqlCz4zjL4 Geometry Scripting - Pipe Tool Experiment - Unreal 5.3
+- https://www.youtube.com/watch?v=uzB1h3s4rzM Unreal Engine 5.5 Advanced PCG Grammar Tutorial - Tile-by-Tile Building Roof Generation
+- https://www.youtube.com/watch?v=cozvYmvRjeM Unreal Engine 5.5 - Advanced Tutorial - Make Dynamic Mesh Inside PCG With Geometry Script
+- https://www.youtube.com/watch?v=LMQDCEiLaQY Introduction to PCG Workflows in Unreal Engine 5 | Unreal Fest 2023
+- https://www.youtube.com/watch?v=gDso9X4HgLA Introduction to Geometry Scripting | Unreal Fest 2022
+- https://www.youtube.com/watch?v=yJJJv9X_dmk PCG Grammar - Greatest Update in 5.5 PCG
+- https://www.youtube.com/watch?v=FW5U_IsV3Pw Streamlining Indoor Environment Creation with PCG and Geometry Script in UE5 | Unreal Fest 2024
+
+# Scriptable Tools
+
+(Temp location)
+
+- https://www.youtube.com/watch?v=peWMnWb7jAw&t=115s Create Game-Changing Tools - UE 5.2 Scriptable Tools Tutorial
+- https://www.youtube.com/watch?v=0-DcPwR4CI0 Unreal Engine 5.2 - Scriptable Tools Introduction (Physics Scattering)
+- https://www.youtube.com/watch?v=m6mJ9r7ytks Accelerating Your In-Editor Workflows with Editor Utilities | GDC 2024
+- https://www.youtube.com/watch?v=xWxtxS2jADo Editor Scriptable Tools: Basic Tools UE5.2
+- https://www.youtube.com/watch?v=ovpiYkYFlPM Extending the Editor: Making the Most of Unreal Engine’s Existing Framework | Unreal Fest 2024
+
+# Modeling Mode
+
+(Temp location)
+
+- https://dev.epicgames.com/documentation/en-us/unreal-engine/modeling-mode-in-unreal-engine Modeling Mode Overview
+- https://www.unrealengine.com/en-US/tech-blog/unreal-engine-5-s-modeling-mode-takes-shape Unreal modeling mode takes shape
+- https://dev.epicgames.com/documentation/en-us/unreal-engine/modeling-mode-quick-start-in-unreal-engine Modeling Mode Quick Start
+- https://dev.epicgames.com/documentation/en-us/unreal-engine/polygroup-edit-tool-in-unreal-engine PolyGroup Edit
+- https://www.youtube.com/watch?v=Q5BptQrJ0OY The Five Most Useful Features of Modeling Mode - Unreal Engine 5
+- https://www.youtube.com/watch?v=Tf5tuWDTAUo UE5: Using Modeling Mode like BSP Brushes - BEST & FASTEST Way to Blockout Environments in UE5
+- https://www.youtube.com/watch?v=4lSFCVRhd9Y Unreal Engine 5 Tutorial - Modelling Mode: Material Attributes
+- https://www.youtube.com/watch?v=9yvzKFQq8To Learn how to Model inside Unreal Engine 5.5
+- https://www.youtube.com/watch?v=9InU0xbX7l0 Unreal Engine 5 Beginner Modeling Tutorial - Learn to Model Inside Unreal!
+- https://www.youtube.com/watch?v=WhGmxL7RMhE UE5 Modeling Mode - SubDiv Tool
+- https://www.youtube.com/watch?v=NZYxf2IbL5E Modeling Tools in UNREAL Engine 5.4 Part 1
+- https://www.youtube.com/watch?v=nXOwczODahY Unreal Engine 5 Beginner Tutorial Part 3: Modelling Tools Basics
+- https://www.youtube.com/watch?v=ZNVtz0Z2fwA UE5 Modeling Mode - Dynamic Mesh Actors
+- https://www.youtube.com/watch?v=aLCMmfTmFWY Unreal Engine 5 Modelling Tools Tutorial - Learn How To Create Models
+- https://www.youtube.com/watch?v=JgPU9A4nJWY&list=PLnogvUVeY_MiBAT0oE8GrXEJ7dRZT0hlG UE5.1 PolyEd Modeling Part 1 - Selection
 
 # Epic Games
 
