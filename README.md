@@ -981,6 +981,7 @@ IKEA wants to pay real people to work in its new store inside Roblox game - http
     - Gamedev https://github.com/FronkonGames/Awesome-Gamedev
 - <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/3b84e5aa-10f8-454d-b3ae-2ee0c1db23bd" width="50%">
     - https://github.com/ellisonleao/magictools
+    - https://respawnstack.com — Free directory of pricing, commercial-use and ownership terms for AI game-dev tools
 - <img src="https://github.com/VerseMetaVerse/UnrealVerse/assets/17344588/7bf909f9-0dba-45ba-b8d9-d866aef886f7" width="50%">
     - A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone. https://github.com/agmmnn/awesome-blender
 - <img src="https://github.com/user-attachments/assets/f2438242-ee8c-40e8-a6cb-dad4f069cae1" width="50%"> Curated List of Multiplayer Game Network Programming Resources https://github.com/ThusSpokeNomad/GameNetworkingResources
